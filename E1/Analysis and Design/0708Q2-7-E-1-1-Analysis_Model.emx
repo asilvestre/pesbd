@@ -5090,6 +5090,14 @@
         </packagedElement>
       </packagedElement>
     </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_p5vZUBViEd21MP10x4vL5g" name="Realització de Casos d'Ús">
+      <eAnnotations xmi:id="_p5vZURViEd21MP10x4vL5g" source="uml2.diagrams">
+        <contents xmi:type="notation:Diagram" xmi:id="_sm48EBViEd21MP10x4vL5g" type="Class" name="VOPC Demanar Pressupost Comanda">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_sm48ERViEd21MP10x4vL5g"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_s_8F0AL5Ed2lfv9RCokvzA" name="Sistema d'Entrega i Recepció">
     <eAnnotations xmi:id="_tAF20AL5Ed2lfv9RCokvzA" source="uml2.diagrams"/>
