@@ -6035,6 +6035,28 @@
       </contents>
     </eAnnotations>
   </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_itxOsBrwEd2EPIsdp1UHFw" memberEnd="_itxOsRrwEd2EPIsdp1UHFw _it6_shrwEd2EPIsdp1UHFw" navigableOwnedEnd="_itxOsRrwEd2EPIsdp1UHFw">
+    <ownedEnd xmi:id="_itxOsRrwEd2EPIsdp1UHFw" name="pantallademanarpressupostcomanda" visibility="private" association="_itxOsBrwEd2EPIsdp1UHFw">
+      <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Analysis%20Model/Realitzacions%20de%20casos%20d'ús/Demanar%20Pressupost%20Comanda/PantallaDemanarPressupostComanda?"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_it6_sRrwEd2EPIsdp1UHFw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_it6_sBrwEd2EPIsdp1UHFw"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_it6_shrwEd2EPIsdp1UHFw" name="" visibility="private" type="_YsGoUPl5EdylvdL-IIbDug" association="_itxOsBrwEd2EPIsdp1UHFw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_it6_tBrwEd2EPIsdp1UHFw" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_it6_sxrwEd2EPIsdp1UHFw"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_lOZ_cBrwEd2EPIsdp1UHFw" memberEnd="_lOZ_cRrwEd2EPIsdp1UHFw _lOjwcBrwEd2EPIsdp1UHFw" navigableOwnedEnd="_lOZ_cRrwEd2EPIsdp1UHFw">
+    <ownedEnd xmi:id="_lOZ_cRrwEd2EPIsdp1UHFw" name="pantallademanarpressupostcomanda" visibility="private" association="_lOZ_cBrwEd2EPIsdp1UHFw">
+      <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Analysis%20Model/Realitzacions%20de%20casos%20d'ús/Demanar%20Pressupost%20Comanda/PantallaDemanarPressupostComanda?"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_lOZ_cxrwEd2EPIsdp1UHFw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_lOZ_chrwEd2EPIsdp1UHFw"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_lOjwcBrwEd2EPIsdp1UHFw" name="" visibility="private" type="_5XA_AOnFEdyVi_xoU05qOw" association="_lOZ_cBrwEd2EPIsdp1UHFw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_lOjwchrwEd2EPIsdp1UHFw" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_lOjwcRrwEd2EPIsdp1UHFw"/>
+    </ownedEnd>
+  </packagedElement>
   <profileApplication xmi:id="_EpRy5enFEdyVi_xoU05qOw">
     <eAnnotations xmi:id="_EpRy5unFEdyVi_xoU05qOw" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
