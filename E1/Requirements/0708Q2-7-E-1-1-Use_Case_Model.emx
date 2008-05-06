@@ -5967,6 +5967,28 @@
       <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_lOjwcRrwEd2EPIsdp1UHFw"/>
     </ownedEnd>
   </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_8lJJMBucEd2mCeylmSB6jg" memberEnd="_8lJJMRucEd2mCeylmSB6jg _8lSTIhucEd2mCeylmSB6jg" navigableOwnedEnd="_8lJJMRucEd2mCeylmSB6jg">
+    <ownedEnd xmi:id="_8lJJMRucEd2mCeylmSB6jg" name="pantallaresultatdemanarpressupost" visibility="private" association="_8lJJMBucEd2mCeylmSB6jg">
+      <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_rOPLkBtLEd2NEcGCsxdGog?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/PantallaResultatDemanarPressupost?"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8lSTIRucEd2mCeylmSB6jg" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8lSTIBucEd2mCeylmSB6jg"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_8lSTIhucEd2mCeylmSB6jg" name="" visibility="private" type="_YsGoUPl5EdylvdL-IIbDug" association="_8lJJMBucEd2mCeylmSB6jg">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8lSTJBucEd2mCeylmSB6jg" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8lSTIxucEd2mCeylmSB6jg"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_9FCKMBucEd2mCeylmSB6jg" memberEnd="_9FCKMRucEd2mCeylmSB6jg _9FLUIRucEd2mCeylmSB6jg" navigableOwnedEnd="_9FCKMRucEd2mCeylmSB6jg">
+    <ownedEnd xmi:id="_9FCKMRucEd2mCeylmSB6jg" name="pantallaresultatdemanarpressupost" visibility="private" association="_9FCKMBucEd2mCeylmSB6jg">
+      <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_rOPLkBtLEd2NEcGCsxdGog?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/PantallaResultatDemanarPressupost?"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_9FLUIBucEd2mCeylmSB6jg" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_9FCKMhucEd2mCeylmSB6jg"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_9FLUIRucEd2mCeylmSB6jg" name="" visibility="private" type="_5XA_AOnFEdyVi_xoU05qOw" association="_9FCKMBucEd2mCeylmSB6jg">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_9FLUIxucEd2mCeylmSB6jg" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_9FLUIhucEd2mCeylmSB6jg"/>
+    </ownedEnd>
+  </packagedElement>
   <profileApplication xmi:id="_EpRy5enFEdyVi_xoU05qOw">
     <eAnnotations xmi:id="_EpRy5unFEdyVi_xoU05qOw" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
