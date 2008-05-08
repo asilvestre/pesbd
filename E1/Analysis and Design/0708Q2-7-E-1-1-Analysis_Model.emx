@@ -6982,7 +6982,7 @@
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_TuzDwRxKEd2UYq9io2Oudg" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_TuzDwhxKEd2UYq9io2Oudg" points="[0, 0, 305, 0]$[-305, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_TuzDxxxKEd2UYq9io2Oudg" id="469:740"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_TuzDxxxKEd2UYq9io2Oudg" id="469:555"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_TuzDyBxKEd2UYq9io2Oudg" id="493:0"/>
                 </edges>
                 <edges xmi:id="_e-hEhRxKEd2UYq9io2Oudg" element="_e-hEgBxKEd2UYq9io2Oudg" source="_NqxRMBtMEd2NEcGCsxdGog" target="_kEQ7YBtPEd2NEcGCsxdGog">
