@@ -7195,6 +7195,26 @@
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_e-hEghxKEd2UYq9io2Oudg" name="Eventodeoperacióndeenvío26"/>
         <packagedElement xmi:type="uml:CreationEvent" xmi:id="_e-hEhBxKEd2UYq9io2Oudg" name="Eventodecreación6"/>
       </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="_BWGacBzUEd2HAdWNX_bjLg" name="Cancel lar comanda">
+        <eAnnotations xmi:id="_BWGacRzUEd2HAdWNX_bjLg" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Collaboration" xmi:id="_Dq0PEBzUEd2HAdWNX_bjLg" name="Colaboración1">
+          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_Dq-AEBzUEd2HAdWNX_bjLg" name="Interacción1">
+            <eAnnotations xmi:id="_Dq-AERzUEd2HAdWNX_bjLg" source="uml2.diagrams">
+              <contents xmi:type="notation:Diagram" xmi:id="_Dq-AEhzUEd2HAdWNX_bjLg" type="Sequence" element="_Dq-AEBzUEd2HAdWNX_bjLg" name="Cancel lar comanda" measurementUnit="Himetric">
+                <children xmi:id="_Dq-AExzUEd2HAdWNX_bjLg" element="_Dq-AEBzUEd2HAdWNX_bjLg">
+                  <children xmi:id="_Dq-AFBzUEd2HAdWNX_bjLg" type="interaction_compartment">
+                    <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_Dq-AFRzUEd2HAdWNX_bjLg"/>
+                  </children>
+                  <children xmi:id="_Dq-AFhzUEd2HAdWNX_bjLg" type="Name"/>
+                  <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Dq-AFxzUEd2HAdWNX_bjLg" showStereotype="Label"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Dq-AGBzUEd2HAdWNX_bjLg" x="793" y="793"/>
+                </children>
+                <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_Dq-AGRzUEd2HAdWNX_bjLg"/>
+              </contents>
+            </eAnnotations>
+          </ownedBehavior>
+        </packagedElement>
+      </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_t14u0BtBEd2NEcGCsxdGog" memberEnd="_t2Cf0BtBEd2NEcGCsxdGog _t2Cf0xtBEd2NEcGCsxdGog">
       <ownedEnd xmi:id="_t2Cf0xtBEd2NEcGCsxdGog" name="" visibility="private" type="_t9loABruEd2EPIsdp1UHFw" association="_t14u0BtBEd2NEcGCsxdGog">
