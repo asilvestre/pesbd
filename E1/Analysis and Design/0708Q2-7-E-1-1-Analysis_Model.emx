@@ -4963,101 +4963,20 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_pjGykAL5Ed2lfv9RCokvzA" name="Gestió de Comandes i Contractes">
       <eAnnotations xmi:id="_pjGykQL5Ed2lfv9RCokvzA" source="uml2.diagrams"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_t9loABruEd2EPIsdp1UHFw" name="ControladorDPC">
-        <ownedAttribute xmi:id="_r9ftoRrwEd2EPIsdp1UHFw" name="comanda" visibility="private" association="_r9ftoBrwEd2EPIsdp1UHFw">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_r9peoRrwEd2EPIsdp1UHFw" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_r9peoBrwEd2EPIsdp1UHFw"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_tA2oERrwEd2EPIsdp1UHFw" name="embalum" visibility="private" association="_tA2oEBrwEd2EPIsdp1UHFw">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_tA2oExrwEd2EPIsdp1UHFw" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_tA2oEhrwEd2EPIsdp1UHFw"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_ALXVIBrxEd2EPIsdp1UHFw" name="tipusproducte" visibility="private" association="_ALNkIBrxEd2EPIsdp1UHFw">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ALXVIhrxEd2EPIsdp1UHFw" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ALXVIRrxEd2EPIsdp1UHFw"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_C_0ZwRrxEd2EPIsdp1UHFw" name="tipusembalum" visibility="private" association="_C_0ZwBrxEd2EPIsdp1UHFw">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_C_0ZwxrxEd2EPIsdp1UHFw" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_C_0ZwhrxEd2EPIsdp1UHFw"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_O0rScRryEd2EPIsdp1UHFw" name="client" visibility="private" association="_O0rScBryEd2EPIsdp1UHFw">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_O0rScxryEd2EPIsdp1UHFw" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_O0rSchryEd2EPIsdp1UHFw"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_c2M6kBtBEd2NEcGCsxdGog" name="tipus embalum" visibility="private" type="_D2olgP8wEdy9otTkNyh1Pw" association="_c2DJkBtBEd2NEcGCsxdGog">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_c2WrkRtBEd2NEcGCsxdGog" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_c2WrkBtBEd2NEcGCsxdGog"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_gla-URtBEd2NEcGCsxdGog" name="comanda2" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_gla-UBtBEd2NEcGCsxdGog">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gla-UxtBEd2NEcGCsxdGog" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gla-UhtBEd2NEcGCsxdGog"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_kJLY8RtBEd2NEcGCsxdGog" name="embalum comanda" visibility="private" type="_w_LbkADVEd28FtcncL3_MQ" association="_kJLY8BtBEd2NEcGCsxdGog">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_kJVJ8RtBEd2NEcGCsxdGog" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_kJVJ8BtBEd2NEcGCsxdGog"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_p9bPgBtBEd2NEcGCsxdGog" name="tipus producte" visibility="private" type="_bS2yEPnPEdyli_XzYLJ9YQ" association="_p9SFkBtBEd2NEcGCsxdGog">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_p9bPghtBEd2NEcGCsxdGog" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_p9bPgRtBEd2NEcGCsxdGog"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_t2Cf0BtBEd2NEcGCsxdGog" name="client2" visibility="private" type="_y_7_UPm3Edyli_XzYLJ9YQ" association="_t14u0BtBEd2NEcGCsxdGog">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_t2Cf0htBEd2NEcGCsxdGog" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_t2Cf0RtBEd2NEcGCsxdGog"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_OiAmwBtCEd2NEcGCsxdGog" name="peticio comanda" visibility="private" type="_vKpiUBtBEd2NEcGCsxdGog" association="_Oh21wBtCEd2NEcGCsxdGog">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_OiAmwhtCEd2NEcGCsxdGog" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_OiAmwRtCEd2NEcGCsxdGog"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_JY2ZERxJEd2UYq9io2Oudg" name="planificador" visibility="private" type="_S_YAsBxEEd2UYq9io2Oudg" association="_JY2ZEBxJEd2UYq9io2Oudg">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_JY2ZExxJEd2UYq9io2Oudg" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_JY2ZEhxJEd2UYq9io2Oudg"/>
-        </ownedAttribute>
-        <ownedOperation xmi:id="_FvS-gBtDEd2NEcGCsxdGog" name="RegistrarPeticio">
-          <ownedParameter xmi:id="_v-qYMBtMEd2NEcGCsxdGog" name="perRec">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_uePuUBtMEd2NEcGCsxdGog" name="perEntr">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_TW_mcBtHEd2NEcGCsxdGog" name="idClient">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_RHoL4BtHEd2NEcGCsxdGog" name="embalums" type="_asrQABtGEd2NEcGCsxdGog">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_TIFnwRtHEd2NEcGCsxdGog" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_TIFnwBtHEd2NEcGCsxdGog" value="1"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_Ojs2kBtHEd2NEcGCsxdGog" name="intFi" type="_IvSS0BtFEd2NEcGCsxdGog"/>
-          <ownedParameter xmi:id="_LLVzoBtHEd2NEcGCsxdGog" name="intIni" type="_IvSS0BtFEd2NEcGCsxdGog"/>
-          <ownedParameter xmi:id="_JZgCkBtHEd2NEcGCsxdGog" name="desti" type="_pZU8kBtEEd2NEcGCsxdGog"/>
-          <ownedParameter xmi:id="_HNSCoBtHEd2NEcGCsxdGog" name="origen" type="_pZU8kBtEEd2NEcGCsxdGog"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_zWsjoBtPEd2NEcGCsxdGog" name="GenerarPressupostos">
-          <ownedParameter xmi:id="_NM66wBtQEd2NEcGCsxdGog" name="infoPressupostos" type="_eW23MBtQEd2NEcGCsxdGog" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_yHQfkRtQEd2NEcGCsxdGog" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_yHQfkBtQEd2NEcGCsxdGog"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_mXP_wBtREd2NEcGCsxdGog" name="NotificaPeticioNoCalculable">
-          <ownedParameter xmi:id="_5qoUEBxFEd2UYq9io2Oudg" name="Peticio" type="_vKpiUBtBEd2NEcGCsxdGog"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_27kGoBtREd2NEcGCsxdGog" name="ConfirmaPressupost">
-          <ownedParameter xmi:id="_3xXGMBtREd2NEcGCsxdGog" name="idPressupost">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_ZsSSABruEd2EPIsdp1UHFw" name="PantallaEnregistrarPeticioComanda">
-        <ownedAttribute xmi:id="_qZ9eURrwEd2EPIsdp1UHFw" name="controladordemanarpressupostcomanda" visibility="private" type="_t9loABruEd2EPIsdp1UHFw" association="_qZ9eUBrwEd2EPIsdp1UHFw">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qZ9eUxrwEd2EPIsdp1UHFw" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qZ9eUhrwEd2EPIsdp1UHFw"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_-KLNURucEd2mCeylmSB6jg" name="pantallaresultatdemanarpressupost" visibility="private" type="_rOPLkBtLEd2NEcGCsxdGog" association="_-KLNUBucEd2mCeylmSB6jg">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_-KLNUxucEd2mCeylmSB6jg" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_-KLNUhucEd2mCeylmSB6jg"/>
-        </ownedAttribute>
-      </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_KhdEcP9AEdy9otTkNyh1Pw" name="Associacions">
         <eAnnotations xmi:id="_KhdEcf9AEdy9otTkNyh1Pw" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_t14u0BtBEd2NEcGCsxdGog" memberEnd="_t2Cf0BtBEd2NEcGCsxdGog _t2Cf0xtBEd2NEcGCsxdGog">
+          <ownedEnd xmi:id="_t2Cf0xtBEd2NEcGCsxdGog" name="" visibility="private" type="_t9loABruEd2EPIsdp1UHFw" association="_t14u0BtBEd2NEcGCsxdGog">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_t2Cf1RtBEd2NEcGCsxdGog" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_t2Cf1BtBEd2NEcGCsxdGog"/>
+          </ownedEnd>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_HBtXIB-tEd2wW57a2gCSYg" memberEnd="_HBtXIR-tEd2wW57a2gCSYg _HBtXJB-tEd2wW57a2gCSYg">
+          <ownedEnd xmi:id="_HBtXJB-tEd2wW57a2gCSYg" name="" visibility="private" type="_wKPFkB-rEd2wW57a2gCSYg" association="_HBtXIB-tEd2wW57a2gCSYg">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_HBtXJh-tEd2wW57a2gCSYg" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_HBtXJR-tEd2wW57a2gCSYg"/>
+          </ownedEnd>
+        </packagedElement>
         <packagedElement xmi:type="uml:Association" xmi:id="_JY2ZEBxJEd2UYq9io2Oudg" memberEnd="_JY2ZERxJEd2UYq9io2Oudg _JY2ZFBxJEd2UYq9io2Oudg">
           <ownedEnd xmi:id="_JY2ZFBxJEd2UYq9io2Oudg" name="" visibility="private" type="_t9loABruEd2EPIsdp1UHFw" association="_JY2ZEBxJEd2UYq9io2Oudg">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_JZAKERxJEd2UYq9io2Oudg" value="*"/>
@@ -5116,67 +5035,10 @@
           <packagedElement xmi:type="uml:Association" xmi:id="_-GakQP84Edy9otTkNyh1Pw" name="Data Cancelació" memberEnd="_-GakQf84Edy9otTkNyh1Pw _-GakQv84Edy9otTkNyh1Pw"/>
         </packagedElement>
       </packagedElement>
-      <packagedElement xmi:type="uml:Package" xmi:id="_GoKesP9AEdy9otTkNyh1Pw" name="Classes">
+      <packagedElement xmi:type="uml:Package" xmi:id="_GoKesP9AEdy9otTkNyh1Pw" name="Pendents">
         <eAnnotations xmi:id="_GoKesf9AEdy9otTkNyh1Pw" source="uml2.diagrams"/>
-        <packagedElement xmi:type="uml:Class" xmi:id="_bS2yEPnPEdyli_XzYLJ9YQ" name="Tipus Producte">
-          <ownedAttribute xmi:id="_m0phcP6JEdyd-_-MLeI04w" name="Nom" visibility="private">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_pwjR4P6JEdyd-_-MLeI04w" name="Caracteristiques" visibility="private">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_0dMVIAGGEd2Mc8RuQV3jMg" name="Pes" visibility="private"/>
-          <ownedAttribute xmi:id="_LL-xkQNFEd21DvGULe85wg" name="embalum comanda" visibility="private" type="_w_LbkADVEd28FtcncL3_MQ" association="_LL-xkANFEd21DvGULe85wg">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_M0luIQNFEd21DvGULe85wg" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_M0luIANFEd21DvGULe85wg"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_ssUp0gNHEd2llOXu5fsdpQ" name="tipus vehicle" visibility="private" type="_9KaO0AGEEd2Mc8RuQV3jMg" association="_ssUp0ANHEd2llOXu5fsdpQ">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_tygOwQNHEd2llOXu5fsdpQ" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_tygOwANHEd2llOXu5fsdpQ" value="1"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_I6HuIgO9Ed2gVZORqptsVA" name="condicions embalum" visibility="private" type="_SjUwUAGJEd2Mc8RuQV3jMg" association="_I6HuIAO9Ed2gVZORqptsVA">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_JsVOMQO9Ed2gVZORqptsVA" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_JsVOMAO9Ed2gVZORqptsVA"/>
-          </ownedAttribute>
-        </packagedElement>
-        <packagedElement xmi:type="uml:Class" xmi:id="_D2olgP8wEdy9otTkNyh1Pw" name="Tipus Embalum">
-          <ownedAttribute xmi:id="_HFd5AP8wEdy9otTkNyh1Pw" name="Nom" visibility="private">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_SM_GIP_XEdy3S9OQsgmyKQ" name="Quantitat de Productes" visibility="private"/>
-          <ownedAttribute xmi:id="_YNSXoADHEd2QtZHLkp5rnA" name="Fragilitat" visibility="private"/>
-          <ownedAttribute xmi:id="_yKQpMAGGEd2Mc8RuQV3jMg" name="Volum" visibility="private"/>
-          <ownedAttribute xmi:id="_ZIcDIQGJEd2Mc8RuQV3jMg" name="condicions embalum" visibility="private" type="_SjUwUAGJEd2Mc8RuQV3jMg" association="_ZISSIAGJEd2Mc8RuQV3jMg">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_f-XxgQM8Ed2UJPas6DJRJg" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_f-XxgAM8Ed2UJPas6DJRJg"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_LsUegQNFEd21DvGULe85wg" name="embalum comanda" visibility="private" type="_w_LbkADVEd28FtcncL3_MQ" association="_LsUegANFEd21DvGULe85wg">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_NM4SUQNFEd21DvGULe85wg" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NM4SUANFEd21DvGULe85wg"/>
-          </ownedAttribute>
-        </packagedElement>
         <packagedElement xmi:type="uml:Package" xmi:id="_-MAQgAO6Ed2gVZORqptsVA" name="Comanda">
           <eAnnotations xmi:id="_-MKBgAO6Ed2gVZORqptsVA" source="uml2.diagrams"/>
-          <packagedElement xmi:type="uml:Class" xmi:id="_vKpiUBtBEd2NEcGCsxdGog" name="Peticio Comanda">
-            <ownedOperation xmi:id="_W8pl4BtEEd2NEcGCsxdGog" name="CrearPeticio">
-              <ownedParameter xmi:id="_cbwLgBtHEd2NEcGCsxdGog" name="P" type="_vKpiUBtBEd2NEcGCsxdGog" direction="return"/>
-              <ownedParameter xmi:id="_s1uVgBtFEd2NEcGCsxdGog" name="intFi" type="_IvSS0BtFEd2NEcGCsxdGog"/>
-              <ownedParameter xmi:id="_pOnr8BtFEd2NEcGCsxdGog" name="intIni" type="_IvSS0BtFEd2NEcGCsxdGog"/>
-              <ownedParameter xmi:id="_DLy1EBtFEd2NEcGCsxdGog" name="desti" type="_pZU8kBtEEd2NEcGCsxdGog"/>
-              <ownedParameter xmi:id="_BbAz8BtFEd2NEcGCsxdGog" name="origen" type="_pZU8kBtEEd2NEcGCsxdGog"/>
-              <ownedParameter xmi:id="_gisTEBtEEd2NEcGCsxdGog" name="idClient">
-                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-              </ownedParameter>
-            </ownedOperation>
-            <ownedOperation xmi:id="_VNJS8BtLEd2NEcGCsxdGog" name="AfegirEmbalum">
-              <ownedParameter xmi:id="_Qm0WIBtNEd2NEcGCsxdGog" name="Embalum" type="_w_LbkADVEd28FtcncL3_MQ"/>
-            </ownedOperation>
-          </packagedElement>
-          <packagedElement xmi:type="uml:Class" xmi:id="_K2TeoP82Edy9otTkNyh1Pw" name="Pressupostada">
-            <generalization xmi:id="_W26JwP82Edy9otTkNyh1Pw" general="_2hI8UP81Edy9otTkNyh1Pw"/>
-            <ownedAttribute xmi:id="_ylVYof82Edy9otTkNyh1Pw" name="data" visibility="private" type="_Jz9AYPt-EdyQTa0fFLYTBQ" association="_ylVYoP82Edy9otTkNyh1Pw"/>
-            <ownedAttribute xmi:id="_EFTiUAJfEd2iV-WQu0z7XQ" name="Pendent Legalització?" visibility="private"/>
-          </packagedElement>
           <packagedElement xmi:type="uml:Class" xmi:id="_L46LIP82Edy9otTkNyh1Pw" name="Planificada">
             <generalization xmi:id="_XQ-2oP82Edy9otTkNyh1Pw" general="_2hI8UP81Edy9otTkNyh1Pw"/>
             <ownedAttribute xmi:id="_Fg8uEP83Edy9otTkNyh1Pw" name="data" visibility="private" type="_Jz9AYPt-EdyQTa0fFLYTBQ" association="_FgzkIP83Edy9otTkNyh1Pw"/>
@@ -5188,67 +5050,6 @@
           <packagedElement xmi:type="uml:Class" xmi:id="_Nc5tcP82Edy9otTkNyh1Pw" name="Entregada">
             <generalization xmi:id="_YXBRoP82Edy9otTkNyh1Pw" general="_2hI8UP81Edy9otTkNyh1Pw"/>
             <ownedAttribute xmi:id="_SLRrov83Edy9otTkNyh1Pw" name="data i hora" visibility="private" type="_rJqA0Pt-EdyQTa0fFLYTBQ" association="_SLRroP83Edy9otTkNyh1Pw"/>
-          </packagedElement>
-          <packagedElement xmi:type="uml:Class" xmi:id="_w_LbkADVEd28FtcncL3_MQ" name="Embalum Comanda">
-            <ownedAttribute xmi:id="_x42OgADVEd28FtcncL3_MQ" name="id" visibility="private"/>
-            <ownedAttribute xmi:id="_RH5rgQDWEd28FtcncL3_MQ" name="comanda" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_RHv6gADWEd28FtcncL3_MQ"/>
-            <ownedAttribute xmi:id="_hknt4QDcEd28FtcncL3_MQ" name="fita" visibility="private" type="_YC5s8Pm-Edyli_XzYLJ9YQ" association="_hknt4ADcEd28FtcncL3_MQ">
-              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_jsEikQDcEd28FtcncL3_MQ" value="*"/>
-              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_jsEikADcEd28FtcncL3_MQ"/>
-            </ownedAttribute>
-            <ownedAttribute xmi:id="_j9EvsQJgEd2iV-WQu0z7XQ" name="adreça" visibility="private" type="_1tSSAP57Edyd_P-MLeI04w" association="_j86-sAJgEd2iV-WQu0z7XQ"/>
-            <ownedAttribute xmi:id="_LL-xkgNFEd21DvGULe85wg" name="tipus producte" visibility="private" type="_bS2yEPnPEdyli_XzYLJ9YQ" association="_LL-xkANFEd21DvGULe85wg"/>
-            <ownedAttribute xmi:id="_LsUeggNFEd21DvGULe85wg" name="tipus embalum" visibility="private" type="_D2olgP8wEdy9otTkNyh1Pw" association="_LsUegANFEd21DvGULe85wg"/>
-            <ownedOperation xmi:id="_hBt0kBtIEd2NEcGCsxdGog" name="CrearEmbalum" visibility="public">
-              <ownedParameter xmi:id="_8I_5ABtKEd2NEcGCsxdGog" name="E" type="_w_LbkADVEd28FtcncL3_MQ"/>
-              <ownedParameter xmi:id="_BaQCIBtJEd2NEcGCsxdGog" name="info" type="_asrQABtGEd2NEcGCsxdGog"/>
-            </ownedOperation>
-          </packagedElement>
-          <packagedElement xmi:type="uml:Class" xmi:id="_e7-rUPnDEdyli_XzYLJ9YQ" name="Comanda">
-            <ownedAttribute xmi:id="_e4lxYfnJEdyli_XzYLJ9YQ" name="factura" visibility="private" type="_dnO3MPnJEdyli_XzYLJ9YQ" association="_e4lxYPnJEdyli_XzYLJ9YQ">
-              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gBTs8fnJEdyli_XzYLJ9YQ" value="1"/>
-              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gBTs8PnJEdyli_XzYLJ9YQ"/>
-            </ownedAttribute>
-            <ownedAttribute xmi:id="_4ayDIfnSEdyli_XzYLJ9YQ" name="contracte" visibility="private" type="_gwMHkP8sEdy9otTkNyh1Pw" association="_4ayDIPnSEdyli_XzYLJ9YQ">
-              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_7FsxQfnSEdyli_XzYLJ9YQ" value="1"/>
-              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_7FsxQPnSEdyli_XzYLJ9YQ"/>
-            </ownedAttribute>
-            <ownedAttribute xmi:id="_w9HIgf80Edy9otTkNyh1Pw" name="client" visibility="private" type="_y_7_UPm3Edyli_XzYLJ9YQ" association="_w9HIgP80Edy9otTkNyh1Pw"/>
-            <ownedAttribute xmi:id="_AN4j4P81Edy9otTkNyh1Pw" name="preu" visibility="private"/>
-            <ownedAttribute xmi:id="_7vq2sv81Edy9otTkNyh1Pw" name="estatcomanda" visibility="private" type="_2hI8UP81Edy9otTkNyh1Pw" association="_7vq2sP81Edy9otTkNyh1Pw"/>
-            <ownedAttribute xmi:id="_lkgmof82Edy9otTkNyh1Pw" name="estatcomanda2" visibility="private" type="_2hI8UP81Edy9otTkNyh1Pw" association="_lkgmoP82Edy9otTkNyh1Pw">
-              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_mt0_If82Edy9otTkNyh1Pw" value="*"/>
-              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_mt0_IP82Edy9otTkNyh1Pw" value="1"/>
-            </ownedAttribute>
-            <ownedAttribute xmi:id="_RH5rgADWEd28FtcncL3_MQ" name="embalum comanda" visibility="private" type="_w_LbkADVEd28FtcncL3_MQ" association="_RHv6gADWEd28FtcncL3_MQ">
-              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_zQB5MAJcEd2iV-WQu0z7XQ" value="*"/>
-              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_zP4IMAJcEd2iV-WQu0z7XQ" value="1"/>
-            </ownedAttribute>
-            <ownedAttribute xmi:id="_ZzxPUgJeEd2iV-WQu0z7XQ" name="Origen Concret" visibility="private" type="_1tSSAP57Edyd_P-MLeI04w" association="_ZzxPUAJeEd2iV-WQu0z7XQ"/>
-            <ownedAttribute xmi:id="_kvy4AgJeEd2iV-WQu0z7XQ" name="Destí Concret" visibility="private" type="_1tSSAP57Edyd_P-MLeI04w" association="_kvy4AAJeEd2iV-WQu0z7XQ"/>
-            <ownedAttribute xmi:id="_r6CVcgNAEd2UJPas6DJRJg" name="reclamació" visibility="private" type="_F9dE0AJhEd2iV-WQu0z7XQ" association="_r6CVcANAEd2UJPas6DJRJg">
-              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_xE_XYQNAEd2UJPas6DJRJg" value="*"/>
-              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_xE_XYANAEd2UJPas6DJRJg"/>
-            </ownedAttribute>
-            <ownedOperation xmi:id="_PIES4B-wEd2wW57a2gCSYg" name="ObtenirDelTipus">
-              <ownedParameter xmi:id="_Q_J64B-xEd2wW57a2gCSYg" name="llComandes" direction="return">
-                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-                <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_VauHQR-xEd2wW57a2gCSYg" value="*"/>
-                <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_VauHQB-xEd2wW57a2gCSYg"/>
-              </ownedParameter>
-              <ownedParameter xmi:id="_K3Z5gB-xEd2wW57a2gCSYg" name="p">
-                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-              </ownedParameter>
-            </ownedOperation>
-            <ownedOperation xmi:id="_SCn_gB-wEd2wW57a2gCSYg" name="ObtenirDelPeriode">
-              <ownedParameter xmi:id="_dOp9oB-xEd2wW57a2gCSYg" name="llComandes" direction="return">
-                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-                <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_hKfhER-xEd2wW57a2gCSYg" value="*"/>
-                <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_hKfhEB-xEd2wW57a2gCSYg"/>
-              </ownedParameter>
-              <ownedParameter xmi:id="_b2cNgB-xEd2wW57a2gCSYg" name="dFi" type="_R_0qEBtFEd2NEcGCsxdGog"/>
-              <ownedParameter xmi:id="_ZMtyMB-xEd2wW57a2gCSYg" name="dIni" type="_R_0qEBtFEd2NEcGCsxdGog"/>
-            </ownedOperation>
           </packagedElement>
           <packagedElement xmi:type="uml:Class" xmi:id="_cqRaEP83Edy9otTkNyh1Pw" name="Cancelada">
             <generalization xmi:id="_evMfMP83Edy9otTkNyh1Pw" general="_2hI8UP81Edy9otTkNyh1Pw"/>
@@ -5314,20 +5115,240 @@
           </packagedElement>
         </packagedElement>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_rOPLkBtLEd2NEcGCsxdGog" name="PantallaResultatDemanarPressupost">
-        <ownedAttribute xmi:id="_9lz8ARucEd2mCeylmSB6jg" name="controladordpc" visibility="private" type="_t9loABruEd2EPIsdp1UHFw" association="_9lz8ABucEd2mCeylmSB6jg">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_9l9tABucEd2mCeylmSB6jg" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_9lz8AhucEd2mCeylmSB6jg"/>
-        </ownedAttribute>
+      <packagedElement xmi:type="uml:Package" xmi:id="_oekj8B-3Ed2wW57a2gCSYg" name="Limits">
+        <eAnnotations xmi:id="_oekj8R-3Ed2wW57a2gCSYg" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_rOPLkBtLEd2NEcGCsxdGog" name="PantallaResultatDemanarPressupost">
+          <ownedAttribute xmi:id="_9lz8ARucEd2mCeylmSB6jg" name="controladordpc" visibility="private" type="_t9loABruEd2EPIsdp1UHFw" association="_9lz8ABucEd2mCeylmSB6jg">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_9l9tABucEd2mCeylmSB6jg" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_9lz8AhucEd2mCeylmSB6jg"/>
+          </ownedAttribute>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Class" xmi:id="_ZsSSABruEd2EPIsdp1UHFw" name="PantallaEnregistrarPeticioComanda">
+          <ownedAttribute xmi:id="_qZ9eURrwEd2EPIsdp1UHFw" name="controladordemanarpressupostcomanda" visibility="private" type="_t9loABruEd2EPIsdp1UHFw" association="_qZ9eUBrwEd2EPIsdp1UHFw">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qZ9eUxrwEd2EPIsdp1UHFw" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qZ9eUhrwEd2EPIsdp1UHFw"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_-KLNURucEd2mCeylmSB6jg" name="pantallaresultatdemanarpressupost" visibility="private" type="_rOPLkBtLEd2NEcGCsxdGog" association="_-KLNUBucEd2mCeylmSB6jg">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_-KLNUxucEd2mCeylmSB6jg" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_-KLNUhucEd2mCeylmSB6jg"/>
+          </ownedAttribute>
+        </packagedElement>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_S_YAsBxEEd2UYq9io2Oudg" name="Planificador">
-        <ownedOperation xmi:id="_uWaDQBxEEd2UYq9io2Oudg" name="GeneraPressuposts">
-          <ownedParameter xmi:id="_3hNl8BxEEd2UYq9io2Oudg" name="Pressupostos" type="_e7-rUPnDEdyli_XzYLJ9YQ" direction="return">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_4qzHYRxIEd2UYq9io2Oudg" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_4qzHYBxIEd2UYq9io2Oudg"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_xneLYBxEEd2UYq9io2Oudg" name="Peticio" type="_vKpiUBtBEd2NEcGCsxdGog"/>
-        </ownedOperation>
+      <packagedElement xmi:type="uml:Package" xmi:id="_qrZA0B-3Ed2wW57a2gCSYg" name="Controladors">
+        <eAnnotations xmi:id="_qrZA0R-3Ed2wW57a2gCSYg" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_t9loABruEd2EPIsdp1UHFw" name="ControladorDPC">
+          <ownedAttribute xmi:id="_r9ftoRrwEd2EPIsdp1UHFw" name="comanda" visibility="private" association="_r9ftoBrwEd2EPIsdp1UHFw">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_r9peoRrwEd2EPIsdp1UHFw" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_r9peoBrwEd2EPIsdp1UHFw"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_tA2oERrwEd2EPIsdp1UHFw" name="embalum" visibility="private" association="_tA2oEBrwEd2EPIsdp1UHFw">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_tA2oExrwEd2EPIsdp1UHFw" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_tA2oEhrwEd2EPIsdp1UHFw"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_ALXVIBrxEd2EPIsdp1UHFw" name="tipusproducte" visibility="private" association="_ALNkIBrxEd2EPIsdp1UHFw">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ALXVIhrxEd2EPIsdp1UHFw" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ALXVIRrxEd2EPIsdp1UHFw"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_C_0ZwRrxEd2EPIsdp1UHFw" name="tipusembalum" visibility="private" association="_C_0ZwBrxEd2EPIsdp1UHFw">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_C_0ZwxrxEd2EPIsdp1UHFw" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_C_0ZwhrxEd2EPIsdp1UHFw"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_O0rScRryEd2EPIsdp1UHFw" name="client" visibility="private" association="_O0rScBryEd2EPIsdp1UHFw">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_O0rScxryEd2EPIsdp1UHFw" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_O0rSchryEd2EPIsdp1UHFw"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_c2M6kBtBEd2NEcGCsxdGog" name="tipus embalum" visibility="private" type="_D2olgP8wEdy9otTkNyh1Pw" association="_c2DJkBtBEd2NEcGCsxdGog">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_c2WrkRtBEd2NEcGCsxdGog" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_c2WrkBtBEd2NEcGCsxdGog"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_gla-URtBEd2NEcGCsxdGog" name="comanda2" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_gla-UBtBEd2NEcGCsxdGog">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gla-UxtBEd2NEcGCsxdGog" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gla-UhtBEd2NEcGCsxdGog"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_kJLY8RtBEd2NEcGCsxdGog" name="embalum comanda" visibility="private" type="_w_LbkADVEd28FtcncL3_MQ" association="_kJLY8BtBEd2NEcGCsxdGog">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_kJVJ8RtBEd2NEcGCsxdGog" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_kJVJ8BtBEd2NEcGCsxdGog"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_p9bPgBtBEd2NEcGCsxdGog" name="tipus producte" visibility="private" type="_bS2yEPnPEdyli_XzYLJ9YQ" association="_p9SFkBtBEd2NEcGCsxdGog">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_p9bPghtBEd2NEcGCsxdGog" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_p9bPgRtBEd2NEcGCsxdGog"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_t2Cf0BtBEd2NEcGCsxdGog" name="client2" visibility="private" type="_y_7_UPm3Edyli_XzYLJ9YQ" association="_t14u0BtBEd2NEcGCsxdGog">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_t2Cf0htBEd2NEcGCsxdGog" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_t2Cf0RtBEd2NEcGCsxdGog"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_OiAmwBtCEd2NEcGCsxdGog" name="peticio comanda" visibility="private" type="_vKpiUBtBEd2NEcGCsxdGog" association="_Oh21wBtCEd2NEcGCsxdGog">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_OiAmwhtCEd2NEcGCsxdGog" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_OiAmwRtCEd2NEcGCsxdGog"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_JY2ZERxJEd2UYq9io2Oudg" name="planificador" visibility="private" type="_S_YAsBxEEd2UYq9io2Oudg" association="_JY2ZEBxJEd2UYq9io2Oudg">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_JY2ZExxJEd2UYq9io2Oudg" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_JY2ZEhxJEd2UYq9io2Oudg"/>
+          </ownedAttribute>
+          <ownedOperation xmi:id="_FvS-gBtDEd2NEcGCsxdGog" name="RegistrarPeticio">
+            <ownedParameter xmi:id="_v-qYMBtMEd2NEcGCsxdGog" name="perRec">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_uePuUBtMEd2NEcGCsxdGog" name="perEntr">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_TW_mcBtHEd2NEcGCsxdGog" name="idClient">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_RHoL4BtHEd2NEcGCsxdGog" name="embalums" type="_asrQABtGEd2NEcGCsxdGog">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_TIFnwRtHEd2NEcGCsxdGog" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_TIFnwBtHEd2NEcGCsxdGog" value="1"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_Ojs2kBtHEd2NEcGCsxdGog" name="intFi" type="_IvSS0BtFEd2NEcGCsxdGog"/>
+            <ownedParameter xmi:id="_LLVzoBtHEd2NEcGCsxdGog" name="intIni" type="_IvSS0BtFEd2NEcGCsxdGog"/>
+            <ownedParameter xmi:id="_JZgCkBtHEd2NEcGCsxdGog" name="desti" type="_pZU8kBtEEd2NEcGCsxdGog"/>
+            <ownedParameter xmi:id="_HNSCoBtHEd2NEcGCsxdGog" name="origen" type="_pZU8kBtEEd2NEcGCsxdGog"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_zWsjoBtPEd2NEcGCsxdGog" name="GenerarPressupostos">
+            <ownedParameter xmi:id="_NM66wBtQEd2NEcGCsxdGog" name="infoPressupostos" type="_eW23MBtQEd2NEcGCsxdGog" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_yHQfkRtQEd2NEcGCsxdGog" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_yHQfkBtQEd2NEcGCsxdGog"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_mXP_wBtREd2NEcGCsxdGog" name="NotificaPeticioNoCalculable">
+            <ownedParameter xmi:id="_5qoUEBxFEd2UYq9io2Oudg" name="Peticio" type="_vKpiUBtBEd2NEcGCsxdGog"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_27kGoBtREd2NEcGCsxdGog" name="ConfirmaPressupost">
+            <ownedParameter xmi:id="_3xXGMBtREd2NEcGCsxdGog" name="idPressupost">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+          </ownedOperation>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Class" xmi:id="_S_YAsBxEEd2UYq9io2Oudg" name="Planificador">
+          <ownedOperation xmi:id="_uWaDQBxEEd2UYq9io2Oudg" name="GeneraPressuposts">
+            <ownedParameter xmi:id="_3hNl8BxEEd2UYq9io2Oudg" name="Pressupostos" type="_e7-rUPnDEdyli_XzYLJ9YQ" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_4qzHYRxIEd2UYq9io2Oudg" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_4qzHYBxIEd2UYq9io2Oudg"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_xneLYBxEEd2UYq9io2Oudg" name="Peticio" type="_vKpiUBtBEd2NEcGCsxdGog"/>
+          </ownedOperation>
+        </packagedElement>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="_svj4AB-3Ed2wW57a2gCSYg" name="Entitats">
+        <eAnnotations xmi:id="_svj4AR-3Ed2wW57a2gCSYg" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_e7-rUPnDEdyli_XzYLJ9YQ" name="Comanda">
+          <ownedAttribute xmi:id="_e4lxYfnJEdyli_XzYLJ9YQ" name="factura" visibility="private" type="_dnO3MPnJEdyli_XzYLJ9YQ" association="_e4lxYPnJEdyli_XzYLJ9YQ">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gBTs8fnJEdyli_XzYLJ9YQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gBTs8PnJEdyli_XzYLJ9YQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_4ayDIfnSEdyli_XzYLJ9YQ" name="contracte" visibility="private" type="_gwMHkP8sEdy9otTkNyh1Pw" association="_4ayDIPnSEdyli_XzYLJ9YQ">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_7FsxQfnSEdyli_XzYLJ9YQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_7FsxQPnSEdyli_XzYLJ9YQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_w9HIgf80Edy9otTkNyh1Pw" name="client" visibility="private" type="_y_7_UPm3Edyli_XzYLJ9YQ" association="_w9HIgP80Edy9otTkNyh1Pw"/>
+          <ownedAttribute xmi:id="_AN4j4P81Edy9otTkNyh1Pw" name="preu" visibility="private"/>
+          <ownedAttribute xmi:id="_7vq2sv81Edy9otTkNyh1Pw" name="estatcomanda" visibility="private" type="_2hI8UP81Edy9otTkNyh1Pw" association="_7vq2sP81Edy9otTkNyh1Pw"/>
+          <ownedAttribute xmi:id="_lkgmof82Edy9otTkNyh1Pw" name="estatcomanda2" visibility="private" type="_2hI8UP81Edy9otTkNyh1Pw" association="_lkgmoP82Edy9otTkNyh1Pw">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_mt0_If82Edy9otTkNyh1Pw" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_mt0_IP82Edy9otTkNyh1Pw" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_RH5rgADWEd28FtcncL3_MQ" name="embalum comanda" visibility="private" type="_w_LbkADVEd28FtcncL3_MQ" association="_RHv6gADWEd28FtcncL3_MQ">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_zQB5MAJcEd2iV-WQu0z7XQ" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_zP4IMAJcEd2iV-WQu0z7XQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_ZzxPUgJeEd2iV-WQu0z7XQ" name="Origen Concret" visibility="private" type="_1tSSAP57Edyd_P-MLeI04w" association="_ZzxPUAJeEd2iV-WQu0z7XQ"/>
+          <ownedAttribute xmi:id="_kvy4AgJeEd2iV-WQu0z7XQ" name="Destí Concret" visibility="private" type="_1tSSAP57Edyd_P-MLeI04w" association="_kvy4AAJeEd2iV-WQu0z7XQ"/>
+          <ownedAttribute xmi:id="_r6CVcgNAEd2UJPas6DJRJg" name="reclamació" visibility="private" type="_F9dE0AJhEd2iV-WQu0z7XQ" association="_r6CVcANAEd2UJPas6DJRJg">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_xE_XYQNAEd2UJPas6DJRJg" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_xE_XYANAEd2UJPas6DJRJg"/>
+          </ownedAttribute>
+          <ownedOperation xmi:id="_PIES4B-wEd2wW57a2gCSYg" name="ObtenirDelTipus">
+            <ownedParameter xmi:id="_Q_J64B-xEd2wW57a2gCSYg" name="llComandes" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_VauHQR-xEd2wW57a2gCSYg" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_VauHQB-xEd2wW57a2gCSYg"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_K3Z5gB-xEd2wW57a2gCSYg" name="p">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_SCn_gB-wEd2wW57a2gCSYg" name="ObtenirDelPeriode">
+            <ownedParameter xmi:id="_dOp9oB-xEd2wW57a2gCSYg" name="llComandes" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_hKfhER-xEd2wW57a2gCSYg" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_hKfhEB-xEd2wW57a2gCSYg"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_b2cNgB-xEd2wW57a2gCSYg" name="dFi" type="_R_0qEBtFEd2NEcGCsxdGog"/>
+            <ownedParameter xmi:id="_ZMtyMB-xEd2wW57a2gCSYg" name="dIni" type="_R_0qEBtFEd2NEcGCsxdGog"/>
+          </ownedOperation>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Class" xmi:id="_w_LbkADVEd28FtcncL3_MQ" name="Embalum Comanda">
+          <ownedAttribute xmi:id="_x42OgADVEd28FtcncL3_MQ" name="id" visibility="private"/>
+          <ownedAttribute xmi:id="_RH5rgQDWEd28FtcncL3_MQ" name="comanda" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_RHv6gADWEd28FtcncL3_MQ"/>
+          <ownedAttribute xmi:id="_hknt4QDcEd28FtcncL3_MQ" name="fita" visibility="private" type="_YC5s8Pm-Edyli_XzYLJ9YQ" association="_hknt4ADcEd28FtcncL3_MQ">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_jsEikQDcEd28FtcncL3_MQ" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_jsEikADcEd28FtcncL3_MQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_j9EvsQJgEd2iV-WQu0z7XQ" name="adreça" visibility="private" type="_1tSSAP57Edyd_P-MLeI04w" association="_j86-sAJgEd2iV-WQu0z7XQ"/>
+          <ownedAttribute xmi:id="_LL-xkgNFEd21DvGULe85wg" name="tipus producte" visibility="private" type="_bS2yEPnPEdyli_XzYLJ9YQ" association="_LL-xkANFEd21DvGULe85wg"/>
+          <ownedAttribute xmi:id="_LsUeggNFEd21DvGULe85wg" name="tipus embalum" visibility="private" type="_D2olgP8wEdy9otTkNyh1Pw" association="_LsUegANFEd21DvGULe85wg"/>
+          <ownedOperation xmi:id="_hBt0kBtIEd2NEcGCsxdGog" name="CrearEmbalum" visibility="public">
+            <ownedParameter xmi:id="_8I_5ABtKEd2NEcGCsxdGog" name="E" type="_w_LbkADVEd28FtcncL3_MQ"/>
+            <ownedParameter xmi:id="_BaQCIBtJEd2NEcGCsxdGog" name="info" type="_asrQABtGEd2NEcGCsxdGog"/>
+          </ownedOperation>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Class" xmi:id="_vKpiUBtBEd2NEcGCsxdGog" name="Peticio Comanda">
+          <ownedOperation xmi:id="_W8pl4BtEEd2NEcGCsxdGog" name="CrearPeticio">
+            <ownedParameter xmi:id="_cbwLgBtHEd2NEcGCsxdGog" name="P" type="_vKpiUBtBEd2NEcGCsxdGog" direction="return"/>
+            <ownedParameter xmi:id="_s1uVgBtFEd2NEcGCsxdGog" name="intFi" type="_IvSS0BtFEd2NEcGCsxdGog"/>
+            <ownedParameter xmi:id="_pOnr8BtFEd2NEcGCsxdGog" name="intIni" type="_IvSS0BtFEd2NEcGCsxdGog"/>
+            <ownedParameter xmi:id="_DLy1EBtFEd2NEcGCsxdGog" name="desti" type="_pZU8kBtEEd2NEcGCsxdGog"/>
+            <ownedParameter xmi:id="_BbAz8BtFEd2NEcGCsxdGog" name="origen" type="_pZU8kBtEEd2NEcGCsxdGog"/>
+            <ownedParameter xmi:id="_gisTEBtEEd2NEcGCsxdGog" name="idClient">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_VNJS8BtLEd2NEcGCsxdGog" name="AfegirEmbalum">
+            <ownedParameter xmi:id="_Qm0WIBtNEd2NEcGCsxdGog" name="Embalum" type="_w_LbkADVEd28FtcncL3_MQ"/>
+          </ownedOperation>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Class" xmi:id="_K2TeoP82Edy9otTkNyh1Pw" name="Pressupostada">
+          <generalization xmi:id="_W26JwP82Edy9otTkNyh1Pw" general="_2hI8UP81Edy9otTkNyh1Pw"/>
+          <ownedAttribute xmi:id="_ylVYof82Edy9otTkNyh1Pw" name="data" visibility="private" type="_Jz9AYPt-EdyQTa0fFLYTBQ" association="_ylVYoP82Edy9otTkNyh1Pw"/>
+          <ownedAttribute xmi:id="_EFTiUAJfEd2iV-WQu0z7XQ" name="Pendent Legalització?" visibility="private"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Class" xmi:id="_D2olgP8wEdy9otTkNyh1Pw" name="Tipus Embalum">
+          <ownedAttribute xmi:id="_HFd5AP8wEdy9otTkNyh1Pw" name="Nom" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_SM_GIP_XEdy3S9OQsgmyKQ" name="Quantitat de Productes" visibility="private"/>
+          <ownedAttribute xmi:id="_YNSXoADHEd2QtZHLkp5rnA" name="Fragilitat" visibility="private"/>
+          <ownedAttribute xmi:id="_yKQpMAGGEd2Mc8RuQV3jMg" name="Volum" visibility="private"/>
+          <ownedAttribute xmi:id="_ZIcDIQGJEd2Mc8RuQV3jMg" name="condicions embalum" visibility="private" type="_SjUwUAGJEd2Mc8RuQV3jMg" association="_ZISSIAGJEd2Mc8RuQV3jMg">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_f-XxgQM8Ed2UJPas6DJRJg" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_f-XxgAM8Ed2UJPas6DJRJg"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_LsUegQNFEd21DvGULe85wg" name="embalum comanda" visibility="private" type="_w_LbkADVEd28FtcncL3_MQ" association="_LsUegANFEd21DvGULe85wg">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_NM4SUQNFEd21DvGULe85wg" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NM4SUANFEd21DvGULe85wg"/>
+          </ownedAttribute>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Class" xmi:id="_bS2yEPnPEdyli_XzYLJ9YQ" name="Tipus Producte">
+          <ownedAttribute xmi:id="_m0phcP6JEdyd-_-MLeI04w" name="Nom" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_pwjR4P6JEdyd-_-MLeI04w" name="Caracteristiques" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_0dMVIAGGEd2Mc8RuQV3jMg" name="Pes" visibility="private"/>
+          <ownedAttribute xmi:id="_LL-xkQNFEd21DvGULe85wg" name="embalum comanda" visibility="private" type="_w_LbkADVEd28FtcncL3_MQ" association="_LL-xkANFEd21DvGULe85wg">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_M0luIQNFEd21DvGULe85wg" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_M0luIANFEd21DvGULe85wg"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_ssUp0gNHEd2llOXu5fsdpQ" name="tipus vehicle" visibility="private" type="_9KaO0AGEEd2Mc8RuQV3jMg" association="_ssUp0ANHEd2llOXu5fsdpQ">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_tygOwQNHEd2llOXu5fsdpQ" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_tygOwANHEd2llOXu5fsdpQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_I6HuIgO9Ed2gVZORqptsVA" name="condicions embalum" visibility="private" type="_SjUwUAGJEd2Mc8RuQV3jMg" association="_I6HuIAO9Ed2gVZORqptsVA">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_JsVOMQO9Ed2gVZORqptsVA" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_JsVOMAO9Ed2gVZORqptsVA"/>
+          </ownedAttribute>
+        </packagedElement>
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_s_8F0AL5Ed2lfv9RCokvzA" name="Sistema d'Entrega i Recepció">
@@ -7753,7 +7774,7 @@
                   <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_4h9wIx-sEd2wW57a2gCSYg"/>
                 </children>
                 <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4h9wFx-sEd2wW57a2gCSYg" showStereotype="Image"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4h9wGB-sEd2wW57a2gCSYg" x="-52" y="2611"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4h9wGB-sEd2wW57a2gCSYg" x="265" y="2611"/>
               </children>
               <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_4hz_ER-sEd2wW57a2gCSYg" jumpLinkType="Chamfered" showStereotype="Text"/>
               <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4hz_Eh-sEd2wW57a2gCSYg" points="[609, 609, 609, 609]$[794, 767, 794, 767]$[-53, 767, -53, 767]$[106, 609, 106, 609]"/>
@@ -9242,18 +9263,6 @@
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_Eo9A8B-2Ed2wW57a2gCSYg" name="Eventodeoperacióndeenvío21" operation="_EozP8B-2Ed2wW57a2gCSYg"/>
         <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_Eo9A8R-2Ed2wW57a2gCSYg" name="Eventodeoperaciónderecepción21" operation="_EozP8B-2Ed2wW57a2gCSYg"/>
       </packagedElement>
-    </packagedElement>
-    <packagedElement xmi:type="uml:Association" xmi:id="_t14u0BtBEd2NEcGCsxdGog" memberEnd="_t2Cf0BtBEd2NEcGCsxdGog _t2Cf0xtBEd2NEcGCsxdGog">
-      <ownedEnd xmi:id="_t2Cf0xtBEd2NEcGCsxdGog" name="" visibility="private" type="_t9loABruEd2EPIsdp1UHFw" association="_t14u0BtBEd2NEcGCsxdGog">
-        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_t2Cf1RtBEd2NEcGCsxdGog" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_t2Cf1BtBEd2NEcGCsxdGog"/>
-      </ownedEnd>
-    </packagedElement>
-    <packagedElement xmi:type="uml:Association" xmi:id="_HBtXIB-tEd2wW57a2gCSYg" memberEnd="_HBtXIR-tEd2wW57a2gCSYg _HBtXJB-tEd2wW57a2gCSYg">
-      <ownedEnd xmi:id="_HBtXJB-tEd2wW57a2gCSYg" name="" visibility="private" type="_wKPFkB-rEd2wW57a2gCSYg" association="_HBtXIB-tEd2wW57a2gCSYg">
-        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_HBtXJh-tEd2wW57a2gCSYg" value="*"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_HBtXJR-tEd2wW57a2gCSYg"/>
-      </ownedEnd>
     </packagedElement>
     <profileApplication xmi:id="_szH3xfm3Edyli_XzYLJ9YQ">
       <eAnnotations xmi:id="_szH3xvm3Edyli_XzYLJ9YQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
