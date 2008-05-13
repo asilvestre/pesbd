@@ -5136,7 +5136,12 @@
         <packagedElement xmi:type="uml:Class" xmi:id="_hLt08CC1Ed2H7c-207bc6g" name="PantallaSol·licitarContracte"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_qrZA0B-3Ed2wW57a2gCSYg" name="Controladors">
-        <eAnnotations xmi:id="_qrZA0R-3Ed2wW57a2gCSYg" source="uml2.diagrams"/>
+        <eAnnotations xmi:id="_qrZA0R-3Ed2wW57a2gCSYg" source="uml2.diagrams">
+          <contents xmi:type="notation:Diagram" xmi:id="_m9jbQCC2Ed2H7c-207bc6g" type="Class" name="ControladorSol·licitarContracte">
+            <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_m9jbQSC2Ed2H7c-207bc6g"/>
+            <element xsi:nil="true"/>
+          </contents>
+        </eAnnotations>
         <packagedElement xmi:type="uml:Class" xmi:id="_t9loABruEd2EPIsdp1UHFw" name="ControladorDPC">
           <ownedAttribute xmi:id="_r9ftoRrwEd2EPIsdp1UHFw" name="comanda" visibility="private" association="_r9ftoBrwEd2EPIsdp1UHFw">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_r9peoRrwEd2EPIsdp1UHFw" value="1"/>
@@ -9317,8 +9322,8 @@
               <children xmi:id="_5GMRGyC1Ed2H7c-207bc6g" visible="false" type="StructureCompartment">
                 <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_5GMRHCC1Ed2H7c-207bc6g"/>
               </children>
-              <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5GDHISC1Ed2H7c-207bc6g" showStereotype="Label"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5GDHIiC1Ed2H7c-207bc6g" x="4021" y="4180"/>
+              <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5GDHISC1Ed2H7c-207bc6g" showStereotype="Image"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5GDHIiC1Ed2H7c-207bc6g" x="1585" y="3170"/>
             </children>
             <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_QjNKkiC1Ed2H7c-207bc6g"/>
             <element xsi:nil="true"/>
