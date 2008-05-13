@@ -9343,6 +9343,28 @@
               <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_INubciC3Ed2H7c-207bc6g" showStereotype="Image"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_INubcyC3Ed2H7c-207bc6g" x="-4887" y="2667"/>
             </children>
+            <children xmi:id="_Zkc2sCC3Ed2H7c-207bc6g" element="_e7-rUPnDEdyli_XzYLJ9YQ">
+              <children xmi:id="_Zkc2syC3Ed2H7c-207bc6g" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_Zkc2tCC3Ed2H7c-207bc6g" width="1320" height="1320"/>
+              </children>
+              <children xmi:id="_Zkc2tSC3Ed2H7c-207bc6g" type="Stereotype"/>
+              <children xmi:id="_Zkc2tiC3Ed2H7c-207bc6g" type="Name"/>
+              <children xmi:id="_Zkc2tyC3Ed2H7c-207bc6g" type="Parent"/>
+              <children xmi:id="_Zkc2uCC3Ed2H7c-207bc6g" type="AttributeCompartment">
+                <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Zkc2uSC3Ed2H7c-207bc6g"/>
+              </children>
+              <children xmi:id="_Zkc2uiC3Ed2H7c-207bc6g" type="OperationCompartment">
+                <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Zkc2uyC3Ed2H7c-207bc6g"/>
+              </children>
+              <children xmi:id="_Zkc2vCC3Ed2H7c-207bc6g" visible="false" type="SignalCompartment">
+                <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Zkc2vSC3Ed2H7c-207bc6g"/>
+              </children>
+              <children xmi:id="_Zkc2viC3Ed2H7c-207bc6g" visible="false" type="StructureCompartment">
+                <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_Zkc2vyC3Ed2H7c-207bc6g"/>
+              </children>
+              <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Zkc2sSC3Ed2H7c-207bc6g" showStereotype="Label"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zkc2siC3Ed2H7c-207bc6g" x="317" y="7990"/>
+            </children>
             <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_QjNKkiC1Ed2H7c-207bc6g"/>
             <element xsi:nil="true"/>
           </contents>
