@@ -5133,6 +5133,7 @@
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_-KLNUhucEd2mCeylmSB6jg"/>
           </ownedAttribute>
         </packagedElement>
+        <packagedElement xmi:type="uml:Class" xmi:id="_hLt08CC1Ed2H7c-207bc6g" name="PantallaSol·licitarContracte"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_qrZA0B-3Ed2wW57a2gCSYg" name="Controladors">
         <eAnnotations xmi:id="_qrZA0R-3Ed2wW57a2gCSYg" source="uml2.diagrams"/>
@@ -9294,6 +9295,36 @@
           </ownedBehavior>
         </packagedElement>
       </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="_QinUsCC1Ed2H7c-207bc6g" name="Sol·licitar Pressupost Contracte">
+        <eAnnotations xmi:id="_QjNKkCC1Ed2H7c-207bc6g" source="uml2.diagrams" references="_QjNKkSC1Ed2H7c-207bc6g">
+          <contents xmi:type="notation:Diagram" xmi:id="_QjNKkSC1Ed2H7c-207bc6g" type="Freeform" name="Principal">
+            <children xmi:id="_5GDHICC1Ed2H7c-207bc6g" element="_hLt08CC1Ed2H7c-207bc6g">
+              <children xmi:id="_5GMRECC1Ed2H7c-207bc6g" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_5GMRESC1Ed2H7c-207bc6g" width="1320" height="1320"/>
+              </children>
+              <children xmi:id="_5GMREiC1Ed2H7c-207bc6g" type="Stereotype"/>
+              <children xmi:id="_5GMREyC1Ed2H7c-207bc6g" type="Name"/>
+              <children xmi:id="_5GMRFCC1Ed2H7c-207bc6g" type="Parent"/>
+              <children xmi:id="_5GMRFSC1Ed2H7c-207bc6g" type="AttributeCompartment">
+                <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5GMRFiC1Ed2H7c-207bc6g"/>
+              </children>
+              <children xmi:id="_5GMRFyC1Ed2H7c-207bc6g" type="OperationCompartment">
+                <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5GMRGCC1Ed2H7c-207bc6g"/>
+              </children>
+              <children xmi:id="_5GMRGSC1Ed2H7c-207bc6g" visible="false" type="SignalCompartment">
+                <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_5GMRGiC1Ed2H7c-207bc6g"/>
+              </children>
+              <children xmi:id="_5GMRGyC1Ed2H7c-207bc6g" visible="false" type="StructureCompartment">
+                <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_5GMRHCC1Ed2H7c-207bc6g"/>
+              </children>
+              <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5GDHISC1Ed2H7c-207bc6g" showStereotype="Label"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5GDHIiC1Ed2H7c-207bc6g" x="4021" y="4180"/>
+            </children>
+            <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_QjNKkiC1Ed2H7c-207bc6g"/>
+            <element xsi:nil="true"/>
+          </contents>
+        </eAnnotations>
+      </packagedElement>
     </packagedElement>
     <profileApplication xmi:id="_szH3xfm3Edyli_XzYLJ9YQ">
       <eAnnotations xmi:id="_szH3xvm3Edyli_XzYLJ9YQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -9341,4 +9372,5 @@
   <RUPAnalysis:Boundary xmi:id="_JV8gEB-sEd2wW57a2gCSYg" base_Class="_JEEF4B-sEd2wW57a2gCSYg"/>
   <RUPAnalysis:Entity xmi:id="_MayKEB-sEd2wW57a2gCSYg" base_Class="_YC5s8Pm-Edyli_XzYLJ9YQ"/>
   <RUPAnalysis:Entity xmi:id="_MayKER-sEd2wW57a2gCSYg" base_Class="_5X2tMPnDEdyli_XzYLJ9YQ"/>
+  <RUPAnalysis:Boundary xmi:id="_vd46ECC1Ed2H7c-207bc6g" base_Class="_hLt08CC1Ed2H7c-207bc6g"/>
 </xmi:XMI>
