@@ -5852,7 +5852,7 @@
               <children xmi:id="_kmnmthrwEd2EPIsdp1UHFw" type="Name"/>
               <children xmi:id="_kmnmtxrwEd2EPIsdp1UHFw" type="Parent"/>
               <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_kmnmsRrwEd2EPIsdp1UHFw" showStereotype="Image"/>
-              <element xmi:type="uml:Actor" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_5XA_AOnFEdyVi_xoU05qOw?Use%20Case/Gestió%20de%20Comandes%20i%20Contractes/Gestor%20comandes?"/>
+              <element xmi:type="uml:Actor" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_5XA_AOnFEdyVi_xoU05qOw?Use%20Case/Actors/Gestor%20comandes?"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kmnmshrwEd2EPIsdp1UHFw" x="3919" y="6842"/>
             </children>
             <children xmi:id="_Zp1sQBtBEd2NEcGCsxdGog" element="_D2olgP8wEdy9otTkNyh1Pw">
@@ -7315,6 +7315,17 @@
         <packagedElement xmi:type="uml:Collaboration" xmi:id="_Dq0PEBzUEd2HAdWNX_bjLg" name="Colaboración1">
           <eAnnotations xmi:id="_rIbXUCBVEd2BP-STTkafEQ" source="uml2.diagrams">
             <contents xmi:type="notation:Diagram" xmi:id="_rIbXUSBVEd2BP-STTkafEQ" type="Freeform" name="VOPC">
+              <children xmi:id="_4LvhYCC9Ed2QC6lTKoXgfA">
+                <children xmi:id="_4MDDYCC9Ed2QC6lTKoXgfA" type="ImageCompartment">
+                  <layoutConstraint xmi:type="notation:Size" xmi:id="_4MDDYSC9Ed2QC6lTKoXgfA" width="1455" height="2381"/>
+                </children>
+                <children xmi:id="_4MDDYiC9Ed2QC6lTKoXgfA" type="Stereotype"/>
+                <children xmi:id="_4MDDYyC9Ed2QC6lTKoXgfA" type="Name"/>
+                <children xmi:id="_4MDDZCC9Ed2QC6lTKoXgfA" type="Parent"/>
+                <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_4LvhYSC9Ed2QC6lTKoXgfA" showStereotype="Image"/>
+                <element xmi:type="uml:Actor" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_YsGoUPl5EdylvdL-IIbDug?Use%20Case/Actors/Client?"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4LvhYiC9Ed2QC6lTKoXgfA" x="3804" y="3170"/>
+              </children>
               <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_rIbXUiBVEd2BP-STTkafEQ"/>
               <element xsi:nil="true"/>
             </contents>

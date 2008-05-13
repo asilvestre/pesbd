@@ -12,6 +12,7 @@
   </packageImport>
   <packagedElement xmi:type="uml:Package" xmi:id="_nIXdQOnFEdyVi_xoU05qOw" name="Actors">
     <eAnnotations xmi:id="_nIgnMOnFEdyVi_xoU05qOw" source="uml2.diagrams"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_5XA_AOnFEdyVi_xoU05qOw" name="Gestor comandes"/>
     <packagedElement xmi:type="uml:Actor" xmi:id="_pkrusOnFEdyVi_xoU05qOw" name="Comptable"/>
     <packagedElement xmi:type="uml:Actor" xmi:id="_HRFtMOnGEdyVi_xoU05qOw" name="Gestor de transports"/>
     <packagedElement xmi:type="uml:Actor" xmi:id="_Ju5MYOnGEdyVi_xoU05qOw" name="Transportista"/>
@@ -608,7 +609,6 @@
       </contents>
     </eAnnotations>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_i3gXQPl3EdylvdL-IIbDug" name="Cancel lar comanda"/>
-    <packagedElement xmi:type="uml:Actor" xmi:id="_5XA_AOnFEdyVi_xoU05qOw" name="Gestor comandes"/>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_14taMOnHEdyVi_xoU05qOw" name="Demanar pressupost comanda">
       <extensionPoint xmi:id="_o-1pABxBEd2UYq9io2Oudg" name="Puntodeextensión1"/>
     </packagedElement>
