@@ -1787,9 +1787,9 @@
                     <children xmi:id="_7lSQxB-kEd2UjNGQ5vZTDg" type="Description">
                       <element xsi:nil="true"/>
                     </children>
-                    <styles xmi:type="notation:ShapeStyle" xmi:id="_7lSQwR-kEd2UjNGQ5vZTDg" description="requestList: TupleType {&#x9; idVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;loadType:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tamVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;startDay:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;endDay:String }&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" fillColor="13369343" lineColor="6737151"/>
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_7lSQwR-kEd2UjNGQ5vZTDg" description="requestList: TupleType {&#x9; idVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;vehicleType:String &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;loadType:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tamVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;startDay:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;endDay:String }&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" fillColor="13369343" lineColor="6737151"/>
                     <element xsi:nil="true"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7lSQwh-kEd2UjNGQ5vZTDg" x="30590" y="2348" height="2219"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7lSQwh-kEd2UjNGQ5vZTDg" x="30590" y="2348" height="2854"/>
                   </children>
                   <children xmi:id="_Js0VcCBQEd2BP-STTkafEQ" type="Note">
                     <children xmi:id="_Js0VcyBQEd2BP-STTkafEQ" type="DiagramName">
@@ -1798,20 +1798,9 @@
                     <children xmi:id="_Js0VdCBQEd2BP-STTkafEQ" type="Description">
                       <element xsi:nil="true"/>
                     </children>
-                    <styles xmi:type="notation:ShapeStyle" xmi:id="_Js0VcSBQEd2BP-STTkafEQ" description="infoLloguer: TupleType (" fillColor="13369343" lineColor="6737151"/>
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_Js0VcSBQEd2BP-STTkafEQ" description="infoLloguer: TupleType {&#x9; idVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tipusVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tipusCarrega:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tamVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;diaInici:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;diaFi:String }" fillColor="13369343" lineColor="6737151"/>
                     <element xsi:nil="true"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Js0VciBQEd2BP-STTkafEQ" x="-1269" y="3933"/>
-                  </children>
-                  <children xmi:id="_VJwS0CBQEd2BP-STTkafEQ" type="Note">
-                    <children xmi:id="_VJwS0yBQEd2BP-STTkafEQ" type="DiagramName">
-                      <element xsi:nil="true"/>
-                    </children>
-                    <children xmi:id="_VJwS1CBQEd2BP-STTkafEQ" type="Description">
-                      <element xsi:nil="true"/>
-                    </children>
-                    <styles xmi:type="notation:ShapeStyle" xmi:id="_VJwS0SBQEd2BP-STTkafEQ" description="infoLloguer" fillColor="13369343" lineColor="6737151"/>
-                    <element xsi:nil="true"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VJwS0iBQEd2BP-STTkafEQ" x="-1111" y="7420"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Js0VciBQEd2BP-STTkafEQ" x="-5614" y="3616"/>
                   </children>
                   <children xmi:id="_kXTbECBQEd2BP-STTkafEQ" element="_kW058yBQEd2BP-STTkafEQ">
                     <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_kXTbESBQEd2BP-STTkafEQ" showStereotype="Label"/>
@@ -1824,7 +1813,7 @@
                     <children xmi:id="_tyEsZCBQEd2BP-STTkafEQ" type="Description">
                       <element xsi:nil="true"/>
                     </children>
-                    <styles xmi:type="notation:ShapeStyle" xmi:id="_tyEsYSBQEd2BP-STTkafEQ" fillColor="13369343" lineColor="6737151"/>
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_tyEsYSBQEd2BP-STTkafEQ" description="preRentInfo: TypleType{&#x9;rentID:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;confirm:Boolean}" fillColor="13369343" lineColor="6737151"/>
                     <element xsi:nil="true"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tyEsYiBQEd2BP-STTkafEQ" x="32491" y="6786"/>
                   </children>
@@ -1956,12 +1945,6 @@
                 <element xsi:nil="true"/>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JtAisiBQEd2BP-STTkafEQ" points="[1, 0, -668, -198]$[608, 180, -61, -18]"/>
                 <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JtAisyBQEd2BP-STTkafEQ" id="(1.0,1.0)"/>
-              </edges>
-              <edges xmi:id="_VJ2ZcCBQEd2BP-STTkafEQ" type="NoteAttachment" source="_VJwS0CBQEd2BP-STTkafEQ" target="_OXBlAxzSEd2HAdWNX_bjLg">
-                <styles xmi:type="notation:ConnectorStyle" xmi:id="_VJ2ZcSBQEd2BP-STTkafEQ"/>
-                <element xsi:nil="true"/>
-                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VJ2ZciBQEd2BP-STTkafEQ" points="[1, 0, -669, -291]$[629, 273, -41, -18]"/>
-                <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VJ8gECBQEd2BP-STTkafEQ" id="(1.0,1.0)"/>
               </edges>
               <edges xmi:id="_kW7AkyBQEd2BP-STTkafEQ" element="_kW058CBQEd2BP-STTkafEQ" source="_28H2QBzQEd2HAdWNX_bjLg" target="_RDnjkBzREd2HAdWNX_bjLg">
                 <children xmi:id="_kW7AliBQEd2BP-STTkafEQ" type="MessageNameLabel">
