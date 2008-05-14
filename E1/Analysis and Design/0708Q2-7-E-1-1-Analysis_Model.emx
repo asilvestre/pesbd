@@ -11756,7 +11756,7 @@
                     <children xmi:id="_moYh7CDJEd2QC6lTKoXgfA" type="Name"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_moYh6iDJEd2QC6lTKoXgfA" y="-317"/>
                   </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_moYh5yDJEd2QC6lTKoXgfA" showStereotype="Text"/>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_moYh5yDJEd2QC6lTKoXgfA" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_moYh6CDJEd2QC6lTKoXgfA" points="[0, 0, -489, 0]$[489, 0, 0, 0]"/>
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_moYh7SDJEd2QC6lTKoXgfA" id="1448:2275"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_moYh7iDJEd2QC6lTKoXgfA" id="1484:0"/>
@@ -11957,7 +11957,7 @@
             <fragment xmi:type="uml:OccurrenceSpecification" xmi:id="_LhCLUSHgEd2Pusynym5W6w" covered="_bt37sCFDEd2HO4akhfXL1w" event="_LhCLUCHgEd2Pusynym5W6w"/>
             <fragment xmi:type="uml:OccurrenceSpecification" xmi:id="_qh-poSDJEd2QC6lTKoXgfA" covered="_Pk-GECDIEd2QC6lTKoXgfA" event="_qh-poCDJEd2QC6lTKoXgfA"/>
             <fragment xmi:type="uml:OccurrenceSpecification" xmi:id="_rFSyESDJEd2QC6lTKoXgfA" covered="_GQlwoCDIEd2QC6lTKoXgfA" event="_rFSyECDJEd2QC6lTKoXgfA"/>
-            <message xmi:id="_EBFMICDIEd2QC6lTKoXgfA" name="\Sin especificar\" messageSort="createMessage" receiveEvent="_EBFMIyDIEd2QC6lTKoXgfA" sendEvent="_EBFMISDIEd2QC6lTKoXgfA" connector="_EBFMJSDIEd2QC6lTKoXgfA"/>
+            <message xmi:id="_EBFMICDIEd2QC6lTKoXgfA" name="(Constructora)" messageSort="createMessage" receiveEvent="_EBFMIyDIEd2QC6lTKoXgfA" sendEvent="_EBFMISDIEd2QC6lTKoXgfA" connector="_EBFMJSDIEd2QC6lTKoXgfA"/>
             <message xmi:id="_LHcK0CDIEd2QC6lTKoXgfA" name="(Info peticions)" messageSort="createMessage" receiveEvent="_LHcK0yDIEd2QC6lTKoXgfA" sendEvent="_LHcK0SDIEd2QC6lTKoXgfA" connector="_LHcK1SDIEd2QC6lTKoXgfA"/>
             <message xmi:id="_TKc_ACDIEd2QC6lTKoXgfA" name="\Sin especificar\" messageSort="createMessage" receiveEvent="_TKc_AyDIEd2QC6lTKoXgfA" sendEvent="_TKc_ASDIEd2QC6lTKoXgfA" connector="_TKc_BSDIEd2QC6lTKoXgfA"/>
             <message xmi:id="_moPX8CDJEd2QC6lTKoXgfA" name="confirmarPeticio" receiveEvent="_moPX8iDJEd2QC6lTKoXgfA" sendEvent="_moPX8SDJEd2QC6lTKoXgfA" connector="_moPX8yDJEd2QC6lTKoXgfA"/>
@@ -11985,12 +11985,12 @@
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_TKc_AiDIEd2QC6lTKoXgfA" name="Eventodeoperacióndeenvío3"/>
         <packagedElement xmi:type="uml:CreationEvent" xmi:id="_TKc_BCDIEd2QC6lTKoXgfA" name="Eventodecreación3"/>
         <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_iYG08yDIEd2QC6lTKoXgfA" name="Eventodeoperaciónderecepción1"/>
-        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_j2k-ESDIEd2QC6lTKoXgfA" name="Eventodeoperacióndeenvío4" operation="_j2k-ECDIEd2QC6lTKoXgfA"/>
-        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_j2k-EiDIEd2QC6lTKoXgfA" name="Eventodeoperaciónderecepción2" operation="_j2k-ECDIEd2QC6lTKoXgfA"/>
-        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_smD2sSDIEd2QC6lTKoXgfA" name="Eventodeoperacióndeenvío5" operation="_smD2sCDIEd2QC6lTKoXgfA"/>
-        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_smD2siDIEd2QC6lTKoXgfA" name="Eventodeoperaciónderecepción3" operation="_smD2sCDIEd2QC6lTKoXgfA"/>
-        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_0I9ncSDIEd2QC6lTKoXgfA" name="Eventodeoperacióndeenvío6" operation="_0I9ncCDIEd2QC6lTKoXgfA"/>
-        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_0I9nciDIEd2QC6lTKoXgfA" name="Eventodeoperaciónderecepción4" operation="_0I9ncCDIEd2QC6lTKoXgfA"/>
+        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_j2k-ESDIEd2QC6lTKoXgfA" name="Eventodeoperacióndeenvío4"/>
+        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_j2k-EiDIEd2QC6lTKoXgfA" name="Eventodeoperaciónderecepción2"/>
+        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_smD2sSDIEd2QC6lTKoXgfA" name="Eventodeoperacióndeenvío5"/>
+        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_smD2siDIEd2QC6lTKoXgfA" name="Eventodeoperaciónderecepción3"/>
+        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_0I9ncSDIEd2QC6lTKoXgfA" name="Eventodeoperacióndeenvío6"/>
+        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_0I9nciDIEd2QC6lTKoXgfA" name="Eventodeoperaciónderecepción4"/>
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pJBSoSDJEd2QC6lTKoXgfA" name="Eventodeoperacióndeenvío7" operation="_pJBSoCDJEd2QC6lTKoXgfA"/>
         <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pJBSoiDJEd2QC6lTKoXgfA" name="Eventodeoperaciónderecepción5" operation="_pJBSoCDJEd2QC6lTKoXgfA"/>
         <packagedElement xmi:type="uml:DestructionEvent" xmi:id="_p_jSACDJEd2QC6lTKoXgfA" name="Eventodedestrucción1"/>
@@ -12089,6 +12089,7 @@
       <eAnnotations xmi:id="_h9r0sCDGEd2QC6lTKoXgfA" source="uml2.diagrams"/>
       <packagedElement xmi:type="uml:Package" xmi:id="_shACcCDGEd2QC6lTKoXgfA" name="Assosiacions">
         <eAnnotations xmi:id="_shACcSDGEd2QC6lTKoXgfA" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_-_8XoCFCEd2HO4akhfXL1w" memberEnd="__AIk4CFCEd2HO4akhfXL1w __Aa4wCFCEd2HO4akhfXL1w"/>
         <packagedElement xmi:type="uml:Association" xmi:id="_XJk8cCDHEd2QC6lTKoXgfA" memberEnd="_XJk8cSDHEd2QC6lTKoXgfA _XJuGYCDHEd2QC6lTKoXgfA">
           <ownedEnd xmi:id="_XJuGYCDHEd2QC6lTKoXgfA" name="" visibility="private" type="_4fB6sCDGEd2QC6lTKoXgfA" association="_XJk8cCDHEd2QC6lTKoXgfA">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_XJuGYiDHEd2QC6lTKoXgfA" value="*"/>
@@ -12121,10 +12122,26 @@
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_dVP0gyDHEd2QC6lTKoXgfA" value="1"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_dVP0giDHEd2QC6lTKoXgfA"/>
           </ownedAttribute>
-          <ownedOperation xmi:id="_j2k-ECDIEd2QC6lTKoXgfA" name="novaPeticio"/>
-          <ownedOperation xmi:id="_smD2sCDIEd2QC6lTKoXgfA" name="getDadesPeticions"/>
-          <ownedOperation xmi:id="_0I9ncCDIEd2QC6lTKoXgfA" name="informarcioGeneral"/>
-          <ownedOperation xmi:id="_pJBSoCDJEd2QC6lTKoXgfA" name="confirmarPeticio"/>
+          <ownedOperation xmi:id="_pJBSoCDJEd2QC6lTKoXgfA" name="confirmarPeticio">
+            <ownedParameter xmi:id="_QFyZ0CHpEd2AX46NLcxjVA" name="Tipus">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_P4UlkCHpEd2AX46NLcxjVA" name="Alta?">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_PcbTwCHpEd2AX46NLcxjVA" name="Volum">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_OAEqgCHpEd2AX46NLcxjVA" name="TASA">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_MeoF4CHpEd2AX46NLcxjVA" name="TARA">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_YqtdsCHoEd2AX46NLcxjVA" name="Matricula">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
         </packagedElement>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_vxEFACDGEd2QC6lTKoXgfA" name="Entitats">
@@ -12134,7 +12151,9 @@
       <packagedElement xmi:type="uml:Package" xmi:id="_xNBFoCDGEd2QC6lTKoXgfA" name="Limitis">
         <eAnnotations xmi:id="_xNBFoSDGEd2QC6lTKoXgfA" source="uml2.diagrams"/>
         <packagedElement xmi:type="uml:Component" xmi:id="_FVrxsCFDEd2HO4akhfXL1w" name="Sistema Extern">
-          <ownedOperation xmi:id="_n2GOUCHeEd2Pusynym5W6w" name="askRequest"/>
+          <ownedOperation xmi:id="_n2GOUCHeEd2Pusynym5W6w" name="askRequest">
+            <ownedParameter xmi:id="_f9O-MCHqEd2AX46NLcxjVA" name="Parámetro1"/>
+          </ownedOperation>
           <ownedOperation xmi:id="_3f7C4CHeEd2Pusynym5W6w" name="preBook"/>
           <ownedOperation xmi:id="__B8C0CHeEd2Pusynym5W6w" name="rentConfirm"/>
         </packagedElement>
@@ -12158,7 +12177,6 @@
           <ownedAttribute xmi:id="__AIk4CFCEd2HO4akhfXL1w" name="pantalla característiques de la petició" visibility="private" type="_4fB6sCDGEd2QC6lTKoXgfA" association="_-_8XoCFCEd2HO4akhfXL1w"/>
           <ownedAttribute xmi:id="__Aa4wCFCEd2HO4akhfXL1w" name="pantalla característiques de la petició2" visibility="private" type="_4fB6sCDGEd2QC6lTKoXgfA" association="_-_8XoCFCEd2HO4akhfXL1w"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:Association" xmi:id="_-_8XoCFCEd2HO4akhfXL1w" memberEnd="__AIk4CFCEd2HO4akhfXL1w __Aa4wCFCEd2HO4akhfXL1w"/>
       </packagedElement>
     </packagedElement>
     <profileApplication xmi:id="_szH3xfm3Edyli_XzYLJ9YQ">
