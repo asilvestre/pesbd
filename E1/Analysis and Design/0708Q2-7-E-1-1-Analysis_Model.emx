@@ -11372,11 +11372,6 @@
                     </children>
                     <children xmi:id="_T1A0QCJPEd2ReLvUHik7JQ" element="_T0aXUCJPEd2ReLvUHik7JQ">
                       <children xmi:id="_T1A0QyJPEd2ReLvUHik7JQ" element="_T0aXUSJPEd2ReLvUHik7JQ">
-                        <children xmi:id="_T1A0RSJPEd2ReLvUHik7JQ" element="_T0kIUCJPEd2ReLvUHik7JQ">
-                          <children xmi:id="_T1A0SCJPEd2ReLvUHik7JQ" type="guard"/>
-                          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_T1A0RiJPEd2ReLvUHik7JQ" showListSignature="true" showStereotype="Image"/>
-                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1A0RyJPEd2ReLvUHik7JQ"/>
-                        </children>
                         <children xmi:id="_T1A0SSJPEd2ReLvUHik7JQ" element="_JWAewyJPEd2ReLvUHik7JQ">
                           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_T1A0SiJPEd2ReLvUHik7JQ" showListSignature="true" showStereotype="Image"/>
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T1A0SyJPEd2ReLvUHik7JQ" x="-1" y="1322" height="370"/>
@@ -11637,11 +11632,6 @@
             </fragment>
             <fragment xmi:type="uml:CombinedFragment" xmi:id="_T0aXUCJPEd2ReLvUHik7JQ" covered="_zkH8QCJNEd2ReLvUHik7JQ _yvrAgCJNEd2ReLvUHik7JQ" interactionOperator="opt">
               <operand xmi:id="_T0aXUSJPEd2ReLvUHik7JQ">
-                <guard xmi:id="_T0kIUCJPEd2ReLvUHik7JQ">
-                  <specification xmi:type="uml:OpaqueExpression" xmi:id="_T0kIUSJPEd2ReLvUHik7JQ">
-                    <body></body>
-                  </specification>
-                </guard>
                 <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_JWAewSJPEd2ReLvUHik7JQ" covered="_yvrAgCJNEd2ReLvUHik7JQ" event="_ol0GUB-1Ed2wW57a2gCSYg" message="_JWAewCJPEd2ReLvUHik7JQ"/>
                 <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_JWAewiJPEd2ReLvUHik7JQ" covered="_zkH8QCJNEd2ReLvUHik7JQ" event="_ol0GUR-1Ed2wW57a2gCSYg" message="_JWAewCJPEd2ReLvUHik7JQ"/>
                 <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_JWAewyJPEd2ReLvUHik7JQ" covered="_zkH8QCJNEd2ReLvUHik7JQ" start="_JWAewiJPEd2ReLvUHik7JQ" finish="_JWAexCJPEd2ReLvUHik7JQ"/>
