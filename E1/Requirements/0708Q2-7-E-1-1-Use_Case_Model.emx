@@ -26,7 +26,7 @@
     <eAnnotations xmi:id="_sADSoPgjEdymAcX529PBRQ" source="uml2.diagrams"/>
     <packagedElement xmi:type="uml:Association" xmi:id="_IFqRUCDHEd2QC6lTKoXgfA" memberEnd="_IF0CUCDHEd2QC6lTKoXgfA _IF0CUyDHEd2QC6lTKoXgfA" navigableOwnedEnd="_IF0CUCDHEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_IF0CUCDHEd2QC6lTKoXgfA" name="confirmació de petició" visibility="private" association="_IFqRUCDHEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_C5egUCDHEd2QC6lTKoXgfA?Analysis%20Model/Sistema%20de%20Planificació/Limitis/Pantalla%20Confirmació%20de%20petició?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_C5egUCDHEd2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pPlanificacio/Pantalla%20Confirmació%20de%20petició?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_IF0CUiDHEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IF0CUSDHEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -53,7 +53,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_HQT9sCDHEd2QC6lTKoXgfA" memberEnd="_HQT9sSDHEd2QC6lTKoXgfA _HQdusCDHEd2QC6lTKoXgfA" navigableOwnedEnd="_HQT9sSDHEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_HQT9sSDHEd2QC6lTKoXgfA" name="llistat de possibilitats" visibility="private" association="_HQT9sCDHEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#__ZDGgCDGEd2QC6lTKoXgfA?Analysis%20Model/Sistema%20de%20Planificació/Limitis/Pantalla%20Llistat%20de%20possibilitats?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#__ZDGgCDGEd2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pPlanificacio/Pantalla%20Llistat%20de%20possibilitats?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_HQT9syDHEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_HQT9siDHEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -64,7 +64,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_GGP-UCDHEd2QC6lTKoXgfA" memberEnd="_GGZIQCDHEd2QC6lTKoXgfA _GGZIQyDHEd2QC6lTKoXgfA" navigableOwnedEnd="_GGZIQCDHEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_GGZIQCDHEd2QC6lTKoXgfA" name="pantalla característiques de la petició" visibility="private" association="_GGP-UCDHEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_4fB6sCDGEd2QC6lTKoXgfA?Analysis%20Model/Sistema%20de%20Planificació/Limitis/Pantalla%20Característiques%20de%20la%20petició?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_4fB6sCDGEd2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pPlanificacio/Pantalla%20Característiques%20de%20la%20petició?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_GGZIQiDHEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_GGZIQSDHEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -75,7 +75,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_lvN0UCDAEd2QC6lTKoXgfA" memberEnd="_lvN0USDAEd2QC6lTKoXgfA _lvXlUCDAEd2QC6lTKoXgfA" navigableOwnedEnd="_lvN0USDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_lvN0USDAEd2QC6lTKoXgfA" name="pantalla cerca comanda" visibility="private" association="_lvN0UCDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_z3x8YCC-Ed2QC6lTKoXgfA?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/Pantalla%20Cerca%20comanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_z3x8YCC-Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Cerca%20comanda?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_lvN0UyDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_lvN0UiDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -86,7 +86,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_M0FMcCDAEd2QC6lTKoXgfA" memberEnd="_M0O9cCDAEd2QC6lTKoXgfA _M0O9cyDAEd2QC6lTKoXgfA" navigableOwnedEnd="_M0O9cCDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_M0O9cCDAEd2QC6lTKoXgfA" name="pantalla cerca comanda - usuari" visibility="private" association="_M0FMcCDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_z3x8YCC-Ed2QC6lTKoXgfA?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/Pantalla%20Cerca%20comanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_z3x8YCC-Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Cerca%20comanda?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_M0O9ciDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_M0O9cSDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -97,7 +97,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_kRocACDAEd2QC6lTKoXgfA" memberEnd="_kRocASDAEd2QC6lTKoXgfA _kRyNAiDAEd2QC6lTKoXgfA" navigableOwnedEnd="_kRocASDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_kRocASDAEd2QC6lTKoXgfA" name="pantalla confirmar cancel·lació" visibility="private" association="_kRocACDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_p5WH4CC_Ed2QC6lTKoXgfA?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/Pantalla%20Confirmar%20cancel·lació?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_p5WH4CC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Confirmar%20cancel·lació?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_kRyNASDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_kRyNACDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -108,7 +108,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_oOONYCDAEd2QC6lTKoXgfA" memberEnd="_oOX-YCDAEd2QC6lTKoXgfA _oOX-YyDAEd2QC6lTKoXgfA" navigableOwnedEnd="_oOX-YCDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_oOX-YCDAEd2QC6lTKoXgfA" name="pantalla confirmar cancel·lació" visibility="private" association="_oOONYCDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_p5WH4CC_Ed2QC6lTKoXgfA?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/Pantalla%20Confirmar%20cancel·lació?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_p5WH4CC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Confirmar%20cancel·lació?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_oOX-YiDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_oOX-YSDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -119,7 +119,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_gMPhYB-3Ed2wW57a2gCSYg" memberEnd="_gMYrUB-3Ed2wW57a2gCSYg _gMYrUx-3Ed2wW57a2gCSYg" navigableOwnedEnd="_gMYrUB-3Ed2wW57a2gCSYg">
       <ownedEnd xmi:id="_gMYrUB-3Ed2wW57a2gCSYg" name="pantallacrearruta" visibility="private" association="_gMPhYB-3Ed2wW57a2gCSYg">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_JEEF4B-sEd2wW57a2gCSYg?Analysis%20Model/Sistema%20d'Entrega%20i%20Recepció/Classes/Limits/PantallaCrearRuta?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_JEEF4B-sEd2wW57a2gCSYg?Analysis%20Model/Capa%20Presentacio/pSistemaEntregaRecepcio/PantallaCrearRuta?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gMYrUh-3Ed2wW57a2gCSYg" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gMYrUR-3Ed2wW57a2gCSYg"/>
       </ownedEnd>
@@ -130,7 +130,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_hr6-ACDAEd2QC6lTKoXgfA" memberEnd="_hr6-ASDAEd2QC6lTKoXgfA _hsEH8SDAEd2QC6lTKoXgfA" navigableOwnedEnd="_hr6-ASDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_hr6-ASDAEd2QC6lTKoXgfA" name="pantalla informació comanda" visibility="private" association="_hr6-ACDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ly7FECC_Ed2QC6lTKoXgfA?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/Pantalla%20Informació%20comanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ly7FECC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Informació%20comanda?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_hsEH8CDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_hr6-AiDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -141,7 +141,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_m4-4wCDAEd2QC6lTKoXgfA" memberEnd="_m5IpwCDAEd2QC6lTKoXgfA _m5IpwyDAEd2QC6lTKoXgfA" navigableOwnedEnd="_m5IpwCDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_m5IpwCDAEd2QC6lTKoXgfA" name="pantalla informació comanda" visibility="private" association="_m4-4wCDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ly7FECC_Ed2QC6lTKoXgfA?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/Pantalla%20Informació%20comanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ly7FECC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Informació%20comanda?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_m5IpwiDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_m5IpwSDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -152,7 +152,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_f02usCDAEd2QC6lTKoXgfA" memberEnd="_f0_4oCDAEd2QC6lTKoXgfA _f1JpoCDAEd2QC6lTKoXgfA" navigableOwnedEnd="_f0_4oCDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_f0_4oCDAEd2QC6lTKoXgfA" name="pantalla llistat de comandes" visibility="private" association="_f02usCDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_gZydMCC_Ed2QC6lTKoXgfA?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/Pantalla%20Llistat%20de%20comandes?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_gZydMCC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Llistat%20de%20comandes?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_f0_4oiDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_f0_4oSDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -163,7 +163,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_ggN_4CDAEd2QC6lTKoXgfA" memberEnd="_ggqr0CDAEd2QC6lTKoXgfA _ghQhsCDAEd2QC6lTKoXgfA" navigableOwnedEnd="_ggqr0CDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_ggqr0CDAEd2QC6lTKoXgfA" name="pantalla llistat de comandes" visibility="private" association="_ggN_4CDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_gZydMCC_Ed2QC6lTKoXgfA?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/Pantalla%20Llistat%20de%20comandes?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_gZydMCC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Llistat%20de%20comandes?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ggqr0iDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ggqr0SDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -174,7 +174,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_gqotkB-3Ed2wW57a2gCSYg" memberEnd="_gqotkR-3Ed2wW57a2gCSYg _gqyekB-3Ed2wW57a2gCSYg" navigableOwnedEnd="_gqotkR-3Ed2wW57a2gCSYg">
       <ownedEnd xmi:id="_gqotkR-3Ed2wW57a2gCSYg" name="pantallaobtenirmitjans" visibility="private" association="_gqotkB-3Ed2wW57a2gCSYg">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_yszwAB-rEd2wW57a2gCSYg?Analysis%20Model/Sistema%20d'Entrega%20i%20Recepció/Classes/Limits/PantallaObtenirMitjans?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_yszwAB-rEd2wW57a2gCSYg?Analysis%20Model/Capa%20Presentacio/pSistemaEntregaRecepcio/PantallaObtenirMitjans?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gqotkx-3Ed2wW57a2gCSYg" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gqotkh-3Ed2wW57a2gCSYg"/>
       </ownedEnd>
@@ -185,7 +185,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_itxOsBrwEd2EPIsdp1UHFw" memberEnd="_itxOsRrwEd2EPIsdp1UHFw _it6_shrwEd2EPIsdp1UHFw" navigableOwnedEnd="_itxOsRrwEd2EPIsdp1UHFw">
       <ownedEnd xmi:id="_itxOsRrwEd2EPIsdp1UHFw" name="pantallademanarpressupostcomanda" visibility="private" association="_itxOsBrwEd2EPIsdp1UHFw">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/PantallaEnregistrarPeticioComanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaEnregistrarPeticioComanda?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_it6_sRrwEd2EPIsdp1UHFw" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_it6_sBrwEd2EPIsdp1UHFw"/>
       </ownedEnd>
@@ -196,7 +196,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_lOZ_cBrwEd2EPIsdp1UHFw" memberEnd="_lOZ_cRrwEd2EPIsdp1UHFw _lOjwcBrwEd2EPIsdp1UHFw" navigableOwnedEnd="_lOZ_cRrwEd2EPIsdp1UHFw">
       <ownedEnd xmi:id="_lOZ_cRrwEd2EPIsdp1UHFw" name="pantallademanarpressupostcomanda" visibility="private" association="_lOZ_cBrwEd2EPIsdp1UHFw">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/PantallaEnregistrarPeticioComanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaEnregistrarPeticioComanda?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_lOZ_cxrwEd2EPIsdp1UHFw" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_lOZ_chrwEd2EPIsdp1UHFw"/>
       </ownedEnd>
@@ -207,7 +207,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_8lJJMBucEd2mCeylmSB6jg" memberEnd="_8lJJMRucEd2mCeylmSB6jg _8lSTIhucEd2mCeylmSB6jg" navigableOwnedEnd="_8lJJMRucEd2mCeylmSB6jg">
       <ownedEnd xmi:id="_8lJJMRucEd2mCeylmSB6jg" name="pantallaresultatdemanarpressupost" visibility="private" association="_8lJJMBucEd2mCeylmSB6jg">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_rOPLkBtLEd2NEcGCsxdGog?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/PantallaResultatDemanarPressupost?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_rOPLkBtLEd2NEcGCsxdGog?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaResultatDemanarPressupost?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8lSTIRucEd2mCeylmSB6jg" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8lSTIBucEd2mCeylmSB6jg"/>
       </ownedEnd>
@@ -218,7 +218,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_9FCKMBucEd2mCeylmSB6jg" memberEnd="_9FCKMRucEd2mCeylmSB6jg _9FLUIRucEd2mCeylmSB6jg" navigableOwnedEnd="_9FCKMRucEd2mCeylmSB6jg">
       <ownedEnd xmi:id="_9FCKMRucEd2mCeylmSB6jg" name="pantallaresultatdemanarpressupost" visibility="private" association="_9FCKMBucEd2mCeylmSB6jg">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_rOPLkBtLEd2NEcGCsxdGog?Analysis%20Model/Gestió%20de%20Comandes%20i%20Contractes/Limits/PantallaResultatDemanarPressupost?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_rOPLkBtLEd2NEcGCsxdGog?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaResultatDemanarPressupost?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_9FLUIBucEd2mCeylmSB6jg" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_9FCKMhucEd2mCeylmSB6jg"/>
       </ownedEnd>
@@ -653,7 +653,7 @@
             <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_VLixSfZ8Edy9g61BjL6clA"/>
           </children>
           <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_VLixQfZ8Edy9g61BjL6clA" showStereotype="Image"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLixQvZ8Edy9g61BjL6clA" x="9193" y="2536"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VLixQvZ8Edy9g61BjL6clA" x="9193" y="3487"/>
         </children>
         <children xmi:id="_dRRv4PzrEdyOZMyZdtN6aw" element="_YsGoUPl5EdylvdL-IIbDug">
           <children xmi:id="_dRRv4_zrEdyOZMyZdtN6aw" type="ImageCompartment">
