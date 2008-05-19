@@ -12,15 +12,21 @@
   </packageImport>
   <packagedElement xmi:type="uml:Package" xmi:id="_nIXdQOnFEdyVi_xoU05qOw" name="Actors">
     <eAnnotations xmi:id="_nIgnMOnFEdyVi_xoU05qOw" source="uml2.diagrams"/>
-    <packagedElement xmi:type="uml:Actor" xmi:id="_5XA_AOnFEdyVi_xoU05qOw" name="Gestor comandes"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_5XA_AOnFEdyVi_xoU05qOw" name="Gestor comandes" clientDependency="_fG02UCXqEd2w77SGMUcvww"/>
     <packagedElement xmi:type="uml:Actor" xmi:id="_pkrusOnFEdyVi_xoU05qOw" name="Comptable"/>
     <packagedElement xmi:type="uml:Actor" xmi:id="_HRFtMOnGEdyVi_xoU05qOw" name="Gestor de transports"/>
     <packagedElement xmi:type="uml:Actor" xmi:id="_Ju5MYOnGEdyVi_xoU05qOw" name="Transportista"/>
     <packagedElement xmi:type="uml:Actor" xmi:id="_uvse8O8_EdyV3tB_RD1GKg" name="Assessor legal"/>
     <packagedElement xmi:type="uml:Actor" xmi:id="_gffk8PcwEdyY_a8sxctgJQ" name="Planificador"/>
-    <packagedElement xmi:type="uml:Actor" xmi:id="_YsGoUPl5EdylvdL-IIbDug" name="Client"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_YsGoUPl5EdylvdL-IIbDug" name="Client" clientDependency="_tMwrsCXpEd2w77SGMUcvww"/>
     <packagedElement xmi:type="uml:Actor" xmi:id="_EsyCMBVcEd21MP10x4vL5g" name="Sistema"/>
     <packagedElement xmi:type="uml:Actor" xmi:id="_-UWoEBzQEd2HAdWNX_bjLg" name="Sistema extern"/>
+    <packagedElement xmi:type="uml:Realization" xmi:id="_tMwrsCXpEd2w77SGMUcvww" client="_YsGoUPl5EdylvdL-IIbDug">
+      <supplier xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-2-Design_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Design%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaEnregistrarPeticioComanda?"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Realization" xmi:id="_fG02UCXqEd2w77SGMUcvww" client="_5XA_AOnFEdyVi_xoU05qOw">
+      <supplier xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-2-Design_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Design%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaEnregistrarPeticioComanda?"/>
+    </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_r_MXAPgjEdymAcX529PBRQ" name="Associacions">
     <eAnnotations xmi:id="_sADSoPgjEdymAcX529PBRQ" source="uml2.diagrams"/>
