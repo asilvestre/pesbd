@@ -2047,6 +2047,50 @@
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_WuKrlBzREd2HAdWNX_bjLg" name="Eventodeoperaciónderecepción1"/>
     </packagedElement>
   </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_cdc98CW2Ed2O2MssHrGUWw" memberEnd="_cdc98SW2Ed2O2MssHrGUWw _cdc99CW2Ed2O2MssHrGUWw" navigableOwnedEnd="_cdc98SW2Ed2O2MssHrGUWw">
+    <ownedEnd xmi:id="_cdc98SW2Ed2O2MssHrGUWw" name="pantallacercarpressupost" visibility="private" association="_cdc98CW2Ed2O2MssHrGUWw">
+      <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_GqV7ICWvEd2O2MssHrGUWw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaCercarPressupost?"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_cdc98yW2Ed2O2MssHrGUWw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_cdc98iW2Ed2O2MssHrGUWw"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_cdc99CW2Ed2O2MssHrGUWw" name="" visibility="private" type="_5XA_AOnFEdyVi_xoU05qOw" association="_cdc98CW2Ed2O2MssHrGUWw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_cdc99iW2Ed2O2MssHrGUWw" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_cdc99SW2Ed2O2MssHrGUWw"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_c-hqsCW2Ed2O2MssHrGUWw" memberEnd="_c-rbsCW2Ed2O2MssHrGUWw _c-rbsyW2Ed2O2MssHrGUWw" navigableOwnedEnd="_c-rbsCW2Ed2O2MssHrGUWw">
+    <ownedEnd xmi:id="_c-rbsCW2Ed2O2MssHrGUWw" name="pantallaseleccionarpressupost" visibility="private" association="_c-hqsCW2Ed2O2MssHrGUWw">
+      <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_9Zr9MCWwEd2O2MssHrGUWw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaSeleccionarPressupost?"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_c-rbsiW2Ed2O2MssHrGUWw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_c-rbsSW2Ed2O2MssHrGUWw"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_c-rbsyW2Ed2O2MssHrGUWw" name="" visibility="private" type="_5XA_AOnFEdyVi_xoU05qOw" association="_c-hqsCW2Ed2O2MssHrGUWw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_c-rbtSW2Ed2O2MssHrGUWw" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_c-rbtCW2Ed2O2MssHrGUWw"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_dZM0gCW2Ed2O2MssHrGUWw" memberEnd="_dZM0gSW2Ed2O2MssHrGUWw _dZWlgCW2Ed2O2MssHrGUWw" navigableOwnedEnd="_dZM0gSW2Ed2O2MssHrGUWw">
+    <ownedEnd xmi:id="_dZM0gSW2Ed2O2MssHrGUWw" name="pantalladetallspressupost" visibility="private" association="_dZM0gCW2Ed2O2MssHrGUWw">
+      <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_DNzQ4CWxEd2O2MssHrGUWw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaDetallsPressupost?"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_dZM0gyW2Ed2O2MssHrGUWw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_dZM0giW2Ed2O2MssHrGUWw"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_dZWlgCW2Ed2O2MssHrGUWw" name="" visibility="private" type="_5XA_AOnFEdyVi_xoU05qOw" association="_dZM0gCW2Ed2O2MssHrGUWw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_dZWlgiW2Ed2O2MssHrGUWw" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_dZWlgSW2Ed2O2MssHrGUWw"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_eMUTgCW2Ed2O2MssHrGUWw" memberEnd="_eMddcCW2Ed2O2MssHrGUWw _eMddcyW2Ed2O2MssHrGUWw" navigableOwnedEnd="_eMddcCW2Ed2O2MssHrGUWw">
+    <ownedEnd xmi:id="_eMddcCW2Ed2O2MssHrGUWw" name="pantallacomandadonadaalta" visibility="private" association="_eMUTgCW2Ed2O2MssHrGUWw">
+      <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_LgEpECWxEd2O2MssHrGUWw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaComandaDonadaAlta?"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_eMddciW2Ed2O2MssHrGUWw" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_eMddcSW2Ed2O2MssHrGUWw"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_eMddcyW2Ed2O2MssHrGUWw" name="" visibility="private" type="_5XA_AOnFEdyVi_xoU05qOw" association="_eMUTgCW2Ed2O2MssHrGUWw">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_eMdddSW2Ed2O2MssHrGUWw" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_eMdddCW2Ed2O2MssHrGUWw"/>
+    </ownedEnd>
+  </packagedElement>
   <profileApplication xmi:id="_EpRy5enFEdyVi_xoU05qOw">
     <eAnnotations xmi:id="_EpRy5unFEdyVi_xoU05qOw" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
