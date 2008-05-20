@@ -7006,7 +7006,7 @@
           </ownedBehavior>
           <ownedBehavior xmi:type="uml:Interaction" xmi:id="_uuu-UCX1Ed2w77SGMUcvww" name="Confirmar Pressupost">
             <eAnnotations xmi:id="_uuu-USX1Ed2w77SGMUcvww" source="uml2.diagrams">
-              <contents xmi:type="notation:Diagram" xmi:id="_uuu-UiX1Ed2w77SGMUcvww" type="Sequence" element="_uuu-UCX1Ed2w77SGMUcvww" name="DiagramaDeSecuencia1" measurementUnit="Himetric">
+              <contents xmi:type="notation:Diagram" xmi:id="_uuu-UiX1Ed2w77SGMUcvww" type="Sequence" element="_uuu-UCX1Ed2w77SGMUcvww" name="Demanar Pressupost Comanda" measurementUnit="Himetric">
                 <children xmi:id="_uuu-UyX1Ed2w77SGMUcvww" element="_uuu-UCX1Ed2w77SGMUcvww">
                   <children xmi:id="_uuu-VCX1Ed2w77SGMUcvww" type="interaction_compartment">
                     <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_uuu-VSX1Ed2w77SGMUcvww"/>
