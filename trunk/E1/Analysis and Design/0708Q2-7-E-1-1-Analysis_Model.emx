@@ -13955,54 +13955,54 @@
                 </children>
                 <children xmi:id="_cdmH5yW2Ed2O2MssHrGUWw" visible="false" type="ToMultiplicityLabel">
                   <children xmi:id="_cdmH6SW2Ed2O2MssHrGUWw" type="ToMultiplicity"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc99CW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc99CW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_cdmH6CW2Ed2O2MssHrGUWw" y="396"/>
                 </children>
                 <children xmi:id="_cdmH6iW2Ed2O2MssHrGUWw" type="ToRoleLabel">
                   <children xmi:id="_cdmH7CW2Ed2O2MssHrGUWw" type="ToRole"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc99CW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc99CW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_cdmH6yW2Ed2O2MssHrGUWw" y="-397"/>
                 </children>
                 <children xmi:id="_cdmH7SW2Ed2O2MssHrGUWw" visible="false" type="FromMultiplicityLabel">
                   <children xmi:id="_cdmH7yW2Ed2O2MssHrGUWw" type="FromMultiplicity"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc98SW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallacercarpressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc98SW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallacercarpressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_cdmH7iW2Ed2O2MssHrGUWw" y="396"/>
                 </children>
                 <children xmi:id="_cdmH8CW2Ed2O2MssHrGUWw" visible="false" type="FromRoleLabel">
                   <children xmi:id="_cdmH8iW2Ed2O2MssHrGUWw" type="FromRole"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc98SW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallacercarpressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc98SW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallacercarpressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_cdmH8SW2Ed2O2MssHrGUWw" y="-397"/>
                 </children>
                 <children xmi:id="_cdmH8yW2Ed2O2MssHrGUWw" type="ToQualifierLabel">
                   <children xmi:id="_cdmH9SW2Ed2O2MssHrGUWw" type="QualifierCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_cdmH9iW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc99CW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc99CW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_cdmH9CW2Ed2O2MssHrGUWw" y="-186"/>
                 </children>
                 <children xmi:id="_cdmH9yW2Ed2O2MssHrGUWw" type="FromQualifierLabel">
                   <children xmi:id="_cdmH-SW2Ed2O2MssHrGUWw" type="QualifierCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_cdmH-iW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc98SW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallacercarpressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc98SW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallacercarpressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_cdmH-CW2Ed2O2MssHrGUWw" y="-186"/>
                 </children>
                 <children xmi:id="_cdmH-yW2Ed2O2MssHrGUWw" type="ToConstraintLabel">
                   <children xmi:id="_cdmH_SW2Ed2O2MssHrGUWw" type="ToConstraintCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_cdmH_iW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc99CW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc99CW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_cdmH_CW2Ed2O2MssHrGUWw" y="1058"/>
                 </children>
                 <children xmi:id="_cdmH_yW2Ed2O2MssHrGUWw" type="FromConstraintLabel">
                   <children xmi:id="_cdmIASW2Ed2O2MssHrGUWw" type="FromConstraintCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_cdmIAiW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc98SW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallacercarpressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc98SW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallacercarpressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_cdmIACW2Ed2O2MssHrGUWw" y="1058"/>
                 </children>
                 <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cdmH4SW2Ed2O2MssHrGUWw" showStereotype="Text"/>
-                <element xmi:type="uml:Association" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc98CW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E?"/>
+                <element xmi:type="uml:Association" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_cdc98CW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E?"/>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cdmH4iW2Ed2O2MssHrGUWw" points="[10, -12, -212, 231]$[174, -220, -48, 23]"/>
               </edges>
               <edges xmi:id="_c-1MsCW2Ed2O2MssHrGUWw" source="_adc1ECW2Ed2O2MssHrGUWw" target="_65YxYCW1Ed2O2MssHrGUWw">
@@ -14013,54 +14013,54 @@
                 </children>
                 <children xmi:id="_c-1MtyW2Ed2O2MssHrGUWw" visible="false" type="ToMultiplicityLabel">
                   <children xmi:id="_c-1MuSW2Ed2O2MssHrGUWw" type="ToMultiplicity"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsyW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsyW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_c-1MuCW2Ed2O2MssHrGUWw" y="396"/>
                 </children>
                 <children xmi:id="_c-1MuiW2Ed2O2MssHrGUWw" type="ToRoleLabel">
                   <children xmi:id="_c-1MvCW2Ed2O2MssHrGUWw" type="ToRole"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsyW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsyW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_c-1MuyW2Ed2O2MssHrGUWw" y="-397"/>
                 </children>
                 <children xmi:id="_c-1MvSW2Ed2O2MssHrGUWw" visible="false" type="FromMultiplicityLabel">
                   <children xmi:id="_c-1MvyW2Ed2O2MssHrGUWw" type="FromMultiplicity"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallaseleccionarpressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallaseleccionarpressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_c-1MviW2Ed2O2MssHrGUWw" y="396"/>
                 </children>
                 <children xmi:id="_c-1MwCW2Ed2O2MssHrGUWw" visible="false" type="FromRoleLabel">
                   <children xmi:id="_c-1MwiW2Ed2O2MssHrGUWw" type="FromRole"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallaseleccionarpressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallaseleccionarpressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_c-1MwSW2Ed2O2MssHrGUWw" y="-397"/>
                 </children>
                 <children xmi:id="_c-1MwyW2Ed2O2MssHrGUWw" type="ToQualifierLabel">
                   <children xmi:id="_c-1MxSW2Ed2O2MssHrGUWw" type="QualifierCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_c-1MxiW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsyW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsyW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_c-1MxCW2Ed2O2MssHrGUWw" y="-186"/>
                 </children>
                 <children xmi:id="_c-1MxyW2Ed2O2MssHrGUWw" type="FromQualifierLabel">
                   <children xmi:id="_c-1MySW2Ed2O2MssHrGUWw" type="QualifierCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_c-1MyiW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallaseleccionarpressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallaseleccionarpressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_c-1MyCW2Ed2O2MssHrGUWw" y="-186"/>
                 </children>
                 <children xmi:id="_c-1MyyW2Ed2O2MssHrGUWw" type="ToConstraintLabel">
                   <children xmi:id="_c-1MzSW2Ed2O2MssHrGUWw" type="ToConstraintCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_c-1MziW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsyW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsyW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_c-1MzCW2Ed2O2MssHrGUWw" y="1058"/>
                 </children>
                 <children xmi:id="_c-1MzyW2Ed2O2MssHrGUWw" type="FromConstraintLabel">
                   <children xmi:id="_c-1M0SW2Ed2O2MssHrGUWw" type="FromConstraintCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_c-1M0iW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallaseleccionarpressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-rbsCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallaseleccionarpressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_c-1M0CW2Ed2O2MssHrGUWw" y="1058"/>
                 </children>
                 <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_c-1MsSW2Ed2O2MssHrGUWw" showStereotype="Text"/>
-                <element xmi:type="uml:Association" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-hqsCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E?"/>
+                <element xmi:type="uml:Association" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_c-hqsCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E?"/>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_c-1MsiW2Ed2O2MssHrGUWw" points="[34, -12, -182, 82]$[209, -71, -7, 23]"/>
               </edges>
               <edges xmi:id="_dZWlgyW2Ed2O2MssHrGUWw" source="_adc1ECW2Ed2O2MssHrGUWw" target="_7sMuYCW1Ed2O2MssHrGUWw">
@@ -14071,54 +14071,54 @@
                 </children>
                 <children xmi:id="_dZWliiW2Ed2O2MssHrGUWw" visible="false" type="ToMultiplicityLabel">
                   <children xmi:id="_dZWljCW2Ed2O2MssHrGUWw" type="ToMultiplicity"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZWlgCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZWlgCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_dZWliyW2Ed2O2MssHrGUWw" y="396"/>
                 </children>
                 <children xmi:id="_dZWljSW2Ed2O2MssHrGUWw" type="ToRoleLabel">
                   <children xmi:id="_dZWljyW2Ed2O2MssHrGUWw" type="ToRole"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZWlgCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZWlgCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_dZWljiW2Ed2O2MssHrGUWw" y="-397"/>
                 </children>
                 <children xmi:id="_dZWlkCW2Ed2O2MssHrGUWw" visible="false" type="FromMultiplicityLabel">
                   <children xmi:id="_dZWlkiW2Ed2O2MssHrGUWw" type="FromMultiplicity"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZM0gSW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantalladetallspressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZM0gSW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantalladetallspressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_dZWlkSW2Ed2O2MssHrGUWw" y="396"/>
                 </children>
                 <children xmi:id="_dZWlkyW2Ed2O2MssHrGUWw" visible="false" type="FromRoleLabel">
                   <children xmi:id="_dZWllSW2Ed2O2MssHrGUWw" type="FromRole"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZM0gSW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantalladetallspressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZM0gSW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantalladetallspressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_dZWllCW2Ed2O2MssHrGUWw" y="-397"/>
                 </children>
                 <children xmi:id="_dZWlliW2Ed2O2MssHrGUWw" type="ToQualifierLabel">
                   <children xmi:id="_dZWlmCW2Ed2O2MssHrGUWw" type="QualifierCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_dZWlmSW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZWlgCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZWlgCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_dZWllyW2Ed2O2MssHrGUWw" y="-186"/>
                 </children>
                 <children xmi:id="_dZWlmiW2Ed2O2MssHrGUWw" type="FromQualifierLabel">
                   <children xmi:id="_dZWlnCW2Ed2O2MssHrGUWw" type="QualifierCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_dZWlnSW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZM0gSW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantalladetallspressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZM0gSW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantalladetallspressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_dZWlmyW2Ed2O2MssHrGUWw" y="-186"/>
                 </children>
                 <children xmi:id="_dZWlniW2Ed2O2MssHrGUWw" type="ToConstraintLabel">
                   <children xmi:id="_dZWloCW2Ed2O2MssHrGUWw" type="ToConstraintCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_dZWloSW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZWlgCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZWlgCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_dZWlnyW2Ed2O2MssHrGUWw" y="1058"/>
                 </children>
                 <children xmi:id="_dZWloiW2Ed2O2MssHrGUWw" type="FromConstraintLabel">
                   <children xmi:id="_dZWlpCW2Ed2O2MssHrGUWw" type="FromConstraintCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_dZWlpSW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZM0gSW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantalladetallspressupost?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZM0gSW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantalladetallspressupost?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_dZWloyW2Ed2O2MssHrGUWw" y="1058"/>
                 </children>
                 <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_dZWlhCW2Ed2O2MssHrGUWw" showStereotype="Text"/>
-                <element xmi:type="uml:Association" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZM0gCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E?"/>
+                <element xmi:type="uml:Association" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_dZM0gCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E?"/>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dZWlhSW2Ed2O2MssHrGUWw" points="[39, 11, -177, -44]$[125, 49, -91, -6]"/>
               </edges>
               <edges xmi:id="_eMnOcCW2Ed2O2MssHrGUWw" source="_adc1ECW2Ed2O2MssHrGUWw" target="_6d02wCW1Ed2O2MssHrGUWw">
@@ -14129,54 +14129,54 @@
                 </children>
                 <children xmi:id="_eMnOdyW2Ed2O2MssHrGUWw" type="ToMultiplicityLabel">
                   <children xmi:id="_eMnOeSW2Ed2O2MssHrGUWw" type="ToMultiplicity"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcyW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcyW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_eMnOeCW2Ed2O2MssHrGUWw" y="396"/>
                 </children>
                 <children xmi:id="_eMnOeiW2Ed2O2MssHrGUWw" type="ToRoleLabel">
                   <children xmi:id="_eMnOfCW2Ed2O2MssHrGUWw" type="ToRole"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcyW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcyW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_eMnOeyW2Ed2O2MssHrGUWw" y="-397"/>
                 </children>
                 <children xmi:id="_eMnOfSW2Ed2O2MssHrGUWw" visible="false" type="FromMultiplicityLabel">
                   <children xmi:id="_eMnOfyW2Ed2O2MssHrGUWw" type="FromMultiplicity"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallacomandadonadaalta?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallacomandadonadaalta?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_eMnOfiW2Ed2O2MssHrGUWw" y="396"/>
                 </children>
                 <children xmi:id="_eMnOgCW2Ed2O2MssHrGUWw" visible="false" type="FromRoleLabel">
                   <children xmi:id="_eMnOgiW2Ed2O2MssHrGUWw" type="FromRole"/>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallacomandadonadaalta?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallacomandadonadaalta?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_eMnOgSW2Ed2O2MssHrGUWw" y="-397"/>
                 </children>
                 <children xmi:id="_eMnOgyW2Ed2O2MssHrGUWw" type="ToQualifierLabel">
                   <children xmi:id="_eMnOhSW2Ed2O2MssHrGUWw" type="QualifierCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_eMnOhiW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcyW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcyW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_eMnOhCW2Ed2O2MssHrGUWw" y="-186"/>
                 </children>
                 <children xmi:id="_eMnOhyW2Ed2O2MssHrGUWw" type="FromQualifierLabel">
                   <children xmi:id="_eMnOiSW2Ed2O2MssHrGUWw" type="QualifierCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_eMnOiiW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallacomandadonadaalta?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallacomandadonadaalta?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_eMnOiCW2Ed2O2MssHrGUWw" y="-186"/>
                 </children>
                 <children xmi:id="_eMnOiyW2Ed2O2MssHrGUWw" type="ToConstraintLabel">
                   <children xmi:id="_eMnOjSW2Ed2O2MssHrGUWw" type="ToConstraintCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_eMnOjiW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcyW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/%3CPropiedad%3E?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcyW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/%3CPropiedad%3E?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_eMnOjCW2Ed2O2MssHrGUWw" y="1058"/>
                 </children>
                 <children xmi:id="_eMnOjyW2Ed2O2MssHrGUWw" type="FromConstraintLabel">
                   <children xmi:id="_eMnOkSW2Ed2O2MssHrGUWw" type="FromConstraintCompartment">
                     <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_eMnOkiW2Ed2O2MssHrGUWw"/>
                   </children>
-                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E/pantallacomandadonadaalta?"/>
+                  <element xmi:type="uml:Property" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMddcCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E/pantallacomandadonadaalta?"/>
                   <layoutConstraint xmi:type="notation:Location" xmi:id="_eMnOkCW2Ed2O2MssHrGUWw" y="1058"/>
                 </children>
                 <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_eMnOcSW2Ed2O2MssHrGUWw" showStereotype="Text"/>
-                <element xmi:type="uml:Association" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMUTgCW2Ed2O2MssHrGUWw?Use%20Case/%3CAsociación%3E?"/>
+                <element xmi:type="uml:Association" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_eMUTgCW2Ed2O2MssHrGUWw?Use%20Case/Associacions/%3CAsociación%3E?"/>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_eMnOciW2Ed2O2MssHrGUWw" points="[8, 11, -209, -246]$[172, 280, -45, 23]"/>
               </edges>
               <edges xmi:id="_hlICYCW2Ed2O2MssHrGUWw" element="_hk1HcCW2Ed2O2MssHrGUWw" source="_-N2LwCW1Ed2O2MssHrGUWw" target="_65YxYCW1Ed2O2MssHrGUWw">
@@ -16337,4 +16337,5 @@
   <RUPAnalysis:Boundary xmi:id="_A0GOkCWxEd2O2MssHrGUWw" base_Class="_9Zr9MCWwEd2O2MssHrGUWw"/>
   <RUPAnalysis:Boundary xmi:id="_GyCMoCWxEd2O2MssHrGUWw" base_Class="_DNzQ4CWxEd2O2MssHrGUWw"/>
   <RUPAnalysis:Boundary xmi:id="_O5KEwCWxEd2O2MssHrGUWw" base_Class="_LgEpECWxEd2O2MssHrGUWw"/>
+  <RUPAnalysis:Entity xmi:id="_2g3p0CY1Ed2K8pZ8EU4P6g" base_Class="_Jz9AYPt-EdyQTa0fFLYTBQ"/>
 </xmi:XMI>
