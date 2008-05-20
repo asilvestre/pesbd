@@ -28,10 +28,10 @@
       <supplier xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-2-Design_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Design%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaEnregistrarPeticioComanda?"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Realization" xmi:id="_MzO4oCY2Ed2Ujv1Dn1V-bQ" client="_5XA_AOnFEdyVi_xoU05qOw">
-      <supplier xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_hLt08CC1Ed2H7c-207bc6g?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaSol·licitarContracte?"/>
+      <supplier xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_hLt08CC1Ed2H7c-207bc6g"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Realization" xmi:id="_OfDhQCY2Ed2Ujv1Dn1V-bQ" client="_YsGoUPl5EdylvdL-IIbDug">
-      <supplier xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_hLt08CC1Ed2H7c-207bc6g?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaSol·licitarContracte?"/>
+      <supplier xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_hLt08CC1Ed2H7c-207bc6g"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Dependency" xmi:id="_Qw5oECY2Ed2Ujv1Dn1V-bQ" supplier="_YsGoUPl5EdylvdL-IIbDug" client="_YsGoUPl5EdylvdL-IIbDug"/>
     <packagedElement xmi:type="uml:Dependency" xmi:id="_S4KPgCY2Ed2Ujv1Dn1V-bQ" supplier="_5XA_AOnFEdyVi_xoU05qOw" client="_5XA_AOnFEdyVi_xoU05qOw"/>
@@ -40,7 +40,7 @@
     <eAnnotations xmi:id="_sADSoPgjEdymAcX529PBRQ" source="uml2.diagrams"/>
     <packagedElement xmi:type="uml:Association" xmi:id="_cdc98CW2Ed2O2MssHrGUWw" memberEnd="_cdc98SW2Ed2O2MssHrGUWw _cdc99CW2Ed2O2MssHrGUWw" navigableOwnedEnd="_cdc98SW2Ed2O2MssHrGUWw">
       <ownedEnd xmi:id="_cdc98SW2Ed2O2MssHrGUWw" name="pantallacercarpressupost" visibility="private" association="_cdc98CW2Ed2O2MssHrGUWw">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_GqV7ICWvEd2O2MssHrGUWw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaCercarPressupost?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_GqV7ICWvEd2O2MssHrGUWw"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_cdc98yW2Ed2O2MssHrGUWw" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_cdc98iW2Ed2O2MssHrGUWw"/>
       </ownedEnd>
@@ -51,7 +51,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_eMUTgCW2Ed2O2MssHrGUWw" memberEnd="_eMddcCW2Ed2O2MssHrGUWw _eMddcyW2Ed2O2MssHrGUWw" navigableOwnedEnd="_eMddcCW2Ed2O2MssHrGUWw">
       <ownedEnd xmi:id="_eMddcCW2Ed2O2MssHrGUWw" name="pantallacomandadonadaalta" visibility="private" association="_eMUTgCW2Ed2O2MssHrGUWw">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_LgEpECWxEd2O2MssHrGUWw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaComandaDonadaAlta?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_LgEpECWxEd2O2MssHrGUWw"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_eMddciW2Ed2O2MssHrGUWw" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_eMddcSW2Ed2O2MssHrGUWw"/>
       </ownedEnd>
@@ -62,7 +62,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_dZM0gCW2Ed2O2MssHrGUWw" memberEnd="_dZM0gSW2Ed2O2MssHrGUWw _dZWlgCW2Ed2O2MssHrGUWw" navigableOwnedEnd="_dZM0gSW2Ed2O2MssHrGUWw">
       <ownedEnd xmi:id="_dZM0gSW2Ed2O2MssHrGUWw" name="pantalladetallspressupost" visibility="private" association="_dZM0gCW2Ed2O2MssHrGUWw">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_DNzQ4CWxEd2O2MssHrGUWw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaDetallsPressupost?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_DNzQ4CWxEd2O2MssHrGUWw"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_dZM0gyW2Ed2O2MssHrGUWw" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_dZM0giW2Ed2O2MssHrGUWw"/>
       </ownedEnd>
@@ -73,7 +73,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_c-hqsCW2Ed2O2MssHrGUWw" memberEnd="_c-rbsCW2Ed2O2MssHrGUWw _c-rbsyW2Ed2O2MssHrGUWw" navigableOwnedEnd="_c-rbsCW2Ed2O2MssHrGUWw">
       <ownedEnd xmi:id="_c-rbsCW2Ed2O2MssHrGUWw" name="pantallaseleccionarpressupost" visibility="private" association="_c-hqsCW2Ed2O2MssHrGUWw">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_9Zr9MCWwEd2O2MssHrGUWw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaSeleccionarPressupost?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_9Zr9MCWwEd2O2MssHrGUWw"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_c-rbsiW2Ed2O2MssHrGUWw" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_c-rbsSW2Ed2O2MssHrGUWw"/>
       </ownedEnd>
@@ -84,7 +84,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_IFqRUCDHEd2QC6lTKoXgfA" memberEnd="_IF0CUCDHEd2QC6lTKoXgfA _IF0CUyDHEd2QC6lTKoXgfA" navigableOwnedEnd="_IF0CUCDHEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_IF0CUCDHEd2QC6lTKoXgfA" name="confirmació de petició" visibility="private" association="_IFqRUCDHEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_C5egUCDHEd2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pPlanificacio/Pantalla%20Confirmació%20de%20petició?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_C5egUCDHEd2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_IF0CUiDHEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IF0CUSDHEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -107,7 +107,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_HQT9sCDHEd2QC6lTKoXgfA" memberEnd="_HQT9sSDHEd2QC6lTKoXgfA _HQdusCDHEd2QC6lTKoXgfA" navigableOwnedEnd="_HQT9sSDHEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_HQT9sSDHEd2QC6lTKoXgfA" name="llistat de possibilitats" visibility="private" association="_HQT9sCDHEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#__ZDGgCDGEd2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pPlanificacio/Pantalla%20Llistat%20de%20possibilitats?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#__ZDGgCDGEd2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_HQT9syDHEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_HQT9siDHEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -118,7 +118,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_GGP-UCDHEd2QC6lTKoXgfA" memberEnd="_GGZIQCDHEd2QC6lTKoXgfA _GGZIQyDHEd2QC6lTKoXgfA" navigableOwnedEnd="_GGZIQCDHEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_GGZIQCDHEd2QC6lTKoXgfA" name="pantalla característiques de la petició" visibility="private" association="_GGP-UCDHEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_4fB6sCDGEd2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pPlanificacio/Pantalla%20Característiques%20de%20la%20petició?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_4fB6sCDGEd2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_GGZIQiDHEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_GGZIQSDHEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -129,7 +129,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_lvN0UCDAEd2QC6lTKoXgfA" memberEnd="_lvN0USDAEd2QC6lTKoXgfA _lvXlUCDAEd2QC6lTKoXgfA" navigableOwnedEnd="_lvN0USDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_lvN0USDAEd2QC6lTKoXgfA" name="pantalla cerca comanda" visibility="private" association="_lvN0UCDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_z3x8YCC-Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Cerca%20comanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_z3x8YCC-Ed2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_lvN0UyDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_lvN0UiDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -140,7 +140,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_M0FMcCDAEd2QC6lTKoXgfA" memberEnd="_M0O9cCDAEd2QC6lTKoXgfA _M0O9cyDAEd2QC6lTKoXgfA" navigableOwnedEnd="_M0O9cCDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_M0O9cCDAEd2QC6lTKoXgfA" name="pantalla cerca comanda - usuari" visibility="private" association="_M0FMcCDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_z3x8YCC-Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Cerca%20comanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_z3x8YCC-Ed2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_M0O9ciDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_M0O9cSDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -151,7 +151,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_kRocACDAEd2QC6lTKoXgfA" memberEnd="_kRocASDAEd2QC6lTKoXgfA _kRyNAiDAEd2QC6lTKoXgfA" navigableOwnedEnd="_kRocASDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_kRocASDAEd2QC6lTKoXgfA" name="pantalla confirmar cancel·lació" visibility="private" association="_kRocACDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_p5WH4CC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Confirmar%20cancel·lació?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_p5WH4CC_Ed2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_kRyNASDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_kRyNACDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -162,7 +162,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_oOONYCDAEd2QC6lTKoXgfA" memberEnd="_oOX-YCDAEd2QC6lTKoXgfA _oOX-YyDAEd2QC6lTKoXgfA" navigableOwnedEnd="_oOX-YCDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_oOX-YCDAEd2QC6lTKoXgfA" name="pantalla confirmar cancel·lació" visibility="private" association="_oOONYCDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_p5WH4CC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Confirmar%20cancel·lació?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_p5WH4CC_Ed2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_oOX-YiDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_oOX-YSDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -173,7 +173,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_gMPhYB-3Ed2wW57a2gCSYg" memberEnd="_gMYrUB-3Ed2wW57a2gCSYg _gMYrUx-3Ed2wW57a2gCSYg" navigableOwnedEnd="_gMYrUB-3Ed2wW57a2gCSYg">
       <ownedEnd xmi:id="_gMYrUB-3Ed2wW57a2gCSYg" name="pantallacrearruta" visibility="private" association="_gMPhYB-3Ed2wW57a2gCSYg">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_JEEF4B-sEd2wW57a2gCSYg?Analysis%20Model/Capa%20Presentacio/pSistemaEntregaRecepcio/PantallaCrearRuta?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_JEEF4B-sEd2wW57a2gCSYg"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gMYrUh-3Ed2wW57a2gCSYg" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gMYrUR-3Ed2wW57a2gCSYg"/>
       </ownedEnd>
@@ -184,7 +184,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_hr6-ACDAEd2QC6lTKoXgfA" memberEnd="_hr6-ASDAEd2QC6lTKoXgfA _hsEH8SDAEd2QC6lTKoXgfA" navigableOwnedEnd="_hr6-ASDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_hr6-ASDAEd2QC6lTKoXgfA" name="pantalla informació comanda" visibility="private" association="_hr6-ACDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ly7FECC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Informació%20comanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ly7FECC_Ed2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_hsEH8CDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_hr6-AiDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -195,7 +195,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_m4-4wCDAEd2QC6lTKoXgfA" memberEnd="_m5IpwCDAEd2QC6lTKoXgfA _m5IpwyDAEd2QC6lTKoXgfA" navigableOwnedEnd="_m5IpwCDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_m5IpwCDAEd2QC6lTKoXgfA" name="pantalla informació comanda" visibility="private" association="_m4-4wCDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ly7FECC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Informació%20comanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ly7FECC_Ed2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_m5IpwiDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_m5IpwSDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -206,7 +206,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_f02usCDAEd2QC6lTKoXgfA" memberEnd="_f0_4oCDAEd2QC6lTKoXgfA _f1JpoCDAEd2QC6lTKoXgfA" navigableOwnedEnd="_f0_4oCDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_f0_4oCDAEd2QC6lTKoXgfA" name="pantalla llistat de comandes" visibility="private" association="_f02usCDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_gZydMCC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Llistat%20de%20comandes?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_gZydMCC_Ed2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_f0_4oiDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_f0_4oSDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -217,7 +217,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_ggN_4CDAEd2QC6lTKoXgfA" memberEnd="_ggqr0CDAEd2QC6lTKoXgfA _ghQhsCDAEd2QC6lTKoXgfA" navigableOwnedEnd="_ggqr0CDAEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_ggqr0CDAEd2QC6lTKoXgfA" name="pantalla llistat de comandes" visibility="private" association="_ggN_4CDAEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_gZydMCC_Ed2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/Pantalla%20Llistat%20de%20comandes?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_gZydMCC_Ed2QC6lTKoXgfA"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ggqr0iDAEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ggqr0SDAEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -228,7 +228,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_gqotkB-3Ed2wW57a2gCSYg" memberEnd="_gqotkR-3Ed2wW57a2gCSYg _gqyekB-3Ed2wW57a2gCSYg" navigableOwnedEnd="_gqotkR-3Ed2wW57a2gCSYg">
       <ownedEnd xmi:id="_gqotkR-3Ed2wW57a2gCSYg" name="pantallaobtenirmitjans" visibility="private" association="_gqotkB-3Ed2wW57a2gCSYg">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_yszwAB-rEd2wW57a2gCSYg?Analysis%20Model/Capa%20Presentacio/pSistemaEntregaRecepcio/PantallaObtenirMitjans?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_yszwAB-rEd2wW57a2gCSYg"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gqotkx-3Ed2wW57a2gCSYg" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gqotkh-3Ed2wW57a2gCSYg"/>
       </ownedEnd>
@@ -239,7 +239,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_itxOsBrwEd2EPIsdp1UHFw" memberEnd="_itxOsRrwEd2EPIsdp1UHFw _it6_shrwEd2EPIsdp1UHFw" navigableOwnedEnd="_itxOsRrwEd2EPIsdp1UHFw">
       <ownedEnd xmi:id="_itxOsRrwEd2EPIsdp1UHFw" name="pantallademanarpressupostcomanda" visibility="private" association="_itxOsBrwEd2EPIsdp1UHFw">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaEnregistrarPeticioComanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ZsSSABruEd2EPIsdp1UHFw"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_it6_sRrwEd2EPIsdp1UHFw" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_it6_sBrwEd2EPIsdp1UHFw"/>
       </ownedEnd>
@@ -250,7 +250,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_lOZ_cBrwEd2EPIsdp1UHFw" memberEnd="_lOZ_cRrwEd2EPIsdp1UHFw _lOjwcBrwEd2EPIsdp1UHFw" navigableOwnedEnd="_lOZ_cRrwEd2EPIsdp1UHFw">
       <ownedEnd xmi:id="_lOZ_cRrwEd2EPIsdp1UHFw" name="pantallademanarpressupostcomanda" visibility="private" association="_lOZ_cBrwEd2EPIsdp1UHFw">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ZsSSABruEd2EPIsdp1UHFw?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaEnregistrarPeticioComanda?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_ZsSSABruEd2EPIsdp1UHFw"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_lOZ_cxrwEd2EPIsdp1UHFw" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_lOZ_chrwEd2EPIsdp1UHFw"/>
       </ownedEnd>
@@ -261,7 +261,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_8lJJMBucEd2mCeylmSB6jg" memberEnd="_8lJJMRucEd2mCeylmSB6jg _8lSTIhucEd2mCeylmSB6jg" navigableOwnedEnd="_8lJJMRucEd2mCeylmSB6jg">
       <ownedEnd xmi:id="_8lJJMRucEd2mCeylmSB6jg" name="pantallaresultatdemanarpressupost" visibility="private" association="_8lJJMBucEd2mCeylmSB6jg">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_rOPLkBtLEd2NEcGCsxdGog?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaResultatDemanarPressupost?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_rOPLkBtLEd2NEcGCsxdGog"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8lSTIRucEd2mCeylmSB6jg" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8lSTIBucEd2mCeylmSB6jg"/>
       </ownedEnd>
@@ -272,7 +272,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_9FCKMBucEd2mCeylmSB6jg" memberEnd="_9FCKMRucEd2mCeylmSB6jg _9FLUIRucEd2mCeylmSB6jg" navigableOwnedEnd="_9FCKMRucEd2mCeylmSB6jg">
       <ownedEnd xmi:id="_9FCKMRucEd2mCeylmSB6jg" name="pantallaresultatdemanarpressupost" visibility="private" association="_9FCKMBucEd2mCeylmSB6jg">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_rOPLkBtLEd2NEcGCsxdGog?Analysis%20Model/Capa%20Presentacio/pGestioComandesContractes/PantallaResultatDemanarPressupost?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_rOPLkBtLEd2NEcGCsxdGog"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_9FLUIBucEd2mCeylmSB6jg" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_9FCKMhucEd2mCeylmSB6jg"/>
       </ownedEnd>
@@ -1337,6 +1337,14 @@
       <packagedElement xmi:type="uml:ExecutionEvent" xmi:id="_qyvWmSW4Ed2O2MssHrGUWw" name="Eventodeejecución1"/>
       <packagedElement xmi:type="uml:ExecutionEvent" xmi:id="_rXY7xCW4Ed2O2MssHrGUWw" name="Eventodeejecución2"/>
       <packagedElement xmi:type="uml:ExecutionEvent" xmi:id="_r8yu5CW4Ed2O2MssHrGUWw" name="Eventodeejecución3"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_H8VJMCY4Ed2Ujv1Dn1V-bQ" name="Sol·licitar Presupost Contracte">
+      <eAnnotations xmi:id="_H8e6MCY4Ed2Ujv1Dn1V-bQ" source="uml2.diagrams" references="_H8e6MSY4Ed2Ujv1Dn1V-bQ">
+        <contents xmi:type="notation:Diagram" xmi:id="_H8e6MSY4Ed2Ujv1Dn1V-bQ" type="Freeform" name="Principal">
+          <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_H8e6MiY4Ed2Ujv1Dn1V-bQ"/>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
     </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_h_wCcBVbEd21MP10x4vL5g" name="Sistema d'Entrega i Recepció">
