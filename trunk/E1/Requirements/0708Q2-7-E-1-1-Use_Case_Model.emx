@@ -84,7 +84,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_IFqRUCDHEd2QC6lTKoXgfA" memberEnd="_IF0CUCDHEd2QC6lTKoXgfA _IF0CUyDHEd2QC6lTKoXgfA" navigableOwnedEnd="_IF0CUCDHEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_IF0CUCDHEd2QC6lTKoXgfA" name="confirmació de petició" visibility="private" association="_IFqRUCDHEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_C5egUCDHEd2QC6lTKoXgfA"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_C5egUCDHEd2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pPlanificacio/Pantalla%20Confirmació%20de%20petició?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_IF0CUiDHEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IF0CUSDHEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -1345,6 +1345,37 @@
           <element xsi:nil="true"/>
         </contents>
       </eAnnotations>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_R4U4QCY4Ed2Ujv1Dn1V-bQ" name="Colaboración1">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_R4eCMCY4Ed2Ujv1Dn1V-bQ" name="Interacción1">
+          <eAnnotations xmi:id="_R4eCMSY4Ed2Ujv1Dn1V-bQ" source="uml2.diagrams">
+            <contents xmi:type="notation:Diagram" xmi:id="_R4eCMiY4Ed2Ujv1Dn1V-bQ" type="Sequence" element="_R4eCMCY4Ed2Ujv1Dn1V-bQ" name="DiagramaDeSecuencia1" measurementUnit="Himetric">
+              <children xmi:id="_R4eCMyY4Ed2Ujv1Dn1V-bQ" element="_R4eCMCY4Ed2Ujv1Dn1V-bQ">
+                <children xmi:id="_R4eCNCY4Ed2Ujv1Dn1V-bQ" type="interaction_compartment">
+                  <children xmi:id="_8byowCY4Ed2Ujv1Dn1V-bQ" element="_8bpe0CY4Ed2Ujv1Dn1V-bQ">
+                    <children xmi:id="_8byowyY4Ed2Ujv1Dn1V-bQ" type="Name"/>
+                    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_8byowSY4Ed2Ujv1Dn1V-bQ" showStereotype="Label"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8byowiY4Ed2Ujv1Dn1V-bQ" x="5990" y="129" width="3389" height="15875"/>
+                  </children>
+                  <children xmi:id="_5WqD0CY4Ed2Ujv1Dn1V-bQ" element="_5WgS0CY4Ed2Ujv1Dn1V-bQ">
+                    <children xmi:id="_5WqD0yY4Ed2Ujv1Dn1V-bQ" type="Name"/>
+                    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5WqD0SY4Ed2Ujv1Dn1V-bQ" showStereotype="Label"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5WqD0iY4Ed2Ujv1Dn1V-bQ" x="264" y="5767"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_R4eCNSY4Ed2Ujv1Dn1V-bQ"/>
+                </children>
+                <children xmi:id="_R4eCNiY4Ed2Ujv1Dn1V-bQ" type="Name"/>
+                <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_R4eCNyY4Ed2Ujv1Dn1V-bQ" showStereotype="Label"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R4eCOCY4Ed2Ujv1Dn1V-bQ" x="793" y="793"/>
+              </children>
+              <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_R4eCOSY4Ed2Ujv1Dn1V-bQ"/>
+            </contents>
+          </eAnnotations>
+          <lifeline xmi:id="_5WgS0CY4Ed2Ujv1Dn1V-bQ" name="client" represents="_5WgS0SY4Ed2Ujv1Dn1V-bQ"/>
+          <lifeline xmi:id="_8bpe0CY4Ed2Ujv1Dn1V-bQ" name="sistema" represents="_8bpe0SY4Ed2Ujv1Dn1V-bQ"/>
+        </ownedBehavior>
+        <ownedAttribute xmi:id="_5WgS0SY4Ed2Ujv1Dn1V-bQ" name="client" type="_YsGoUPl5EdylvdL-IIbDug"/>
+        <ownedAttribute xmi:id="_8bpe0SY4Ed2Ujv1Dn1V-bQ" name="sistema" type="_EsyCMBVcEd21MP10x4vL5g"/>
+      </packagedElement>
     </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_h_wCcBVbEd21MP10x4vL5g" name="Sistema d'Entrega i Recepció">
