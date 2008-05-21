@@ -15483,6 +15483,9 @@
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_TW7TwSW1Ed2O2MssHrGUWw" name="Eventodeoperacióndeenvío13" operation="_TW7TwCW1Ed2O2MssHrGUWw"/>
         <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_TW7TwiW1Ed2O2MssHrGUWw" name="Eventodeoperaciónderecepción9" operation="_TW7TwCW1Ed2O2MssHrGUWw"/>
       </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="_G9kdYCdVEd2PLoSXhLwDyA" name="Planificacio">
+        <eAnnotations xmi:id="_G-K6UCdVEd2PLoSXhLwDyA" source="uml2.diagrams"/>
+      </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_l099QCJQEd2ReLvUHik7JQ" name="Capa Presentacio">
       <eAnnotations xmi:id="_l099QSJQEd2ReLvUHik7JQ" source="uml2.diagrams"/>
