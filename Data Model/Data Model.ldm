@@ -133,7 +133,7 @@
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_XrqSSyfMEd2TMNqSrSDvqA"/>
           </children>
           <styles xsi:type="datanotation:TableStyle" xmi:id="_XrqSQSfMEd2TMNqSrSDvqA" showDataType="true"/>
-          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_XrqSQifMEd2TMNqSrSDvqA" x="15216" y="2853"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_XrqSQifMEd2TMNqSrSDvqA" x="15533" y="3804"/>
         </children>
         <children xmi:id="_lL0EkSfMEd2TMNqSrSDvqA" element="_lL0EkCfMEd2TMNqSrSDvqA">
           <children xmi:id="_lL0ElCfMEd2TMNqSrSDvqA" type="IEEntityName">
@@ -1534,47 +1534,6 @@
           <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CeSt4CfSEd2TMNqSrSDvqA" id="(0.0,0.5776669)"/>
           <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CeSt4SfSEd2TMNqSrSDvqA" id="(0.90805733,0.046433993)"/>
         </edges>
-        <edges xmi:id="_E196cCfTEd2TMNqSrSDvqA" element="_E0U7sCfTEd2TMNqSrSDvqA" source="_rOdxQSfREd2TMNqSrSDvqA" target="_Y3vRkCfREd2TMNqSrSDvqA">
-          <children xmi:id="_E196cyfTEd2TMNqSrSDvqA" type="relationship.ie.name">
-            <children xmi:id="_E196dSfTEd2TMNqSrSDvqA" type="IERelationship.name">
-              <children xmi:id="_E196eCfTEd2TMNqSrSDvqA" type="DiagramName"/>
-              <children xmi:id="_E196eSfTEd2TMNqSrSDvqA" type="Description"/>
-              <styles xsi:type="notation:FontStyle" xmi:id="_E196difTEd2TMNqSrSDvqA"/>
-              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_E196dyfTEd2TMNqSrSDvqA"/>
-            </children>
-            <layoutConstraint xsi:type="notation:Location" xmi:id="_E196dCfTEd2TMNqSrSDvqA" y="-186"/>
-          </children>
-          <children xmi:id="_E196eifTEd2TMNqSrSDvqA" visible="false" type="relationship.ie.child.name">
-            <children xmi:id="_E196fCfTEd2TMNqSrSDvqA" type="IERelationship.childname">
-              <children xmi:id="_E196fyfTEd2TMNqSrSDvqA" type="DiagramName"/>
-              <children xmi:id="_E196gCfTEd2TMNqSrSDvqA" type="Description"/>
-              <styles xsi:type="notation:FontStyle" xmi:id="_E196fSfTEd2TMNqSrSDvqA"/>
-              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_E196fifTEd2TMNqSrSDvqA"/>
-            </children>
-            <layoutConstraint xsi:type="notation:Location" xmi:id="_E196eyfTEd2TMNqSrSDvqA" x="-265" y="-662"/>
-          </children>
-          <children xmi:id="_E196gSfTEd2TMNqSrSDvqA" type="relationship.ie.parent.name">
-            <children xmi:id="_E196gyfTEd2TMNqSrSDvqA" type="IERelationship.parentname">
-              <children xmi:id="_E196hifTEd2TMNqSrSDvqA" type="DiagramName"/>
-              <children xmi:id="_E196hyfTEd2TMNqSrSDvqA" type="Description"/>
-              <styles xsi:type="notation:FontStyle" xmi:id="_E196hCfTEd2TMNqSrSDvqA"/>
-              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_E196hSfTEd2TMNqSrSDvqA"/>
-            </children>
-            <layoutConstraint xsi:type="notation:Location" xmi:id="_E196gifTEd2TMNqSrSDvqA" y="-397"/>
-          </children>
-          <children xmi:id="_E196iCfTEd2TMNqSrSDvqA" type="relationship.ie.ri">
-            <children xmi:id="_E196iifTEd2TMNqSrSDvqA" type="IERelationship.ri">
-              <children xmi:id="_E196jSfTEd2TMNqSrSDvqA" type="DiagramName"/>
-              <children xmi:id="_E196jifTEd2TMNqSrSDvqA" type="Description"/>
-              <styles xsi:type="notation:FontStyle" xmi:id="_E196iyfTEd2TMNqSrSDvqA"/>
-              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_E196jCfTEd2TMNqSrSDvqA"/>
-            </children>
-            <layoutConstraint xsi:type="notation:Location" xmi:id="_E196iSfTEd2TMNqSrSDvqA" x="-265" y="-662"/>
-          </children>
-          <styles xsi:type="datanotation:DataLineStyle" xmi:id="_E196cSfTEd2TMNqSrSDvqA"/>
-          <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_E196cifTEd2TMNqSrSDvqA" points="[1, 0, 13, 94]$[18, -85, 30, 9]"/>
-          <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_E2HrcCfTEd2TMNqSrSDvqA" id="(0.48381674,0.0)"/>
-        </edges>
         <edges xmi:id="_NH6igCfTEd2TMNqSrSDvqA" element="_NG3ZoCfTEd2TMNqSrSDvqA" source="_NlogoSfQEd2TMNqSrSDvqA" target="_JksTYCfTEd2TMNqSrSDvqA">
           <children xmi:id="_NH6igyfTEd2TMNqSrSDvqA" type="relationship.ie.name">
             <children xmi:id="_NH6ihSfTEd2TMNqSrSDvqA" type="IERelationship.name">
@@ -1743,6 +1702,89 @@
           <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_H5TTICfUEd2TMNqSrSDvqA" id="(1.0,0.3231198)"/>
           <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_H5TTISfUEd2TMNqSrSDvqA" id="(0.58064514,0.79143006)"/>
         </edges>
+        <edges xmi:id="_7k00UCfUEd2TMNqSrSDvqA" element="_7jCroCfUEd2TMNqSrSDvqA" source="_rOdxQSfREd2TMNqSrSDvqA" target="_Y3vRkCfREd2TMNqSrSDvqA">
+          <children xmi:id="_7k00UyfUEd2TMNqSrSDvqA" type="relationship.ie.name">
+            <children xmi:id="_7k00VSfUEd2TMNqSrSDvqA" type="IERelationship.name">
+              <children xmi:id="_7k00WCfUEd2TMNqSrSDvqA" type="DiagramName"/>
+              <children xmi:id="_7k00WSfUEd2TMNqSrSDvqA" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_7k00VifUEd2TMNqSrSDvqA"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7k00VyfUEd2TMNqSrSDvqA"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_7k00VCfUEd2TMNqSrSDvqA" y="-186"/>
+          </children>
+          <children xmi:id="_7k00WifUEd2TMNqSrSDvqA" visible="false" type="relationship.ie.child.name">
+            <children xmi:id="_7k00XCfUEd2TMNqSrSDvqA" type="IERelationship.childname">
+              <children xmi:id="_7k00XyfUEd2TMNqSrSDvqA" type="DiagramName"/>
+              <children xmi:id="_7k00YCfUEd2TMNqSrSDvqA" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_7k00XSfUEd2TMNqSrSDvqA"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7k00XifUEd2TMNqSrSDvqA"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_7k00WyfUEd2TMNqSrSDvqA" x="-265" y="-662"/>
+          </children>
+          <children xmi:id="_7k00YSfUEd2TMNqSrSDvqA" type="relationship.ie.parent.name">
+            <children xmi:id="_7k00YyfUEd2TMNqSrSDvqA" type="IERelationship.parentname">
+              <children xmi:id="_7k00ZifUEd2TMNqSrSDvqA" type="DiagramName"/>
+              <children xmi:id="_7k00ZyfUEd2TMNqSrSDvqA" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_7k00ZCfUEd2TMNqSrSDvqA"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7k00ZSfUEd2TMNqSrSDvqA"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_7k00YifUEd2TMNqSrSDvqA" y="-397"/>
+          </children>
+          <children xmi:id="_7k00aCfUEd2TMNqSrSDvqA" type="relationship.ie.ri">
+            <children xmi:id="_7k00aifUEd2TMNqSrSDvqA" type="IERelationship.ri">
+              <children xmi:id="_7k00bSfUEd2TMNqSrSDvqA" type="DiagramName"/>
+              <children xmi:id="_7k00bifUEd2TMNqSrSDvqA" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_7k00ayfUEd2TMNqSrSDvqA"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7k00bCfUEd2TMNqSrSDvqA"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_7k00aSfUEd2TMNqSrSDvqA" x="-265" y="-662"/>
+          </children>
+          <styles xsi:type="datanotation:DataLineStyle" xmi:id="_7k00USfUEd2TMNqSrSDvqA"/>
+          <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_7k00UifUEd2TMNqSrSDvqA" points="[0, 0, 82, 113]$[35, -107, 117, 6]"/>
+          <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_7lIWUCfUEd2TMNqSrSDvqA" id="(0.3005076,0.0)"/>
+        </edges>
+        <edges xmi:id="_BCeIwCfVEd2TMNqSrSDvqA" element="_A_MLQCfVEd2TMNqSrSDvqA" source="_rOdxQSfREd2TMNqSrSDvqA" target="_XrqSQCfMEd2TMNqSrSDvqA">
+          <children xmi:id="_BCeIwyfVEd2TMNqSrSDvqA" type="relationship.ie.name">
+            <children xmi:id="_BCeIxSfVEd2TMNqSrSDvqA" type="IERelationship.name">
+              <children xmi:id="_BCeIyCfVEd2TMNqSrSDvqA" type="DiagramName"/>
+              <children xmi:id="_BCeIySfVEd2TMNqSrSDvqA" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_BCeIxifVEd2TMNqSrSDvqA"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BCeIxyfVEd2TMNqSrSDvqA"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_BCeIxCfVEd2TMNqSrSDvqA" y="-186"/>
+          </children>
+          <children xmi:id="_BCeIyifVEd2TMNqSrSDvqA" visible="false" type="relationship.ie.child.name">
+            <children xmi:id="_BCeIzCfVEd2TMNqSrSDvqA" type="IERelationship.childname">
+              <children xmi:id="_BCeIzyfVEd2TMNqSrSDvqA" type="DiagramName"/>
+              <children xmi:id="_BCeI0CfVEd2TMNqSrSDvqA" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_BCeIzSfVEd2TMNqSrSDvqA"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BCeIzifVEd2TMNqSrSDvqA"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_BCeIyyfVEd2TMNqSrSDvqA" x="-265" y="-662"/>
+          </children>
+          <children xmi:id="_BCeI0SfVEd2TMNqSrSDvqA" type="relationship.ie.parent.name">
+            <children xmi:id="_BCeI0yfVEd2TMNqSrSDvqA" type="IERelationship.parentname">
+              <children xmi:id="_BCeI1ifVEd2TMNqSrSDvqA" type="DiagramName"/>
+              <children xmi:id="_BCeI1yfVEd2TMNqSrSDvqA" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_BCeI1CfVEd2TMNqSrSDvqA"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BCeI1SfVEd2TMNqSrSDvqA"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_BCeI0ifVEd2TMNqSrSDvqA" y="-397"/>
+          </children>
+          <children xmi:id="_BCeI2CfVEd2TMNqSrSDvqA" type="relationship.ie.ri">
+            <children xmi:id="_BCeI2ifVEd2TMNqSrSDvqA" type="IERelationship.ri">
+              <children xmi:id="_BCeI3SfVEd2TMNqSrSDvqA" type="DiagramName"/>
+              <children xmi:id="_BCeI3ifVEd2TMNqSrSDvqA" type="Description"/>
+              <styles xsi:type="notation:FontStyle" xmi:id="_BCeI2yfVEd2TMNqSrSDvqA"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_BCeI3CfVEd2TMNqSrSDvqA"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_BCeI2SfVEd2TMNqSrSDvqA" x="-265" y="-662"/>
+          </children>
+          <styles xsi:type="datanotation:DataLineStyle" xmi:id="_BCeIwSfVEd2TMNqSrSDvqA"/>
+          <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_BCeIwifVEd2TMNqSrSDvqA" points="[0, 0, 396, 39]$[-366, -38, 30, 1]"/>
+          <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_BCn5wCfVEd2TMNqSrSDvqA" id="(0.0,0.4876033)"/>
+          <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_BCn5wSfVEd2TMNqSrSDvqA" id="(0.8238075,0.39313918)"/>
+        </edges>
       </contents>
     </eAnnotations>
   </LogicalDataModel:Package>
@@ -1858,7 +1900,7 @@
     <relationshipEnds xmi:id="_Kr1l0SfMEd2TMNqSrSDvqA" entity="_rHo_QCfLEd2TMNqSrSDvqA" key="_r_iQlSfLEd2TMNqSrSDvqA"/>
     <relationshipEnds xmi:id="_Kr1l0ifMEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_PN01MCfKEd2TMNqSrSDvqA" key="_Kr1l0yfMEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
-  <LogicalDataModel:Entity xmi:id="_XrghQCfMEd2TMNqSrSDvqA" name="Persona" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_d7_A0SfMEd2TMNqSrSDvqA _AznHAifNEd2TMNqSrSDvqA _GerMYifNEd2TMNqSrSDvqA _JNpUEifNEd2TMNqSrSDvqA _H26tgSfUEd2TMNqSrSDvqA" relationships="_AznHACfNEd2TMNqSrSDvqA _GerMYCfNEd2TMNqSrSDvqA _JNpUECfNEd2TMNqSrSDvqA">
+  <LogicalDataModel:Entity xmi:id="_XrghQCfMEd2TMNqSrSDvqA" name="Persona" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_d7_A0SfMEd2TMNqSrSDvqA _AznHAifNEd2TMNqSrSDvqA _GerMYifNEd2TMNqSrSDvqA _JNpUEifNEd2TMNqSrSDvqA _H26tgSfUEd2TMNqSrSDvqA _A_MLQifVEd2TMNqSrSDvqA" relationships="_AznHACfNEd2TMNqSrSDvqA _GerMYCfNEd2TMNqSrSDvqA _JNpUECfNEd2TMNqSrSDvqA _A_MLQCfVEd2TMNqSrSDvqA">
     <attributes xmi:id="_ctl7ECfMEd2TMNqSrSDvqA" name="idClient" dataType="CHAR(5)" required="true"/>
     <attributes xmi:id="_6sOSACfMEd2TMNqSrSDvqA" name="nom" dataType="CHAR(5)"/>
     <attributes xmi:id="_7d2jQCfMEd2TMNqSrSDvqA" name="cognoms" dataType="CHAR(5)"/>
@@ -1866,15 +1908,13 @@
     <attributes xmi:id="_AzwQ8SfNEd2TMNqSrSDvqA" name="idZona" dataType="CHAR(5)" required="true"/>
     <attributes xmi:id="_Ge09YCfNEd2TMNqSrSDvqA" name="idPais" dataType="CHAR(5)" required="true"/>
     <attributes xmi:id="_JN82ECfNEd2TMNqSrSDvqA" name="idPoblacio" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_TEsRsCfNEd2TMNqSrSDvqA" name="carrer" dataType="CHAR(5)"/>
-    <attributes xmi:id="_VD-o4CfNEd2TMNqSrSDvqA" name="numero" dataType="CHAR(5)"/>
-    <attributes xmi:id="_VuwEMCfNEd2TMNqSrSDvqA" name="porta" dataType="CHAR(5)"/>
-    <attributes xmi:id="_WragwCfNEd2TMNqSrSDvqA" name="cp" dataType="CHAR(5)"/>
     <attributes xmi:id="_8P0g0CfOEd2TMNqSrSDvqA" name="comptecurrent" dataType="CHAR(5)"/>
+    <attributes xmi:id="_A_ftQCfVEd2TMNqSrSDvqA" name="idAdreça" dataType="CHAR(5)" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_ctvFBSfMEd2TMNqSrSDvqA" name="Clave primaria" attributes="_ctl7ECfMEd2TMNqSrSDvqA" relationshipEnds="_d7_A0SfMEd2TMNqSrSDvqA _H26tgSfUEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_AzwQ8CfNEd2TMNqSrSDvqA" name="Clave externa1" attributes="_AzwQ8SfNEd2TMNqSrSDvqA" relationshipEnds="_AznHAifNEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_GerMYyfNEd2TMNqSrSDvqA" name="Clave externa2" attributes="_Ge09YCfNEd2TMNqSrSDvqA" relationshipEnds="_GerMYifNEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_JNzFECfNEd2TMNqSrSDvqA" name="Clave externa3" attributes="_JN82ECfNEd2TMNqSrSDvqA" relationshipEnds="_JNpUEifNEd2TMNqSrSDvqA"/>
+    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_A_V8QCfVEd2TMNqSrSDvqA" name="Clave externa4" attributes="_A_ftQCfVEd2TMNqSrSDvqA" relationshipEnds="_A_MLQifVEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_d7_A0CfMEd2TMNqSrSDvqA" name="Contracte_Client_FK" relationshipType="NON_IDENTIFYING" existenceOptional="true" owningEntity="_PN01MCfKEd2TMNqSrSDvqA">
     <relationshipEnds xmi:id="_d7_A0SfMEd2TMNqSrSDvqA" entity="_XrghQCfMEd2TMNqSrSDvqA" key="_ctvFBSfMEd2TMNqSrSDvqA"/>
@@ -2010,13 +2050,13 @@
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_WCFTECfREd2TMNqSrSDvqA" name="Clave primaria" attributes="_WB7iECfREd2TMNqSrSDvqA" relationshipEnds="_iEOPQSfREd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_j0SesCfREd2TMNqSrSDvqA" name="Clave externa1" attributes="_j0booCfREd2TMNqSrSDvqA" relationshipEnds="_j0ItsifREd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
-  <LogicalDataModel:Entity xmi:id="_Y3lgkCfREd2TMNqSrSDvqA" name="Fita" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_j0ItsSfREd2TMNqSrSDvqA _98v1USfREd2TMNqSrSDvqA _E0U7sifTEd2TMNqSrSDvqA _98edoifTEd2TMNqSrSDvqA" relationships="_E0U7sCfTEd2TMNqSrSDvqA _98edoCfTEd2TMNqSrSDvqA">
+  <LogicalDataModel:Entity xmi:id="_Y3lgkCfREd2TMNqSrSDvqA" name="Fita" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_j0ItsSfREd2TMNqSrSDvqA _98v1USfREd2TMNqSrSDvqA _98edoifTEd2TMNqSrSDvqA _7jCroifUEd2TMNqSrSDvqA" relationships="_98edoCfTEd2TMNqSrSDvqA _7jCroCfUEd2TMNqSrSDvqA">
     <attributes xmi:id="_ZoKo8CfREd2TMNqSrSDvqA" name="idFita" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_E0xnoCfTEd2TMNqSrSDvqA" name="idAdreça" dataType="CHAR(5)" required="true"/>
     <attributes xmi:id="_98x_oCfTEd2TMNqSrSDvqA" name="idEstatAccioEmbalum" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_7jfXkCfUEd2TMNqSrSDvqA" name="idAdreça" dataType="CHAR(5)" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_ZoUZ8CfREd2TMNqSrSDvqA" name="Clave primaria" attributes="_ZoKo8CfREd2TMNqSrSDvqA" relationshipEnds="_j0ItsSfREd2TMNqSrSDvqA _98v1USfREd2TMNqSrSDvqA"/>
-    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_E0essCfTEd2TMNqSrSDvqA" name="Clave externa1" attributes="_E0xnoCfTEd2TMNqSrSDvqA" relationshipEnds="_E0U7sifTEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_98oOoCfTEd2TMNqSrSDvqA" name="Clave externa2" attributes="_98x_oCfTEd2TMNqSrSDvqA" relationshipEnds="_98edoifTEd2TMNqSrSDvqA"/>
+    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_7jL1kCfUEd2TMNqSrSDvqA" name="Clave externa1" attributes="_7jfXkCfUEd2TMNqSrSDvqA" relationshipEnds="_7jCroifUEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_iEOPQCfREd2TMNqSrSDvqA" name="Ruta_Tram_FK" relationshipType="NON_IDENTIFYING" owningEntity="_NlogoCfQEd2TMNqSrSDvqA">
     <relationshipEnds xmi:id="_iEOPQSfREd2TMNqSrSDvqA" cardinality="ONE" entity="_TbedMCfREd2TMNqSrSDvqA" key="_WCFTECfREd2TMNqSrSDvqA"/>
@@ -2026,15 +2066,14 @@
     <relationshipEnds xmi:id="_j0ItsSfREd2TMNqSrSDvqA" cardinality="ONE" entity="_Y3lgkCfREd2TMNqSrSDvqA" key="_ZoUZ8CfREd2TMNqSrSDvqA"/>
     <relationshipEnds xmi:id="_j0ItsifREd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_TbedMCfREd2TMNqSrSDvqA" key="_j0SesCfREd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
-  <LogicalDataModel:Entity xmi:id="_rOdxQCfREd2TMNqSrSDvqA" name="Adreça" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_8lH7ESfREd2TMNqSrSDvqA _98v1UifREd2TMNqSrSDvqA _CaH_kSfSEd2TMNqSrSDvqA _E0U7sSfTEd2TMNqSrSDvqA" relationships="_98v1UCfREd2TMNqSrSDvqA">
+  <LogicalDataModel:Entity xmi:id="_rOdxQCfREd2TMNqSrSDvqA" name="Adreça" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_8lH7ESfREd2TMNqSrSDvqA _98v1UifREd2TMNqSrSDvqA _CaH_kSfSEd2TMNqSrSDvqA _7jCroSfUEd2TMNqSrSDvqA _A_MLQSfVEd2TMNqSrSDvqA" relationships="_98v1UCfREd2TMNqSrSDvqA">
     <attributes xmi:id="_r9ah8CfREd2TMNqSrSDvqA" name="carrer" dataType="CHAR(5)"/>
     <attributes xmi:id="_sMnbkCfREd2TMNqSrSDvqA" name="idAdreça" dataType="CHAR(5)" required="true"/>
     <attributes xmi:id="_u2fn4CfREd2TMNqSrSDvqA" name="num" dataType="CHAR(5)"/>
     <attributes xmi:id="_vsJdgCfREd2TMNqSrSDvqA" name="porta" dataType="CHAR(5)"/>
     <attributes xmi:id="_wk64kCfREd2TMNqSrSDvqA" name="cp" dataType="CHAR(5)"/>
-    <attributes xmi:id="_985mUCfREd2TMNqSrSDvqA" name="idFita" dataType="CHAR(5)" required="true"/>
-    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_sMwlgCfREd2TMNqSrSDvqA" name="Clave primaria" attributes="_sMnbkCfREd2TMNqSrSDvqA" relationshipEnds="_8lH7ESfREd2TMNqSrSDvqA _CaH_kSfSEd2TMNqSrSDvqA _E0U7sSfTEd2TMNqSrSDvqA"/>
-    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_98v1UyfREd2TMNqSrSDvqA" name="Clave externa1" attributes="_985mUCfREd2TMNqSrSDvqA" relationshipEnds="_98v1UifREd2TMNqSrSDvqA"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_sMwlgCfREd2TMNqSrSDvqA" name="Clave primaria" attributes="_sMnbkCfREd2TMNqSrSDvqA" relationshipEnds="_8lH7ESfREd2TMNqSrSDvqA _CaH_kSfSEd2TMNqSrSDvqA _7jCroSfUEd2TMNqSrSDvqA _A_MLQSfVEd2TMNqSrSDvqA"/>
+    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_98v1UyfREd2TMNqSrSDvqA" name="Clave externa1" relationshipEnds="_98v1UifREd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_8lH7ECfREd2TMNqSrSDvqA" name="Contracte_Adreça_FK" relationshipType="NON_IDENTIFYING" owningEntity="_PN01MCfKEd2TMNqSrSDvqA">
     <relationshipEnds xmi:id="_8lH7ESfREd2TMNqSrSDvqA" cardinality="ONE" entity="_rOdxQCfREd2TMNqSrSDvqA" key="_sMwlgCfREd2TMNqSrSDvqA"/>
@@ -2047,10 +2086,6 @@
   <LogicalDataModel:Relationship xmi:id="_CaH_kCfSEd2TMNqSrSDvqA" name="Contracte_Adreça_FK1" relationshipType="NON_IDENTIFYING" owningEntity="_PN01MCfKEd2TMNqSrSDvqA">
     <relationshipEnds xmi:id="_CaH_kSfSEd2TMNqSrSDvqA" cardinality="ONE" entity="_rOdxQCfREd2TMNqSrSDvqA" key="_sMwlgCfREd2TMNqSrSDvqA"/>
     <relationshipEnds xmi:id="_CaH_kifSEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_PN01MCfKEd2TMNqSrSDvqA" key="_CaRwkCfSEd2TMNqSrSDvqA"/>
-  </LogicalDataModel:Relationship>
-  <LogicalDataModel:Relationship xmi:id="_E0U7sCfTEd2TMNqSrSDvqA" name="Fita_Adreça_FK" relationshipType="NON_IDENTIFYING" owningEntity="_Y3lgkCfREd2TMNqSrSDvqA">
-    <relationshipEnds xmi:id="_E0U7sSfTEd2TMNqSrSDvqA" cardinality="ONE" entity="_rOdxQCfREd2TMNqSrSDvqA" key="_sMwlgCfREd2TMNqSrSDvqA"/>
-    <relationshipEnds xmi:id="_E0U7sifTEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_Y3lgkCfREd2TMNqSrSDvqA" key="_E0essCfTEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_JkjJcCfTEd2TMNqSrSDvqA" name="Planificació diaria" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_NG3ZoifTEd2TMNqSrSDvqA" relationships="_NG3ZoCfTEd2TMNqSrSDvqA">
     <attributes xmi:id="_NHBKoCfTEd2TMNqSrSDvqA" name="ruta" dataType="CHAR(5)" required="true"/>
@@ -2082,5 +2117,13 @@
   <LogicalDataModel:Relationship xmi:id="_H26tgCfUEd2TMNqSrSDvqA" name="EstatAccioEmbalum_Persona_FK" relationshipType="NON_IDENTIFYING" owningEntity="_jXimYCfTEd2TMNqSrSDvqA">
     <relationshipEnds xmi:id="_H26tgSfUEd2TMNqSrSDvqA" cardinality="ONE" entity="_XrghQCfMEd2TMNqSrSDvqA" key="_ctvFBSfMEd2TMNqSrSDvqA"/>
     <relationshipEnds xmi:id="_H26tgifUEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_jXimYCfTEd2TMNqSrSDvqA" key="_H26tgyfUEd2TMNqSrSDvqA"/>
+  </LogicalDataModel:Relationship>
+  <LogicalDataModel:Relationship xmi:id="_7jCroCfUEd2TMNqSrSDvqA" name="Fita_Adreça_FK" relationshipType="NON_IDENTIFYING" owningEntity="_Y3lgkCfREd2TMNqSrSDvqA">
+    <relationshipEnds xmi:id="_7jCroSfUEd2TMNqSrSDvqA" cardinality="ONE" entity="_rOdxQCfREd2TMNqSrSDvqA" key="_sMwlgCfREd2TMNqSrSDvqA"/>
+    <relationshipEnds xmi:id="_7jCroifUEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_Y3lgkCfREd2TMNqSrSDvqA" key="_7jL1kCfUEd2TMNqSrSDvqA"/>
+  </LogicalDataModel:Relationship>
+  <LogicalDataModel:Relationship xmi:id="_A_MLQCfVEd2TMNqSrSDvqA" name="Persona_Adreça_FK" relationshipType="NON_IDENTIFYING" owningEntity="_XrghQCfMEd2TMNqSrSDvqA">
+    <relationshipEnds xmi:id="_A_MLQSfVEd2TMNqSrSDvqA" cardinality="ONE" entity="_rOdxQCfREd2TMNqSrSDvqA" key="_sMwlgCfREd2TMNqSrSDvqA"/>
+    <relationshipEnds xmi:id="_A_MLQifVEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_XrghQCfMEd2TMNqSrSDvqA" key="_A_V8QCfVEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
 </xmi:XMI>
