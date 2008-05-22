@@ -13013,6 +13013,55 @@
             <message xmi:id="_8jnp8CWGEd2NcP8TCnPQ4Q" name="\Sin especificar\" messageSort="createMessage" receiveEvent="_8jnp8yWGEd2NcP8TCnPQ4Q" sendEvent="_8jnp8SWGEd2NcP8TCnPQ4Q" connector="_KlWUwyWGEd2NcP8TCnPQ4Q"/>
             <message xmi:id="_hfuJUCWHEd2NcP8TCnPQ4Q" name="\Sin especificar\" messageSort="createMessage" receiveEvent="_hfuJUyWHEd2NcP8TCnPQ4Q" sendEvent="_hfuJUSWHEd2NcP8TCnPQ4Q" connector="_hfuJVSWHEd2NcP8TCnPQ4Q"/>
           </ownedBehavior>
+          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_guEhYCfhEd2twubgYmkr4w" name="Interacción2">
+            <eAnnotations xmi:id="_guOSYCfhEd2twubgYmkr4w" source="uml2.diagrams">
+              <contents xmi:type="notation:Diagram" xmi:id="_guOSYSfhEd2twubgYmkr4w" type="Sequence" element="_guEhYCfhEd2twubgYmkr4w" name="DiagramaDeSecuencia1" measurementUnit="Himetric">
+                <children xmi:id="_guOSYifhEd2twubgYmkr4w" element="_guEhYCfhEd2twubgYmkr4w">
+                  <children xmi:id="_guOSYyfhEd2twubgYmkr4w" type="interaction_compartment">
+                    <children xmi:id="_pGFDQifjEd2twubgYmkr4w" element="_pGFDQCfjEd2twubgYmkr4w">
+                      <children xmi:id="_pGONMCfjEd2twubgYmkr4w" type="Name"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_pGFDQyfjEd2twubgYmkr4w" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pGFDRCfjEd2twubgYmkr4w" x="182" y="8069"/>
+                    </children>
+                    <children xmi:id="_vG0TICfiEd2twubgYmkr4w" element="_vGqiICfiEd2twubgYmkr4w">
+                      <children xmi:id="_vG0TIyfiEd2twubgYmkr4w" type="Name"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_vG0TISfiEd2twubgYmkr4w" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vG0TIifiEd2twubgYmkr4w" x="4284" y="8069"/>
+                    </children>
+                    <children xmi:id="_cFGVsCfiEd2twubgYmkr4w" element="_cE9LwCfiEd2twubgYmkr4w">
+                      <children xmi:id="_cFGVsyfiEd2twubgYmkr4w" type="Name"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_cFGVsSfiEd2twubgYmkr4w" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cFGVsifiEd2twubgYmkr4w" x="264" y="8069"/>
+                    </children>
+                    <children xmi:id="_XU-OkCfiEd2twubgYmkr4w" element="_XU0dkCfiEd2twubgYmkr4w">
+                      <children xmi:id="_XU-OkyfiEd2twubgYmkr4w" type="Name"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_XU-OkSfiEd2twubgYmkr4w" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XU-OkifiEd2twubgYmkr4w" x="264" y="9300"/>
+                    </children>
+                    <children xmi:id="_-G41gCfhEd2twubgYmkr4w" element="_-GvEgCfhEd2twubgYmkr4w">
+                      <children xmi:id="_-G41gyfhEd2twubgYmkr4w" type="Name"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_-G41gSfhEd2twubgYmkr4w" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-G41gifhEd2twubgYmkr4w" x="-8785" y="-1" width="9395" height="15875"/>
+                    </children>
+                    <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_guOSZCfhEd2twubgYmkr4w"/>
+                  </children>
+                  <children xmi:id="_guOSZSfhEd2twubgYmkr4w" type="Name"/>
+                  <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_guOSZifhEd2twubgYmkr4w" showStereotype="Label"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_guOSZyfhEd2twubgYmkr4w" x="793" y="793"/>
+                </children>
+                <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_guOSaCfhEd2twubgYmkr4w"/>
+              </contents>
+            </eAnnotations>
+            <ownedConnector xmi:id="_4zcwgyfiEd2twubgYmkr4w">
+              <end xmi:id="_4zl6cCfiEd2twubgYmkr4w" role="_-GvEgSfhEd2twubgYmkr4w"/>
+              <end xmi:id="_4zl6cSfiEd2twubgYmkr4w" role="_KWrzMSfiEd2twubgYmkr4w"/>
+            </ownedConnector>
+            <lifeline xmi:id="_-GvEgCfhEd2twubgYmkr4w" name="pantallaSol·licitarContracte" represents="_-GvEgSfhEd2twubgYmkr4w"/>
+            <lifeline xmi:id="_pGFDQCfjEd2twubgYmkr4w" name="sol·licitarPresupostComanda" represents="_pGFDQSfjEd2twubgYmkr4w"/>
+            <lifeline xmi:id="_XU0dkCfiEd2twubgYmkr4w" represents="_Q-5VgSXuEd2w77SGMUcvww"/>
+            <lifeline xmi:id="_cE9LwCfiEd2twubgYmkr4w" name="sol·licitarPresupostContracte-Home" represents="_cE9LwSfiEd2twubgYmkr4w"/>
+            <lifeline xmi:id="_vGqiICfiEd2twubgYmkr4w" name="sol·licitarPresupostContracte" represents="_vGqiISfiEd2twubgYmkr4w"/>
+          </ownedBehavior>
           <ownedAttribute xmi:id="_mzziQSKLEd2PyqHmPA90Rg" name="pantallaSol·licitarPresupostContracte"/>
           <ownedAttribute xmi:id="_xXRhASKLEd2PyqHmPA90Rg" name="PSC" type="_hLt08CC1Ed2H7c-207bc6g" end="_OpsSNiKMEd2PyqHmPA90Rg _WfUfxiKOEd2PyqHmPA90Rg _WfUfxyKOEd2PyqHmPA90Rg _990DYyKOEd2PyqHmPA90Rg _hfuJViWHEd2NcP8TCnPQ4Q"/>
           <ownedAttribute xmi:id="_-b08cSKLEd2PyqHmPA90Rg" name="CSC" type="_HP46MCC3Ed2H7c-207bc6g" end="_OpsSNyKMEd2PyqHmPA90Rg _11s-tCKMEd2PyqHmPA90Rg _eT_7liWEEd2NcP8TCnPQ4Q _ne9PRCWEEd2NcP8TCnPQ4Q _KlfesCWGEd2NcP8TCnPQ4Q"/>
@@ -13022,6 +13071,11 @@
           <ownedAttribute xmi:id="_-wUSYSWDEd2NcP8TCnPQ4Q" name="l" type="_nQmZoPnTEdyli_XzYLJ9YQ" end="_ne9PRSWEEd2NcP8TCnPQ4Q"/>
           <ownedAttribute xmi:id="_PYjP8SWEEd2NcP8TCnPQ4Q" name="periodicitat" type="_i02fQP8yEdy9otTkNyh1Pw" end="_hfuJVyWHEd2NcP8TCnPQ4Q"/>
           <ownedAttribute xmi:id="__GaMQSWFEd2NcP8TCnPQ4Q" name="CEC" type="_TNrR8CWFEd2NcP8TCnPQ4Q" end="_KlWUxCWGEd2NcP8TCnPQ4Q"/>
+          <ownedAttribute xmi:id="_-GvEgSfhEd2twubgYmkr4w" name="pSPC" type="_hLt08CC1Ed2H7c-207bc6g" end="_4zl6cCfiEd2twubgYmkr4w"/>
+          <ownedAttribute xmi:id="_KWrzMSfiEd2twubgYmkr4w" name="servlet SPC" end="_4zl6cSfiEd2twubgYmkr4w"/>
+          <ownedAttribute xmi:id="_cE9LwSfiEd2twubgYmkr4w" name="homeSPC" type="_Z-GM8CfiEd2twubgYmkr4w"/>
+          <ownedAttribute xmi:id="_vGqiISfiEd2twubgYmkr4w" name="remoteSPC" type="_tLcLkCfiEd2twubgYmkr4w"/>
+          <ownedAttribute xmi:id="_pGFDQSfjEd2twubgYmkr4w" name="servletSPC" type="_nCy84CfjEd2twubgYmkr4w"/>
         </packagedElement>
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_OpsSMiKMEd2PyqHmPA90Rg" name="Eventodeoperacióndeenvío1"/>
         <packagedElement xmi:type="uml:CreationEvent" xmi:id="_OpsSNCKMEd2PyqHmPA90Rg" name="Eventodecreación1"/>
@@ -13043,6 +13097,16 @@
         <packagedElement xmi:type="uml:CreationEvent" xmi:id="_8jnp9CWGEd2NcP8TCnPQ4Q" name="Eventodecreación5"/>
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_hfuJUiWHEd2NcP8TCnPQ4Q" name="Eventodeoperacióndeenvío9"/>
         <packagedElement xmi:type="uml:CreationEvent" xmi:id="_hfuJVCWHEd2NcP8TCnPQ4Q" name="Eventodecreación6"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_Z-GM8CfiEd2twubgYmkr4w" name="Sol·licitarPresupostContracte-Home"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_tLcLkCfiEd2twubgYmkr4w" name="Sol·licitarPresupostContracte"/>
+        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_8mVMQSfiEd2twubgYmkr4w" name="Eventodeoperacióndeenvío10"/>
+        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_8mVMQifiEd2twubgYmkr4w" name="Eventodeoperaciónderecepción5"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_nCy84CfjEd2twubgYmkr4w" name="Sol·licitarPresupostContracte">
+          <eAnnotations xmi:id="_1HauMCfjEd2twubgYmkr4w" source="http://www.eclipse.org/uml2/2.0.0/UML">
+            <details xmi:id="_4L9dQCfjEd2twubgYmkr4w" key="Servlet"/>
+            <details xmi:id="_4L9dQSfjEd2twubgYmkr4w" key="Control"/>
+          </eAnnotations>
+        </packagedElement>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_fbzd4CWUEd2G-_S0ol0HdQ" name="Consultar Comanda">
         <eAnnotations xmi:id="_fbzd4SWUEd2G-_S0ol0HdQ" source="uml2.diagrams"/>
