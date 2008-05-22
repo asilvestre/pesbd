@@ -5078,20 +5078,20 @@
           </ownedAttribute>
         </packagedElement>
         <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_vimnUCfOEd2VTfg1ZN1h6Q" name="TaulaSetmana">
-          <ownedAttribute xmi:id="_-B3QwCfPEd2VTfg1ZN1h6Q" name="dllhi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="_9_U6ICfPEd2VTfg1ZN1h6Q" name="dllhf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="_988UgCfPEd2VTfg1ZN1h6Q" name="dmhi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="_96ak8CfPEd2VTfg1ZN1h6Q" name="dmhf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="_93vEYCfPEd2VTfg1ZN1h6Q" name="dxhi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="_90Jk4CfPEd2VTfg1ZN1h6Q" name="dxhf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="_9Yu0MCfPEd2VTfg1ZN1h6Q" name="djhi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="_AD2MECfPEd2VTfg1ZN1h6Q" name="djhf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="___Yi0CfOEd2VTfg1ZN1h6Q" name="dvhi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="__66SgCfOEd2VTfg1ZN1h6Q" name="dvhf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="__3CfICfOEd2VTfg1ZN1h6Q" name="dshi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="__y3JwCfOEd2VTfg1ZN1h6Q" name="dshf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="__u_WYCfOEd2VTfg1ZN1h6Q" name="dghi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
-          <ownedAttribute xmi:id="__q0BACfOEd2VTfg1ZN1h6Q" name="dghf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_-B3QwCfPEd2VTfg1ZN1h6Q" name="dllri" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_9_U6ICfPEd2VTfg1ZN1h6Q" name="dllrf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_988UgCfPEd2VTfg1ZN1h6Q" name="dmri" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_96ak8CfPEd2VTfg1ZN1h6Q" name="dmrf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_93vEYCfPEd2VTfg1ZN1h6Q" name="dxri" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_90Jk4CfPEd2VTfg1ZN1h6Q" name="dxrf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_9Yu0MCfPEd2VTfg1ZN1h6Q" name="djri" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_AD2MECfPEd2VTfg1ZN1h6Q" name="djrf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="___Yi0CfOEd2VTfg1ZN1h6Q" name="dvri" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="__66SgCfOEd2VTfg1ZN1h6Q" name="dvrf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="__3CfICfOEd2VTfg1ZN1h6Q" name="dsri" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="__y3JwCfOEd2VTfg1ZN1h6Q" name="dsrf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="__u_WYCfOEd2VTfg1ZN1h6Q" name="dgri" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="__q0BACfOEd2VTfg1ZN1h6Q" name="dgrf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
           <ownedAttribute xmi:id="_ybYLQCfOEd2VTfg1ZN1h6Q" name="dll" visibility="private">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
           </ownedAttribute>
@@ -5113,6 +5113,20 @@
           <ownedAttribute xmi:id="_xdF-ECfOEd2VTfg1ZN1h6Q" name="dg" visibility="private">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
           </ownedAttribute>
+          <ownedAttribute xmi:id="_4BB6QCfQEd2VTfg1ZN1h6Q" name="dllei" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BB6QSfQEd2VTfg1ZN1h6Q" name="dsef" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BB6QifQEd2VTfg1ZN1h6Q" name="dvef" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BB6QyfQEd2VTfg1ZN1h6Q" name="dxef" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BB6RCfQEd2VTfg1ZN1h6Q" name="dmef" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BB6RSfQEd2VTfg1ZN1h6Q" name="djei" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BB6RifQEd2VTfg1ZN1h6Q" name="dvei" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BB6RyfQEd2VTfg1ZN1h6Q" name="dgef" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BLrQCfQEd2VTfg1ZN1h6Q" name="dsei" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BLrQSfQEd2VTfg1ZN1h6Q" name="dmei" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BLrQifQEd2VTfg1ZN1h6Q" name="dgei" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BLrQyfQEd2VTfg1ZN1h6Q" name="dllef" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BLrRCfQEd2VTfg1ZN1h6Q" name="dxei" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_4BLrRSfQEd2VTfg1ZN1h6Q" name="djef" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
         </packagedElement>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_6nzj0P9CEdy9otTkNyh1Pw" name="Classes">
