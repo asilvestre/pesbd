@@ -5063,6 +5063,57 @@
           <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_qOBpcCGmEd2Z85oOD8AvLQ" name="tSeguent" visibility="private" type="_5X2tMPnDEdyli_XzYLJ9YQ"/>
           <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_ocA5QCGmEd2Z85oOD8AvLQ" name="tAnterior" visibility="private" type="_5X2tMPnDEdyli_XzYLJ9YQ"/>
         </packagedElement>
+        <packagedElement xmi:type="uml:Enumeration" xmi:id="_TiRwICfOEd2VTfg1ZN1h6Q" name="TipusPeriodicitat">
+          <ownedAttribute xmi:id="_k56xYCfOEd2VTfg1ZN1h6Q" name="enDies" visibility="private">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pcyfoSfOEd2VTfg1ZN1h6Q" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pcyfoCfOEd2VTfg1ZN1h6Q"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_kZu1cCfOEd2VTfg1ZN1h6Q" name="enMesos" visibility="private">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pHVNASfOEd2VTfg1ZN1h6Q" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pHVNACfOEd2VTfg1ZN1h6Q"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_sjH-cCfOEd2VTfg1ZN1h6Q" name="setmanal" visibility="private">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_t4gdASfOEd2VTfg1ZN1h6Q" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_t4gdACfOEd2VTfg1ZN1h6Q"/>
+          </ownedAttribute>
+        </packagedElement>
+        <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_vimnUCfOEd2VTfg1ZN1h6Q" name="TaulaSetmana">
+          <ownedAttribute xmi:id="_-B3QwCfPEd2VTfg1ZN1h6Q" name="dllhi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_9_U6ICfPEd2VTfg1ZN1h6Q" name="dllhf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_988UgCfPEd2VTfg1ZN1h6Q" name="dmhi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_96ak8CfPEd2VTfg1ZN1h6Q" name="dmhf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_93vEYCfPEd2VTfg1ZN1h6Q" name="dxhi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_90Jk4CfPEd2VTfg1ZN1h6Q" name="dxhf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_9Yu0MCfPEd2VTfg1ZN1h6Q" name="djhi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_AD2MECfPEd2VTfg1ZN1h6Q" name="djhf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="___Yi0CfOEd2VTfg1ZN1h6Q" name="dvhi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="__66SgCfOEd2VTfg1ZN1h6Q" name="dvhf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="__3CfICfOEd2VTfg1ZN1h6Q" name="dshi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="__y3JwCfOEd2VTfg1ZN1h6Q" name="dshf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="__u_WYCfOEd2VTfg1ZN1h6Q" name="dghi" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="__q0BACfOEd2VTfg1ZN1h6Q" name="dghf" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
+          <ownedAttribute xmi:id="_ybYLQCfOEd2VTfg1ZN1h6Q" name="dll" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yR10wCfOEd2VTfg1ZN1h6Q" name="dm" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yP57ECfOEd2VTfg1ZN1h6Q" name="dx" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yN-BYCfOEd2VTfg1ZN1h6Q" name="dj" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_xzlygCfOEd2VTfg1ZN1h6Q" name="dv" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_xvt_ICfOEd2VTfg1ZN1h6Q" name="ds" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_xdF-ECfOEd2VTfg1ZN1h6Q" name="dg" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+          </ownedAttribute>
+        </packagedElement>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_6nzj0P9CEdy9otTkNyh1Pw" name="Classes">
         <eAnnotations xmi:id="_6nzj0f9CEdy9otTkNyh1Pw" source="uml2.diagrams"/>
@@ -15333,6 +15384,21 @@
       <eAnnotations xmi:id="_3cPrESJSEd2ReLvUHik7JQ" source="uml2.diagrams"/>
       <packagedElement xmi:type="uml:Package" xmi:id="_LdA1QCJUEd2ReLvUHik7JQ" name="GestioComandesContractes">
         <eAnnotations xmi:id="_LdA1QSJUEd2ReLvUHik7JQ" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_TNrR8CWFEd2NcP8TCnPQ4Q" name="ControladorEvaluacióContracte">
+          <ownedOperation xmi:id="_YKUyICWFEd2NcP8TCnPQ4Q" name="evaluar">
+            <ownedParameter xmi:id="_gZOC0CfNEd2VTfg1ZN1h6Q" name="Parámetro1"/>
+            <ownedParameter xmi:id="_dAGx8CfNEd2VTfg1ZN1h6Q" name="per">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_WwwTwCfNEd2VTfg1ZN1h6Q" name="maxe">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_HywDYCfNEd2VTfg1ZN1h6Q" name="condicions" type="_SjUwUAGJEd2Mc8RuQV3jMg">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_SIg9USfNEd2VTfg1ZN1h6Q" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_SIg9UCfNEd2VTfg1ZN1h6Q" value="1"/>
+            </ownedParameter>
+          </ownedOperation>
+        </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_BZk4ACDAEd2QC6lTKoXgfA" name="Controlador CC">
           <ownedAttribute xmi:id="_jlGQsCDBEd2QC6lTKoXgfA" name="comanda" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_jk8fsCDBEd2QC6lTKoXgfA">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_jlGQsiDBEd2QC6lTKoXgfA" value="1"/>
@@ -15672,9 +15738,6 @@
       <eAnnotations xmi:id="_9qk1kSJSEd2ReLvUHik7JQ" source="uml2.diagrams"/>
       <packagedElement xmi:type="uml:Package" xmi:id="_EY8LACJTEd2ReLvUHik7JQ" name="entGestioComandesContractes">
         <eAnnotations xmi:id="_EY8LASJTEd2ReLvUHik7JQ" source="uml2.diagrams"/>
-        <packagedElement xmi:type="uml:Class" xmi:id="_TNrR8CWFEd2NcP8TCnPQ4Q" name="ControladorEvaluacióContracte">
-          <ownedOperation xmi:id="_YKUyICWFEd2NcP8TCnPQ4Q" name="evaluar"/>
-        </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_nQmZoPnTEdyli_XzYLJ9YQ" name="Lloc">
           <ownedAttribute xmi:id="_Ds-10P_WEdy3S9OQsgmyKQ" name="Id" visibility="private"/>
           <ownedAttribute xmi:id="_PxxbYAJdEd2iV-WQu0z7XQ" name="contracte2" visibility="private" type="_gwMHkP8sEdy9otTkNyh1Pw" association="_PxoRcAJdEd2iV-WQu0z7XQ">
