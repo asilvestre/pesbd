@@ -12722,6 +12722,44 @@
               <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Y02dMiWCEd2NcP8TCnPQ4Q" showStereotype="Text"/>
               <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Y02dMyWCEd2NcP8TCnPQ4Q" points="[11, 11, -126, -114]$[134, 148, -3, 23]"/>
             </edges>
+            <edges xmi:id="_Wl1uISfWEd2VTfg1ZN1h6Q" element="_Wl1uICfWEd2VTfg1ZN1h6Q" source="_5GDHICC1Ed2H7c-207bc6g" target="_UACjACWFEd2NcP8TCnPQ4Q">
+              <children xmi:id="_Wl1uJCfWEd2VTfg1ZN1h6Q" type="NameLabel">
+                <children xmi:id="_Wl1uJifWEd2VTfg1ZN1h6Q" type="Stereotype"/>
+                <children xmi:id="_Wl1uJyfWEd2VTfg1ZN1h6Q" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Wl1uJSfWEd2VTfg1ZN1h6Q" y="-186"/>
+              </children>
+              <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Wl1uIifWEd2VTfg1ZN1h6Q" showStereotype="Text"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Wl1uIyfWEd2VTfg1ZN1h6Q" points="[17, -12, -190, 145]$[198, -134, -9, 23]"/>
+            </edges>
+            <edges xmi:id="_X2wjcSfWEd2VTfg1ZN1h6Q" element="_X2wjcCfWEd2VTfg1ZN1h6Q" source="_5GDHICC1Ed2H7c-207bc6g" target="_INubcSC3Ed2H7c-207bc6g">
+              <children xmi:id="_X2wjdCfWEd2VTfg1ZN1h6Q" type="NameLabel">
+                <children xmi:id="_X2wjdifWEd2VTfg1ZN1h6Q" type="Stereotype"/>
+                <children xmi:id="_X2wjdyfWEd2VTfg1ZN1h6Q" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X2wjdSfWEd2VTfg1ZN1h6Q" y="-186"/>
+              </children>
+              <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_X2wjcifWEd2VTfg1ZN1h6Q" showStereotype="Text"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_X2wjcyfWEd2VTfg1ZN1h6Q" points="[94, -5, -125, 26]$[229, -8, 10, 23]"/>
+            </edges>
+            <edges xmi:id="_Zgs8wSfWEd2VTfg1ZN1h6Q" element="_Zgs8wCfWEd2VTfg1ZN1h6Q" source="_5GDHICC1Ed2H7c-207bc6g" target="_uKO70CWBEd2NcP8TCnPQ4Q">
+              <children xmi:id="_Zgs8xCfWEd2VTfg1ZN1h6Q" visible="false" type="KindLabel">
+                <children xmi:id="_Zgs8xifWEd2VTfg1ZN1h6Q" type="Stereotype"/>
+                <children xmi:id="_Zgs8yCfWEd2VTfg1ZN1h6Q" type="Kind"/>
+                <children xmi:id="_Zgs8xyfWEd2VTfg1ZN1h6Q" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zgs8xSfWEd2VTfg1ZN1h6Q" y="-186"/>
+              </children>
+              <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Zgs8wifWEd2VTfg1ZN1h6Q" showStereotype="Text"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Zgs8wyfWEd2VTfg1ZN1h6Q" points="[0, -12, 150, 101]$[-134, -106, 16, 7]"/>
+            </edges>
+            <edges xmi:id="_ah-MgSfWEd2VTfg1ZN1h6Q" element="_ah-MgCfWEd2VTfg1ZN1h6Q" source="_5GDHICC1Ed2H7c-207bc6g" target="_wBG94CWBEd2NcP8TCnPQ4Q">
+              <children xmi:id="_ah-MhCfWEd2VTfg1ZN1h6Q" visible="false" type="KindLabel">
+                <children xmi:id="_ah-MhifWEd2VTfg1ZN1h6Q" type="Stereotype"/>
+                <children xmi:id="_ah-MiCfWEd2VTfg1ZN1h6Q" type="Kind"/>
+                <children xmi:id="_ah-MhyfWEd2VTfg1ZN1h6Q" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ah-MhSfWEd2VTfg1ZN1h6Q" y="-186"/>
+              </children>
+              <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_ah-MgifWEd2VTfg1ZN1h6Q" showStereotype="Text"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ah-MgyfWEd2VTfg1ZN1h6Q" points="[-3, -12, 160, -55]$[-146, 37, 17, -6]"/>
+            </edges>
           </contents>
         </eAnnotations>
         <packagedElement xmi:type="uml:Collaboration" xmi:id="_9vsEoCKKEd2PyqHmPA90Rg" name="Diagrama de seqüència">
@@ -15614,7 +15652,7 @@
           </ownedAttribute>
           <ownedOperation xmi:id="_Wpj1ECWoEd2sPad099V_nQ" name="llistarComandes"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:Class" xmi:id="_hLt08CC1Ed2H7c-207bc6g" name="PantallaSol·licitarContracte" clientDependency="_FyYR0CWCEd2NcP8TCnPQ4Q _L3Ls4CWCEd2NcP8TCnPQ4Q">
+        <packagedElement xmi:type="uml:Class" xmi:id="_hLt08CC1Ed2H7c-207bc6g" name="PantallaSol·licitarContracte" clientDependency="_FyYR0CWCEd2NcP8TCnPQ4Q _L3Ls4CWCEd2NcP8TCnPQ4Q _Wl1uICfWEd2VTfg1ZN1h6Q _X2wjcCfWEd2VTfg1ZN1h6Q">
           <eAnnotations xmi:id="_De477iXoEd2w77SGMUcvww" source="http://www.eclipse.org/uml2/2.0.0/UML">
             <details xmi:id="_Eum3WiXoEd2w77SGMUcvww" key="JavaServerPage"/>
           </eAnnotations>
@@ -15629,6 +15667,12 @@
           </elementImport>
           <elementImport xmi:id="_Ot9swCWCEd2NcP8TCnPQ4Q">
             <importedElement xmi:type="uml:Actor" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_YsGoUPl5EdylvdL-IIbDug?Use%20Case/Actors/Client?"/>
+          </elementImport>
+          <elementImport xmi:id="_Zgs8wCfWEd2VTfg1ZN1h6Q">
+            <importedElement xmi:type="uml:Actor" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_YsGoUPl5EdylvdL-IIbDug?Use%20Case/Actors/Client?"/>
+          </elementImport>
+          <elementImport xmi:id="_ah-MgCfWEd2VTfg1ZN1h6Q">
+            <importedElement xmi:type="uml:Actor" href="../Requirements/0708Q2-7-E-1-1-Use_Case_Model.emx#_5XA_AOnFEdyVi_xoU05qOw?Use%20Case/Actors/Gestor%20comandes?"/>
           </elementImport>
           <ownedAttribute xmi:id="_9UJhQSWBEd2NcP8TCnPQ4Q" name="controladorsol·licitarcontracte" visibility="private" type="_HP46MCC3Ed2H7c-207bc6g" association="_9UJhQCWBEd2NcP8TCnPQ4Q"/>
           <ownedAttribute xmi:id="_fDtzMCWCEd2NcP8TCnPQ4Q" name="controladorsol·licitarcontracte2" visibility="private" type="_HP46MCC3Ed2H7c-207bc6g" association="_fDkCMCWCEd2NcP8TCnPQ4Q"/>
@@ -15726,6 +15770,8 @@
         <packagedElement xmi:type="uml:Realization" xmi:id="_IlvPACXqEd2w77SGMUcvww" supplier="_BA2hQCXqEd2w77SGMUcvww" client="_iMFMgCXpEd2w77SGMUcvww"/>
         <packagedElement xmi:type="uml:Realization" xmi:id="_XNrIwCXqEd2w77SGMUcvww" supplier="_d2nMoCXfEd2rHurz5FIoEg" client="_iMFMgCXpEd2w77SGMUcvww"/>
         <packagedElement xmi:type="uml:Realization" xmi:id="_XyoP8CXqEd2w77SGMUcvww" supplier="_fz708CXfEd2rHurz5FIoEg" client="_iMFMgCXpEd2w77SGMUcvww"/>
+        <packagedElement xmi:type="uml:Dependency" xmi:id="_Wl1uICfWEd2VTfg1ZN1h6Q" supplier="_TNrR8CWFEd2NcP8TCnPQ4Q" client="_hLt08CC1Ed2H7c-207bc6g"/>
+        <packagedElement xmi:type="uml:Dependency" xmi:id="_X2wjcCfWEd2VTfg1ZN1h6Q" supplier="_HP46MCC3Ed2H7c-207bc6g" client="_hLt08CC1Ed2H7c-207bc6g"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_pFfLcCJTEd2ReLvUHik7JQ" name="pSistemaEntregaRecepcio">
         <eAnnotations xmi:id="_pFfLcSJTEd2ReLvUHik7JQ" source="uml2.diagrams"/>
