@@ -2,5 +2,6 @@
 <TransformationConfiguration forwardTransformation="com.ibm.xtools.transform.uml2.ldm.root" version="7.0.0">
 <Property id="CONTEXT_SOURCE" value="&amp;lt;Collection&amp;gt;,java.util.ArrayList,@47&amp;lt;comma&amp;gt;14@com.ibm.xtools.uml.transform.core.metatype.uml2Analysis Modelplatform:/resource/E1/Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_szH3wPm3Edyli_XzYLJ9YQ"/>
 <Property id="CONTEXT_TARGET_CONTAINER" value="@43,=@com.ibm.xtools.transform.core.metatype.file/Data Model/Data Model.ldm"/>
+<Property id="IS_SILENT" value="@46,=@com.ibm.xtools.transform.core.metatype.booleanfalse"/>
 <Property id="logTrace" value="@46,=@com.ibm.xtools.transform.core.metatype.booleanfalse"/>
 </TransformationConfiguration>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SQLSchema="http:///org/eclipse/wst/rdb/models/sql/schema.ecore" xmlns:datanotation="http:///datanotation.ecore">
+  <SQLSchema:Database xmi:id="_C2jzACfJEd2TMNqSrSDvqA" name="Base de datos nueva" vendor="MySql" version="4.0" schemas="_C64SUCfJEd2TMNqSrSDvqA"/>
+  <SQLSchema:Schema xmi:id="_C64SUCfJEd2TMNqSrSDvqA" name="Esquema" database="_C2jzACfJEd2TMNqSrSDvqA">
+    <eAnnotations xmi:id="_C7evQCfJEd2TMNqSrSDvqA" source="diagram">
+      <contents xsi:type="datanotation:DataDiagram" xmi:id="_C7evQSfJEd2TMNqSrSDvqA" type="IE_CrowFoot" name="Diagrama1" viewKind="ProjectExplorer" notation="IE_CrowFoot" kind="Physical">
+        <eAnnotations xmi:id="_C7evSCfJEd2TMNqSrSDvqA" source="Diagram_State">
+          <details xmi:id="_C7evSSfJEd2TMNqSrSDvqA" key="Diagram_State_Value"/>
+        </eAnnotations>
+        <styles xsi:type="datanotation:DataAttributeStyle" xmi:id="_C7evQifJEd2TMNqSrSDvqA"/>
+        <styles xsi:type="datanotation:DataCompartmentStyle" xmi:id="_C7evQyfJEd2TMNqSrSDvqA"/>
+        <styles xsi:type="datanotation:DataDisplayStyle" xmi:id="_C7evRCfJEd2TMNqSrSDvqA"/>
+        <styles xsi:type="datanotation:DataDiagramRelationshipStyle" xmi:id="_C7evRSfJEd2TMNqSrSDvqA"/>
+        <styles xsi:type="datanotation:DataShapeNameStyle" xmi:id="_C7evRifJEd2TMNqSrSDvqA"/>
+        <styles xsi:type="datanotation:DataDiagramFormattingStyle" xmi:id="_C7evRyfJEd2TMNqSrSDvqA"/>
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </SQLSchema:Schema>
+</xmi:XMI>
