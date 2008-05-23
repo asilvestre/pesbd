@@ -8631,11 +8631,11 @@
                     <body></body>
                   </specification>
                 </guard>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1x2DASjaEd2DMqj-ciF7fw" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_8X0tkSE8Ed2HO4akhfXL1w" message="_1x2DACjaEd2DMqj-ciF7fw"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1x2DAijaEd2DMqj-ciF7fw" covered="_F8P_sCDFEd2QC6lTKoXgfA" event="_8X0tkiE8Ed2HO4akhfXL1w" message="_1x2DACjaEd2DMqj-ciF7fw"/>
+                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1x2DASjaEd2DMqj-ciF7fw" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_SwGBYCjjEd2TepqzqWQHFw" message="_1x2DACjaEd2DMqj-ciF7fw"/>
+                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1x2DAijaEd2DMqj-ciF7fw" covered="_F8P_sCDFEd2QC6lTKoXgfA" event="_SwGBYSjjEd2TepqzqWQHFw" message="_1x2DACjaEd2DMqj-ciF7fw"/>
                 <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_1x2DAyjaEd2DMqj-ciF7fw" covered="_F8P_sCDFEd2QC6lTKoXgfA" start="_1x2DAijaEd2DMqj-ciF7fw" finish="_1x2DBCjaEd2DMqj-ciF7fw"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1x2DBCjaEd2DMqj-ciF7fw" covered="_F8P_sCDFEd2QC6lTKoXgfA" event="_8X0tkSE8Ed2HO4akhfXL1w" message="_1x2DBSjaEd2DMqj-ciF7fw"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1x2DBijaEd2DMqj-ciF7fw" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_8X0tkiE8Ed2HO4akhfXL1w" message="_1x2DBSjaEd2DMqj-ciF7fw"/>
+                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1x2DBCjaEd2DMqj-ciF7fw" covered="_F8P_sCDFEd2QC6lTKoXgfA" event="_SwGBYCjjEd2TepqzqWQHFw" message="_1x2DBSjaEd2DMqj-ciF7fw"/>
+                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1x2DBijaEd2DMqj-ciF7fw" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_SwGBYSjjEd2TepqzqWQHFw" message="_1x2DBSjaEd2DMqj-ciF7fw"/>
                 <fragment xmi:type="uml:CombinedFragment" xmi:id="_AeGxYCjbEd2DMqj-ciF7fw" covered="_mN8FQCIAEd2AX46NLcxjVA _TJIXkCIAEd2AX46NLcxjVA _7bvVMCH_Ed2AX46NLcxjVA _F8P_sCDFEd2QC6lTKoXgfA _AWFocCDFEd2QC6lTKoXgfA _rBZNsCDCEd2QC6lTKoXgfA" interactionOperator="loop">
                   <operand xmi:id="_AeGxYSjbEd2DMqj-ciF7fw" covered="_rBZNsCDCEd2QC6lTKoXgfA _AWFocCDFEd2QC6lTKoXgfA _mN8FQCIAEd2AX46NLcxjVA _TJIXkCIAEd2AX46NLcxjVA">
                     <ownedComment xmi:id="_8gOKECjbEd2DMqj-ciF7fw">
@@ -8890,6 +8890,8 @@
         <packagedElement xmi:type="uml:ExecutionEvent" xmi:id="_w1VKUiXoEd22C99UI3MBbQ" name="Eventodeejecución2"/>
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_yotMcCXoEd22C99UI3MBbQ" name="Eventodeoperacióndeenvío24" operation="_yonF0CXoEd22C99UI3MBbQ"/>
         <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_yotMcSXoEd22C99UI3MBbQ" name="Eventodeoperaciónderecepción20" operation="_yonF0CXoEd22C99UI3MBbQ"/>
+        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_SwGBYCjjEd2TepqzqWQHFw" name="Eventodeoperacióndeenvío25" operation="_3ZsIcCWWEd2G-_S0ol0HdQ"/>
+        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_SwGBYSjjEd2TepqzqWQHFw" name="Eventodeoperaciónderecepción21" operation="_3ZsIcCWWEd2G-_S0ol0HdQ"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_NJqUMB-qEd2wW57a2gCSYg" name="Crear Ruta">
         <eAnnotations xmi:id="_NJ0FMB-qEd2wW57a2gCSYg" source="uml2.diagrams">
