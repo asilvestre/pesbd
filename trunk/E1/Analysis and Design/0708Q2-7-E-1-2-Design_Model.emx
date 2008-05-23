@@ -7199,7 +7199,7 @@
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_BWGacBzUEd2HAdWNX_bjLg" name="Cancel lar comanda">
         <eAnnotations xmi:id="_BWGacRzUEd2HAdWNX_bjLg" source="uml2.diagrams"/>
-        <packagedElement xmi:type="uml:Collaboration" xmi:id="_Dq0PEBzUEd2HAdWNX_bjLg" name="Colaboración1">
+        <packagedElement xmi:type="uml:Collaboration" xmi:id="_Dq0PEBzUEd2HAdWNX_bjLg" name="Diagrames de Seqüència">
           <eAnnotations xmi:id="_rIbXUCBVEd2BP-STTkafEQ" source="uml2.diagrams">
             <contents xmi:type="notation:Diagram" xmi:id="_rIbXUSBVEd2BP-STTkafEQ" type="Freeform" name="VOPC">
               <children xmi:id="_4LvhYCC9Ed2QC6lTKoXgfA">
@@ -8238,7 +8238,7 @@
               </edges>
             </contents>
           </eAnnotations>
-          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_Dq-AEBzUEd2HAdWNX_bjLg" name="Interacción1">
+          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_Dq-AEBzUEd2HAdWNX_bjLg" name="Capa Presentacio">
             <eAnnotations xmi:id="_Dq-AERzUEd2HAdWNX_bjLg" source="uml2.diagrams">
               <contents xmi:type="notation:Diagram" xmi:id="_eSDh0CBVEd2BP-STTkafEQ" type="Sequence" element="_Dq-AEBzUEd2HAdWNX_bjLg" name="Cancel·lar Comanda" measurementUnit="Himetric">
                 <children xmi:id="_eSDh0SBVEd2BP-STTkafEQ" element="_Dq-AEBzUEd2HAdWNX_bjLg">
@@ -8730,6 +8730,51 @@
             <message xmi:id="_YsufSCjgEd2TepqzqWQHFw" name="confirmarCancel·lacio" messageSort="reply" receiveEvent="_Ys4QQCjgEd2TepqzqWQHFw" sendEvent="_YsufRyjgEd2TepqzqWQHFw" connector="_YsufQyjgEd2TepqzqWQHFw"/>
             <message xmi:id="_cDdKgCjgEd2TepqzqWQHFw" name="confirmarCancel·lacio" receiveEvent="_cDdKgijgEd2TepqzqWQHFw" sendEvent="_cDdKgSjgEd2TepqzqWQHFw" connector="_9w7coyjeEd2TepqzqWQHFw"/>
             <message xmi:id="_cDdKhSjgEd2TepqzqWQHFw" name="confirmarCancel·lacio" messageSort="reply" receiveEvent="_cDdKhijgEd2TepqzqWQHFw" sendEvent="_cDdKhCjgEd2TepqzqWQHFw" connector="_9w7coyjeEd2TepqzqWQHFw"/>
+          </ownedBehavior>
+          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_n3uNUCjhEd2TepqzqWQHFw" name="Cercar Informacio">
+            <eAnnotations xmi:id="_n33XQCjhEd2TepqzqWQHFw" source="uml2.diagrams">
+              <contents xmi:type="notation:Diagram" xmi:id="_n33XQSjhEd2TepqzqWQHFw" type="Sequence" element="_n3uNUCjhEd2TepqzqWQHFw" name="cercarInformacio" measurementUnit="Himetric">
+                <children xmi:id="_n33XQijhEd2TepqzqWQHFw" element="_n3uNUCjhEd2TepqzqWQHFw">
+                  <children xmi:id="_n33XQyjhEd2TepqzqWQHFw" type="interaction_compartment">
+                    <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_n33XRCjhEd2TepqzqWQHFw"/>
+                  </children>
+                  <children xmi:id="_n33XRSjhEd2TepqzqWQHFw" type="Name"/>
+                  <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_n33XRijhEd2TepqzqWQHFw" showStereotype="Label"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n33XRyjhEd2TepqzqWQHFw" x="793" y="793"/>
+                </children>
+                <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_n33XSCjhEd2TepqzqWQHFw"/>
+              </contents>
+            </eAnnotations>
+          </ownedBehavior>
+          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_1bab0CjhEd2TepqzqWQHFw" name="Enviar Sol·licitud">
+            <eAnnotations xmi:id="_1bab0SjhEd2TepqzqWQHFw" source="uml2.diagrams">
+              <contents xmi:type="notation:Diagram" xmi:id="_1bab0ijhEd2TepqzqWQHFw" type="Sequence" element="_1bab0CjhEd2TepqzqWQHFw" name="Enviar Sol·licitud" measurementUnit="Himetric">
+                <children xmi:id="_1bab0yjhEd2TepqzqWQHFw" element="_1bab0CjhEd2TepqzqWQHFw">
+                  <children xmi:id="_1bab1CjhEd2TepqzqWQHFw" type="interaction_compartment">
+                    <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_1bab1SjhEd2TepqzqWQHFw"/>
+                  </children>
+                  <children xmi:id="_1bab1ijhEd2TepqzqWQHFw" type="Name"/>
+                  <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_1bab1yjhEd2TepqzqWQHFw" showStereotype="Label"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1bab2CjhEd2TepqzqWQHFw" x="793" y="793"/>
+                </children>
+                <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_1bab2SjhEd2TepqzqWQHFw"/>
+              </contents>
+            </eAnnotations>
+          </ownedBehavior>
+          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_8KXAECjhEd2TepqzqWQHFw" name="Confirmar Cancel·lacio">
+            <eAnnotations xmi:id="_8KgKACjhEd2TepqzqWQHFw" source="uml2.diagrams">
+              <contents xmi:type="notation:Diagram" xmi:id="_8KgKASjhEd2TepqzqWQHFw" type="Sequence" element="_8KXAECjhEd2TepqzqWQHFw" name="Confirmar Cancel·lacio" measurementUnit="Himetric">
+                <children xmi:id="_8KgKAijhEd2TepqzqWQHFw" element="_8KXAECjhEd2TepqzqWQHFw">
+                  <children xmi:id="_8KgKAyjhEd2TepqzqWQHFw" type="interaction_compartment">
+                    <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_8KgKBCjhEd2TepqzqWQHFw"/>
+                  </children>
+                  <children xmi:id="_8KgKBSjhEd2TepqzqWQHFw" type="Name"/>
+                  <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_8KgKBijhEd2TepqzqWQHFw" showStereotype="Label"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8KgKByjhEd2TepqzqWQHFw" x="793" y="793"/>
+                </children>
+                <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_8KgKCCjhEd2TepqzqWQHFw"/>
+              </contents>
+            </eAnnotations>
           </ownedBehavior>
           <ownedAttribute xmi:id="_NswO8SDCEd2QC6lTKoXgfA" name="pantalla Cerca comanda" type="_z3x8YCC-Ed2QC6lTKoXgfA"/>
           <ownedAttribute xmi:id="_YPOvMSDCEd2QC6lTKoXgfA" name="pantLC" type="_gZydMCC_Ed2QC6lTKoXgfA" end="_em9GRSDCEd2QC6lTKoXgfA _r8HJhiDCEd2QC6lTKoXgfA _8-2rBCjUEd2DMqj-ciF7fw _nb6icSjeEd2TepqzqWQHFw"/>
