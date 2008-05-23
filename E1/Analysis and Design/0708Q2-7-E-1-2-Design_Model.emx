@@ -12668,8 +12668,8 @@
             </edges>
           </contents>
         </eAnnotations>
-        <packagedElement xmi:type="uml:Collaboration" xmi:id="_6nzPYCBVEd2BP-STTkafEQ" name="Colaboración1">
-          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_6n5WACBVEd2BP-STTkafEQ" name="Interacción1">
+        <packagedElement xmi:type="uml:Collaboration" xmi:id="_6nzPYCBVEd2BP-STTkafEQ" name="Diagrames de Seqüència">
+          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_6n5WACBVEd2BP-STTkafEQ" name="Contractacio transport especial">
             <eAnnotations xmi:id="_6n_coCBVEd2BP-STTkafEQ" source="uml2.diagrams">
               <contents xmi:type="notation:Diagram" xmi:id="_6n_coSBVEd2BP-STTkafEQ" type="Sequence" element="_6n5WACBVEd2BP-STTkafEQ" name="Contractacio transport especial" measurementUnit="Himetric">
                 <children xmi:id="_6n_coiBVEd2BP-STTkafEQ" element="_6n5WACBVEd2BP-STTkafEQ">
@@ -13039,6 +13039,21 @@
             <message xmi:id="_1rLu0CHeEd2Pusynym5W6w" name="preBook" messageSort="reply" receiveEvent="_1rLu0SHeEd2Pusynym5W6w" sendEvent="_1rFBJCHeEd2Pusynym5W6w" connector="_CxZXICHfEd2Pusynym5W6w"/>
             <message xmi:id="_8f3HoCHeEd2Pusynym5W6w" name="rentConfirm" receiveEvent="_8f3HoiHeEd2Pusynym5W6w" sendEvent="_8f3HoSHeEd2Pusynym5W6w" connector="_64qD0CHfEd2Pusynym5W6w"/>
             <message xmi:id="_8f9OQiHeEd2Pusynym5W6w" name="rentConfirm" messageSort="reply" receiveEvent="_8f9OQyHeEd2Pusynym5W6w" sendEvent="_8f9OQSHeEd2Pusynym5W6w" connector="_64qD0CHfEd2Pusynym5W6w"/>
+          </ownedBehavior>
+          <ownedBehavior xmi:type="uml:Interaction" xmi:id="_AQAecCjwEd2JT-HJs_Wegg" name="Confirmar Peticio">
+            <eAnnotations xmi:id="_AQAecSjwEd2JT-HJs_Wegg" source="uml2.diagrams">
+              <contents xmi:type="notation:Diagram" xmi:id="_AQAecijwEd2JT-HJs_Wegg" type="Sequence" element="_AQAecCjwEd2JT-HJs_Wegg" name="Confirmar Peticio" measurementUnit="Himetric">
+                <children xmi:id="_AQAecyjwEd2JT-HJs_Wegg" element="_AQAecCjwEd2JT-HJs_Wegg">
+                  <children xmi:id="_AQAedCjwEd2JT-HJs_Wegg" type="interaction_compartment">
+                    <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_AQAedSjwEd2JT-HJs_Wegg"/>
+                  </children>
+                  <children xmi:id="_AQAedijwEd2JT-HJs_Wegg" type="Name"/>
+                  <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_AQAedyjwEd2JT-HJs_Wegg" showStereotype="Label"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AQAeeCjwEd2JT-HJs_Wegg" x="793" y="793"/>
+                </children>
+                <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_AQAeeSjwEd2JT-HJs_Wegg"/>
+              </contents>
+            </eAnnotations>
           </ownedBehavior>
           <ownedAttribute xmi:id="_BoCRISDIEd2QC6lTKoXgfA" name="pantallaCDLP" type="_4fB6sCDGEd2QC6lTKoXgfA" end="_EBFMJiDIEd2QC6lTKoXgfA _LHcK1iDIEd2QC6lTKoXgfA _euOHRiFDEd2HO4akhfXL1w"/>
           <ownedAttribute xmi:id="_Cl4ZcSDIEd2QC6lTKoXgfA" name="controlador CTE" type="_LeM6cCDHEd2QC6lTKoXgfA" end="_EBFMJyDIEd2QC6lTKoXgfA _qS_n4yDIEd2QC6lTKoXgfA _moYh4SDJEd2QC6lTKoXgfA _fx4ZJiFCEd2HO4akhfXL1w"/>
