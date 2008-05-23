@@ -8088,7 +8088,7 @@
                         <layoutConstraint xmi:type="notation:Ratio" xmi:id="_G7BKcSjbEd2DMqj-ciF7fw" value="0.5027919019246966"/>
                       </children>
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_F84HMSjbEd2DMqj-ciF7fw" showStereotype="Label"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F84HMijbEd2DMqj-ciF7fw" x="30405" y="507" width="37624" height="27788"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F84HMijbEd2DMqj-ciF7fw" x="30405" y="534" width="37624" height="25213"/>
                     </children>
                     <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_eSDh0yBVEd2BP-STTkafEQ"/>
                   </children>
