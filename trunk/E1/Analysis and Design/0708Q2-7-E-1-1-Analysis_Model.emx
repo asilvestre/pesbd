@@ -12028,7 +12028,7 @@
                     <children xmi:id="_8guDRiHeEd2Pusynym5W6w" type="Name"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8guDRCHeEd2Pusynym5W6w" y="476"/>
                   </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_8guDQSHeEd2Pusynym5W6w" showStereotype="Text"/>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_8guDQSHeEd2Pusynym5W6w" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_8guDQiHeEd2Pusynym5W6w" points="[0, 0, 229, 0]$[-229, 0, 0, 0]"/>
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_8guDRyHeEd2Pusynym5W6w" id="188:1561"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_8guDSCHeEd2Pusynym5W6w" id="349:0"/>
@@ -12105,7 +12105,7 @@
               <operand xmi:id="_eUYqsCHiEd2Pusynym5W6w">
                 <guard xmi:id="_eUYqsSHiEd2Pusynym5W6w">
                   <specification xmi:type="uml:OpaqueExpression" xmi:id="_eUYqsiHiEd2Pusynym5W6w">
-                    <body>Si preConfirm = OK</body>
+                    <body>Si preBook = OK</body>
                   </specification>
                 </guard>
                 <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_TKc_ASDIEd2QC6lTKoXgfA" covered="_GQlwoCDIEd2QC6lTKoXgfA" event="_TKc_AiDIEd2QC6lTKoXgfA" message="_TKc_ACDIEd2QC6lTKoXgfA"/>
