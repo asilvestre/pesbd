@@ -12428,7 +12428,7 @@
                     <children xmi:id="_aCz5RilgEd2_g-92KDgBsQ" type="Name"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aCz5RClgEd2_g-92KDgBsQ" y="-317"/>
                   </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_aCz5QSlgEd2_g-92KDgBsQ" showStereotype="Text"/>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_aCz5QSlgEd2_g-92KDgBsQ" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aCz5QilgEd2_g-92KDgBsQ" points="[0, 0, -151, 0]$[151, 0, 0, 0]"/>
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aCz5RylgEd2_g-92KDgBsQ" id="1126:2407"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aCz5SClgEd2_g-92KDgBsQ" id="1188:0"/>
@@ -16785,9 +16785,24 @@
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_uSsKsQNHEd2llOXu5fsdpQ" value="*"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_uSsKsANHEd2llOXu5fsdpQ"/>
           </ownedAttribute>
-          <ownedOperation xmi:id="_Ae6BMClgEd2_g-92KDgBsQ" name="existeixTipus(tipus)"/>
-          <ownedOperation xmi:id="_LOrWkClgEd2_g-92KDgBsQ" name="crearTipus"/>
-          <ownedOperation xmi:id="_bOELcClgEd2_g-92KDgBsQ" name="associarVehicl"/>
+          <ownedOperation xmi:id="_Ae6BMClgEd2_g-92KDgBsQ" name="existeixTipus" visibility="public">
+            <ownedParameter xmi:id="_DAZ1ICmCEd2_g-92KDgBsQ" name="nomTipus">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FUVmoCmCEd2_g-92KDgBsQ" name="existeixTipus" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_LOrWkClgEd2_g-92KDgBsQ" name="crearTipus">
+            <ownedParameter xmi:id="_AUvgICmCEd2_g-92KDgBsQ" name="nomTipus">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_bOELcClgEd2_g-92KDgBsQ" name="associarVehicle" visibility="public">
+            <ownedParameter xmi:id="_7KS0gCmBEd2_g-92KDgBsQ" name="vehicle">
+              <type xmi:type="uml:Class" href="0708Q2-7-E-1-2-Design_Model.emx#_Zo43gCDHEd2QC6lTKoXgfA?Design%20Model/Capa%20Dades/entSistemaPlanificacio/Vehicle?"/>
+            </ownedParameter>
+          </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_8Z8boPm3Edyli_XzYLJ9YQ" name="Transportista">
           <ownedAttribute xmi:id="_SERjofnEEdyli_XzYLJ9YQ" name="ruta" visibility="private" type="_4LfeMPm3Edyli_XzYLJ9YQ" association="_SERjoPnEEdyli_XzYLJ9YQ">
