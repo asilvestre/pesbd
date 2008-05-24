@@ -8783,7 +8783,7 @@
             <message xmi:id="_vqa8VSjbEd2DMqj-ciF7fw" name="getNom" messageSort="reply" receiveEvent="_vqa8VijbEd2DMqj-ciF7fw" sendEvent="_vqa8VCjbEd2DMqj-ciF7fw" connector="_VGn_AyIAEd2AX46NLcxjVA"/>
           </ownedBehavior>
           <ownedAttribute xmi:id="_NswO8SDCEd2QC6lTKoXgfA" name="pantalla Cerca comanda" type="_z3x8YCC-Ed2QC6lTKoXgfA"/>
-          <ownedAttribute xmi:id="_YPOvMSDCEd2QC6lTKoXgfA" name="pantLC" type="_gZydMCC_Ed2QC6lTKoXgfA" end="_em9GRSDCEd2QC6lTKoXgfA _r8HJhiDCEd2QC6lTKoXgfA"/>
+          <ownedAttribute xmi:id="_YPOvMSDCEd2QC6lTKoXgfA" name="pantLC" type="_z3x8YCC-Ed2QC6lTKoXgfA" end="_em9GRSDCEd2QC6lTKoXgfA _r8HJhiDCEd2QC6lTKoXgfA"/>
           <ownedAttribute xmi:id="_apd9ASDCEd2QC6lTKoXgfA" name="pantallaLC" type="_gZydMCC_Ed2QC6lTKoXgfA" end="_em9GRiDCEd2QC6lTKoXgfA _jfoP9CDDEd2QC6lTKoXgfA _wcbdliDDEd2QC6lTKoXgfA"/>
           <ownedAttribute xmi:id="_rBZNsSDCEd2QC6lTKoXgfA" name="controlador CC" type="_BZk4ACDAEd2QC6lTKoXgfA" end="_r8HJhyDCEd2QC6lTKoXgfA _jfoP9SDDEd2QC6lTKoXgfA _Of-JtSDEEd2QC6lTKoXgfA _YAERYyE8Ed2HO4akhfXL1w _7G7tciE8Ed2HO4akhfXL1w _9bP5cCE8Ed2HO4akhfXL1w"/>
           <ownedAttribute xmi:id="_vDqT0SDDEd2QC6lTKoXgfA" name="pantallaIC" type="_ly7FECC_Ed2QC6lTKoXgfA" end="_wcbdlyDDEd2QC6lTKoXgfA _MOwVBiDEEd2QC6lTKoXgfA _YAERYiE8Ed2HO4akhfXL1w _UVKAUiXmEd22C99UI3MBbQ _UVQG8CXmEd22C99UI3MBbQ"/>
@@ -15475,7 +15475,7 @@
       <eAnnotations xmi:id="_l099QSJQEd2ReLvUHik7JQ" source="uml2.diagrams"/>
       <packagedElement xmi:type="uml:Package" xmi:id="_mjM04CJTEd2ReLvUHik7JQ" name="pGestioComandesContractes">
         <eAnnotations xmi:id="_mjM04SJTEd2ReLvUHik7JQ" source="uml2.diagrams"/>
-        <packagedElement xmi:type="uml:Class" xmi:id="_z3x8YCC-Ed2QC6lTKoXgfA" name="Pantalla Cerca comanda">
+        <packagedElement xmi:type="uml:Class" xmi:id="_z3x8YCC-Ed2QC6lTKoXgfA" name="PantallaCercaComanda">
           <ownedAttribute xmi:id="_YygGQSDAEd2QC6lTKoXgfA" name="pantalla llistat de comandes" visibility="private" type="_gZydMCC_Ed2QC6lTKoXgfA" association="_YygGQCDAEd2QC6lTKoXgfA">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Yyp3QSDAEd2QC6lTKoXgfA" value="1"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Yyp3QCDAEd2QC6lTKoXgfA"/>
