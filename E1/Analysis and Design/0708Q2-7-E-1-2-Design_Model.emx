@@ -9225,22 +9225,39 @@
                     </children>
                     <children xmi:id="_LNICYijnEd2JT-HJs_Wegg" element="_LNICYCjnEd2JT-HJs_Wegg">
                       <children xmi:id="_LNICZSjnEd2JT-HJs_Wegg" type="Name"/>
-                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_LNICYyjnEd2JT-HJs_Wegg" showStereotype="Label"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_LNICYyjnEd2JT-HJs_Wegg" showParent="QualifiedName" showStereotype="Image"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LNICZCjnEd2JT-HJs_Wegg" x="529" y="8069"/>
                     </children>
                     <children xmi:id="_L9tKwCjnEd2JT-HJs_Wegg" element="_L9Qe1ijnEd2JT-HJs_Wegg">
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_L9tKwSjnEd2JT-HJs_Wegg" showStereotype="Label"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L9tKwijnEd2JT-HJs_Wegg" x="-1" y="1322" height="1322"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L9tKwijnEd2JT-HJs_Wegg" x="-1" y="1322" height="2222"/>
                     </children>
                     <children xmi:id="_ZilsECjnEd2JT-HJs_Wegg" element="_ZiciICjnEd2JT-HJs_Wegg">
                       <children xmi:id="_ZilsEyjnEd2JT-HJs_Wegg" type="Name"/>
-                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_ZilsESjnEd2JT-HJs_Wegg" showStereotype="Label"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_ZilsESjnEd2JT-HJs_Wegg" showParent="QualifiedName" showStereotype="Image"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZilsEijnEd2JT-HJs_Wegg" x="529" y="8069"/>
                     </children>
                     <children xmi:id="_o435kCjnEd2JT-HJs_Wegg" element="_o4uvoCjnEd2JT-HJs_Wegg">
                       <children xmi:id="_o435kyjnEd2JT-HJs_Wegg" type="Name"/>
-                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_o435kSjnEd2JT-HJs_Wegg" showStereotype="Label"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_o435kSjnEd2JT-HJs_Wegg" showParent="QualifiedName" showStereotype="Image"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_o435kijnEd2JT-HJs_Wegg" x="529" y="8069"/>
+                    </children>
+                    <children xmi:id="_OqfwoCl1Ed2_g-92KDgBsQ" element="_plSTpijnEd2JT-HJs_Wegg">
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_OqfwoSl1Ed2_g-92KDgBsQ" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Oqfwoil1Ed2_g-92KDgBsQ" x="-1" y="1322" height="1322"/>
+                    </children>
+                    <children xmi:id="_Oqfwoyl1Ed2_g-92KDgBsQ" element="_t1Oe0ijnEd2JT-HJs_Wegg">
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_OqfwpCl1Ed2_g-92KDgBsQ" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OqfwpSl1Ed2_g-92KDgBsQ" x="-1" y="1322" height="1322"/>
+                    </children>
+                    <children xmi:id="_gxxCkCl2Ed2_g-92KDgBsQ" element="_gxq78Cl2Ed2_g-92KDgBsQ">
+                      <children xmi:id="_gxxCkyl2Ed2_g-92KDgBsQ" type="ImageCompartment">
+                        <layoutConstraint xmi:type="notation:Size" xmi:id="_gxxClCl2Ed2_g-92KDgBsQ" width="1320" height="1320"/>
+                      </children>
+                      <children xmi:id="_gxxClSl2Ed2_g-92KDgBsQ" type="Stereotype"/>
+                      <children xmi:id="_gxxClil2Ed2_g-92KDgBsQ" type="CommentBody"/>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_gxxCkSl2Ed2_g-92KDgBsQ" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gxxCkil2Ed2_g-92KDgBsQ" x="18861" y="10273"/>
                     </children>
                     <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_1bab1SjhEd2TepqzqWQHFw"/>
                   </children>
@@ -9290,7 +9307,7 @@
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_L9tKxCjnEd2JT-HJs_Wegg" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_L9tKxSjnEd2JT-HJs_Wegg" points="[0, 0, 575, 0]$[-575, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_L9tKyijnEd2JT-HJs_Wegg" id="330:423"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_L9tKyijnEd2JT-HJs_Wegg" id="330:2222"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_L9tKyyjnEd2JT-HJs_Wegg" id="331:0"/>
                 </edges>
                 <edges xmi:id="_plSTqijnEd2JT-HJs_Wegg" element="_plSToCjnEd2JT-HJs_Wegg" source="_LNICYijnEd2JT-HJs_Wegg" target="_ZilsECjnEd2JT-HJs_Wegg">
@@ -9328,6 +9345,10 @@
                 </edges>
               </contents>
             </eAnnotations>
+            <ownedComment xmi:id="_gxq78Cl2Ed2_g-92KDgBsQ">
+              <body>preu = preu&#xD;
+idComanda = idComanda</body>
+            </ownedComment>
             <ownedConnector xmi:id="_HGuNsyjnEd2JT-HJs_Wegg">
               <end xmi:id="_HGuNtCjnEd2JT-HJs_Wegg" role="_8wziwCjmEd2JT-HJs_Wegg"/>
               <end xmi:id="_HGuNtSjnEd2JT-HJs_Wegg" role="_DxL1QSjnEd2JT-HJs_Wegg"/>
@@ -19829,7 +19850,10 @@
             <ownedParameter xmi:id="_b2cNgB-xEd2wW57a2gCSYg" name="dFi" type="_R_0qEBtFEd2NEcGCsxdGog"/>
             <ownedParameter xmi:id="_ZMtyMB-xEd2wW57a2gCSYg" name="dIni" type="_R_0qEBtFEd2NEcGCsxdGog"/>
           </ownedOperation>
-          <ownedOperation xmi:id="_-_ViYCE8Ed2HO4akhfXL1w" name="getComandaInfo"/>
+          <ownedOperation xmi:id="_-_ViYCE8Ed2HO4akhfXL1w" name="getComandaInfo">
+            <ownedParameter xmi:id="_qyMlsCl2Ed2_g-92KDgBsQ" name="Parámetro2"/>
+            <ownedParameter xmi:id="_qojhgCl2Ed2_g-92KDgBsQ" name="Parámetro1"/>
+          </ownedOperation>
           <ownedOperation xmi:id="_8456ACE_Ed2HO4akhfXL1w" name="getComanda">
             <ownedParameter xmi:id="_uh6rECGnEd2Z85oOD8AvLQ" name="com" type="_e7-rUPnDEdyli_XzYLJ9YQ" direction="return"/>
             <ownedParameter xmi:id="_s6pyUCGnEd2Z85oOD8AvLQ" name="co">
@@ -19860,7 +19884,12 @@
             <ownedParameter xmi:id="_OjEESiZGEd2K8pZ8EU4P6g" name="origen" type="_pZU8kBtEEd2NEcGCsxdGog"/>
           </ownedOperation>
           <ownedOperation xmi:id="_aviVYCc8Ed2DzNXG19kLMw" name="AcceptarComanda"/>
-          <ownedOperation xmi:id="_Z_n9cCjTEd2DMqj-ciF7fw" name="getComandaInfoConcreta" visibility="public"/>
+          <ownedOperation xmi:id="_Z_n9cCjTEd2DMqj-ciF7fw" name="getComandaInfoConcreta" visibility="public">
+            <ownedParameter xmi:id="_V3BMQCl2Ed2_g-92KDgBsQ" name="DNI">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_VsbF0Cl2Ed2_g-92KDgBsQ" name="infoExt" type="_yjppcCluEd2_g-92KDgBsQ" direction="return"/>
+          </ownedOperation>
           <ownedOperation xmi:id="_oCEX8CjoEd2JT-HJs_Wegg" name="cancel·larComanda"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_gwMHkP8sEdy9otTkNyh1Pw" name="ContracteBean" isAbstract="true">
