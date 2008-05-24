@@ -8720,7 +8720,7 @@
             <message xmi:id="_zE0fQSjeEd2TepqzqWQHFw" name="cercarInformacio" messageSort="reply" receiveEvent="_zE0fQijeEd2TepqzqWQHFw" sendEvent="_zE0fQCjeEd2TepqzqWQHFw" connector="_zEquQyjeEd2TepqzqWQHFw"/>
             <message xmi:id="_9w7coCjeEd2TepqzqWQHFw" name="cercarInformacio" receiveEvent="_9w7coijeEd2TepqzqWQHFw" sendEvent="_9w7coSjeEd2TepqzqWQHFw" connector="_9w7coyjeEd2TepqzqWQHFw"/>
             <message xmi:id="_9w7cqCjeEd2TepqzqWQHFw" name="cercarInformacio" messageSort="reply" receiveEvent="_9w7cqSjeEd2TepqzqWQHFw" sendEvent="_9w7cpyjeEd2TepqzqWQHFw" connector="_9w7coyjeEd2TepqzqWQHFw"/>
-            <message xmi:id="_oNkMYCjfEd2TepqzqWQHFw" name="Creacio" messageSort="createMessage" receiveEvent="_oNkMYyjfEd2TepqzqWQHFw" sendEvent="_oNkMYSjfEd2TepqzqWQHFw" connector="_oNkMZSjfEd2TepqzqWQHFw"/>
+            <message xmi:id="_oNkMYCjfEd2TepqzqWQHFw" name="infoComandes" messageSort="createMessage" receiveEvent="_oNkMYyjfEd2TepqzqWQHFw" sendEvent="_oNkMYSjfEd2TepqzqWQHFw" connector="_oNkMZSjfEd2TepqzqWQHFw"/>
             <message xmi:id="_wURNwCjfEd2TepqzqWQHFw" name="enviarSol·licitud" receiveEvent="_wURNwijfEd2TepqzqWQHFw" sendEvent="_wURNwSjfEd2TepqzqWQHFw" connector="_wURNwyjfEd2TepqzqWQHFw"/>
             <message xmi:id="_wURNyCjfEd2TepqzqWQHFw" name="enviarSol·licitud" messageSort="reply" receiveEvent="_wURNySjfEd2TepqzqWQHFw" sendEvent="_wURNxyjfEd2TepqzqWQHFw" connector="_wURNwyjfEd2TepqzqWQHFw"/>
             <message xmi:id="_zMv2wCjfEd2TepqzqWQHFw" name="enviarSol·licitud" receiveEvent="_zMv2wijfEd2TepqzqWQHFw" sendEvent="_zMv2wSjfEd2TepqzqWQHFw" connector="_9w7coyjeEd2TepqzqWQHFw"/>
@@ -17899,10 +17899,69 @@
           <eAnnotations xmi:id="_xnE6cCjUEd2DMqj-ciF7fw" source="http://www.eclipse.org/uml2/2.0.0/UML">
             <details xmi:id="_xnE6cSjUEd2DMqj-ciF7fw" key="Servlet"/>
           </eAnnotations>
-          <ownedOperation xmi:id="_-knu8CjUEd2DMqj-ciF7fw" name="Cancel·larComanda"/>
-          <ownedOperation xmi:id="_7y30gCjeEd2TepqzqWQHFw" name="cercarInformacio"/>
-          <ownedOperation xmi:id="_yGtbwCjfEd2TepqzqWQHFw" name="enviarSol·licitud"/>
-          <ownedOperation xmi:id="_Z-r2YCjgEd2TepqzqWQHFw" name="confirmarCancel·lacio"/>
+          <ownedOperation xmi:id="_-knu8CjUEd2DMqj-ciF7fw" name="cancel·larComanda" visibility="public"/>
+          <ownedOperation xmi:id="_7y30gCjeEd2TepqzqWQHFw" name="cercarInformacio">
+            <ownedParameter xmi:id="_9fZawCltEd2_g-92KDgBsQ" name="DNI">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_9SyiICltEd2_g-92KDgBsQ" name="idComanda">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_KYoXACluEd2_g-92KDgBsQ" name="info" type="_CR6HgCluEd2_g-92KDgBsQ" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_PWeKACluEd2_g-92KDgBsQ" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_PWYDYCluEd2_g-92KDgBsQ"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yGtbwCjfEd2TepqzqWQHFw" name="enviarSol·licitud">
+            <ownedParameter xmi:id="_D-RGMClvEd2_g-92KDgBsQ" name="DNI">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_DkAMEClvEd2_g-92KDgBsQ" name="infoExt" type="_yjppcCluEd2_g-92KDgBsQ" direction="return"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_Z-r2YCjgEd2TepqzqWQHFw" name="confirmarCancel·lacio">
+            <ownedParameter xmi:id="_cWw7EClvEd2_g-92KDgBsQ" name="idComanda">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_cOdToClvEd2_g-92KDgBsQ" name="confirm" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            </ownedParameter>
+          </ownedOperation>
+        </packagedElement>
+        <packagedElement xmi:type="uml:DataType" xmi:id="_CR6HgCluEd2_g-92KDgBsQ" name="infoComandes">
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_FET9sCluEd2_g-92KDgBsQ" name="nomDestinatari" visibility="private"/>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_E5t3QCluEd2_g-92KDgBsQ" name="idComanda" visibility="private"/>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_Dp3Y8CluEd2_g-92KDgBsQ" name="preu" visibility="private"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:DataType" xmi:id="_yjppcCluEd2_g-92KDgBsQ" name="infoComandaExt">
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_1obpECluEd2_g-92KDgBsQ" name="nom" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="__khewSluEd2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="__khewCluEd2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_1eHPcCluEd2_g-92KDgBsQ" name="idComanda" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ABqGsSlvEd2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ABqGsClvEd2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_1VnawCluEd2_g-92KDgBsQ" name="data" visibility="private" type="_L7tfQCc9Ed2DzNXG19kLMw">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_AbimUSlvEd2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_AbimUClvEd2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_1MJ8wCluEd2_g-92KDgBsQ" name="carrer" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Ay7yoSlvEd2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Ay7yoClvEd2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_0_1_ECluEd2_g-92KDgBsQ" name="numero" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_BJYjwSlvEd2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_BJYjwClvEd2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_z_wbECluEd2_g-92KDgBsQ" name="porta" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Bju9cSlvEd2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Bju9cClvEd2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
         </packagedElement>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_pFfLcCJTEd2ReLvUHik7JQ" name="pSistemaEntregaRecepcio">
@@ -18533,9 +18592,32 @@
         <packagedElement xmi:type="uml:Package" xmi:id="_Svdj8CXdEd2rHurz5FIoEg" name="ctrlCancelarComanda">
           <eAnnotations xmi:id="_Svdj8SXdEd2rHurz5FIoEg" source="uml2.diagrams"/>
           <packagedElement xmi:type="uml:Interface" xmi:id="_NRUq0CXeEd2rHurz5FIoEg" name="CancelarComanda">
-            <ownedOperation xmi:id="_-tbhICjeEd2TepqzqWQHFw" name="cercarInformacio"/>
-            <ownedOperation xmi:id="_0gy4kCjfEd2TepqzqWQHFw" name="enviarSol·licitud"/>
-            <ownedOperation xmi:id="_dYiuICjgEd2TepqzqWQHFw" name="confirmarCancel·lacio"/>
+            <ownedOperation xmi:id="_-tbhICjeEd2TepqzqWQHFw" name="cercarInformacio">
+              <ownedParameter xmi:id="_Wa52ECluEd2_g-92KDgBsQ" name="DNI">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedParameter>
+              <ownedParameter xmi:id="_WkKfwCluEd2_g-92KDgBsQ" name="idComanda">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedParameter>
+              <ownedParameter xmi:id="_V8JdgCluEd2_g-92KDgBsQ" name="info" type="_CR6HgCluEd2_g-92KDgBsQ">
+                <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_c0XSgSluEd2_g-92KDgBsQ" value="*"/>
+                <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_c0XSgCluEd2_g-92KDgBsQ"/>
+              </ownedParameter>
+            </ownedOperation>
+            <ownedOperation xmi:id="_0gy4kCjfEd2TepqzqWQHFw" name="enviarSol·licitud">
+              <ownedParameter xmi:id="_v8I0oCluEd2_g-92KDgBsQ" name="DNI">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedParameter>
+              <ownedParameter xmi:id="_vvuJQCluEd2_g-92KDgBsQ" name="infoExt" type="_yjppcCluEd2_g-92KDgBsQ" direction="return"/>
+            </ownedOperation>
+            <ownedOperation xmi:id="_dYiuICjgEd2TepqzqWQHFw" name="confirmarCancel·lacio">
+              <ownedParameter xmi:id="_hLq0gClvEd2_g-92KDgBsQ" name="idComanda">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedParameter>
+              <ownedParameter xmi:id="_hBWa4ClvEd2_g-92KDgBsQ" name="confirm" direction="return">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+              </ownedParameter>
+            </ownedOperation>
           </packagedElement>
           <packagedElement xmi:type="uml:Interface" xmi:id="_67QScCXdEd2rHurz5FIoEg" name="CancelarComandaHome">
             <ownedOperation xmi:id="_QB6sQCjVEd2DMqj-ciF7fw" name="create"/>
