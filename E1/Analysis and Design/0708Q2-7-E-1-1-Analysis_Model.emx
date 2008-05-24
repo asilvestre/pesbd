@@ -5128,6 +5128,55 @@
           <ownedAttribute xmi:id="_4BLrRCfQEd2VTfg1ZN1h6Q" name="dxei" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
           <ownedAttribute xmi:id="_4BLrRSfQEd2VTfg1ZN1h6Q" name="djef" visibility="private" type="_bCgLgBtFEd2NEcGCsxdGog"/>
         </packagedElement>
+        <packagedElement xmi:type="uml:DataType" xmi:id="_WBJw8Cl8Ed2_g-92KDgBsQ" name="infoComandes">
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_bqGWcCl8Ed2_g-92KDgBsQ" name="nomDestinatari" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_4VFUMSl8Ed2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_4VFUMCl8Ed2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_be7oQCl8Ed2_g-92KDgBsQ" name="idComanda" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_4t0kUSl8Ed2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_4t0kUCl8Ed2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_eSGTcCl8Ed2_g-92KDgBsQ" name="preu" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5I8aESl8Ed2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5I8aECl8Ed2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+        </packagedElement>
+        <packagedElement xmi:type="uml:DataType" xmi:id="_Zbg_ACl8Ed2_g-92KDgBsQ" name="infoComandesExt">
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_j00VICl8Ed2_g-92KDgBsQ" name="nomDestinatari" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_076Y8Cl8Ed2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_070SUCl8Ed2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_jtRisCl8Ed2_g-92KDgBsQ" name="idComanda" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_1VaeESl8Ed2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_1VaeECl8Ed2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_jkrnYCl8Ed2_g-92KDgBsQ" name="carrer" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_1wcNMSl8Ed2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_1wcNMCl8Ed2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_kPLV4Cl8Ed2_g-92KDgBsQ" name="numero" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2TAuwSl8Ed2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2TAuwCl8Ed2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_j61dkCl8Ed2_g-92KDgBsQ" name="porta" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2p7Z8Sl8Ed2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2p7Z8Cl8Ed2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_i9C_oCl8Ed2_g-92KDgBsQ" name="data" visibility="private">
+            <type xmi:type="uml:Association" href="0708Q2-7-E-1-2-Design_Model.emx#_L7tfQCc9Ed2DzNXG19kLMw?Design%20Model/Associacions/Data%20Acceptació?"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_3IrygSl8Ed2_g-92KDgBsQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_3IrygCl8Ed2_g-92KDgBsQ" value="1"/>
+          </ownedAttribute>
+        </packagedElement>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_6nzj0P9CEdy9otTkNyh1Pw" name="Classes">
         <eAnnotations xmi:id="_6nzj0f9CEdy9otTkNyh1Pw" source="uml2.diagrams"/>
@@ -7924,7 +7973,7 @@
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_DhlF0SH-Ed2AX46NLcxjVA" description="TupleType {&#xD;&#xA;&#x9;&#x9;&#x9;idComanda: String&#xD;&#xA;&#x9;&#x9;&#x9;data: Data&#xD;&#xA;&#x9;&#x9;&#x9;destinatari: String&#xD;&#xA;&#x9;&#x9;&#x9;carrer: String&#xD;&#xA;&#x9;&#x9;&#x9;numero: Integer&#xD;&#xA;&#x9;&#x9;&#x9;porta: String&#xD;&#xA;&#x9;&#x9;}" fillColor="13369343" lineColor="6737151"/>
                       <element xsi:nil="true"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DhlF0iH-Ed2AX46NLcxjVA" x="5547" y="49898"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DhlF0iH-Ed2AX46NLcxjVA" x="7766" y="54653"/>
                     </children>
                     <children xmi:id="_7cN2UCH_Ed2AX46NLcxjVA" element="_7bvVMCH_Ed2AX46NLcxjVA">
                       <children xmi:id="_7cN2UyH_Ed2AX46NLcxjVA" type="Name"/>
@@ -7948,7 +7997,7 @@
                     </children>
                     <children xmi:id="_FgaCoCIBEd2AX46NLcxjVA" element="_FfomkyIBEd2AX46NLcxjVA">
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_FgaCoSIBEd2AX46NLcxjVA" showStereotype="Label"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FgaCoiIBEd2AX46NLcxjVA" x="-1" y="1322" height="1825"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FgaCoiIBEd2AX46NLcxjVA" x="-1" y="1322" height="1693"/>
                     </children>
                     <children xmi:id="_-mLSwCXiEd22C99UI3MBbQ" element="_IQmmIiXiEd2lYfhrZc13jw">
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_-mLSwSXiEd22C99UI3MBbQ" showStereotype="Label"/>
@@ -7965,28 +8014,6 @@
                     <children xmi:id="_kcKqsCXnEd22C99UI3MBbQ" element="_kbZ1sSXnEd22C99UI3MBbQ">
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_kcKqsSXnEd22C99UI3MBbQ" showStereotype="Label"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kcKqsiXnEd22C99UI3MBbQ" x="-1" y="343"/>
-                    </children>
-                    <children xmi:id="_d1Sn4CXoEd22C99UI3MBbQ" element="_du5E8CXoEd22C99UI3MBbQ">
-                      <children xmi:id="_d1Sn4yXoEd22C99UI3MBbQ" element="_du5E8SXoEd22C99UI3MBbQ">
-                        <children xmi:id="_d1Sn5SXoEd22C99UI3MBbQ" element="_dvFSMCXoEd22C99UI3MBbQ">
-                          <children xmi:id="_d1Sn6CXoEd22C99UI3MBbQ" type="guard"/>
-                          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_d1Sn5iXoEd22C99UI3MBbQ" showStereotype="Label"/>
-                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d1Sn5yXoEd22C99UI3MBbQ"/>
-                        </children>
-                        <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_d1Sn5CXoEd22C99UI3MBbQ"/>
-                        <layoutConstraint xmi:type="notation:Ratio" xmi:id="_rh-aUCXoEd22C99UI3MBbQ" value="0.5780127343886909"/>
-                      </children>
-                      <children xmi:id="_d1Sn6SXoEd22C99UI3MBbQ" element="_dvXmECXoEd22C99UI3MBbQ">
-                        <children xmi:id="_d1Sn6yXoEd22C99UI3MBbQ" element="_dvdssCXoEd22C99UI3MBbQ">
-                          <children xmi:id="_d1YugCXoEd22C99UI3MBbQ" type="guard"/>
-                          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_d1Sn7CXoEd22C99UI3MBbQ" showStereotype="Label"/>
-                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d1Sn7SXoEd22C99UI3MBbQ"/>
-                        </children>
-                        <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_d1Sn6iXoEd22C99UI3MBbQ"/>
-                        <layoutConstraint xmi:type="notation:Ratio" xmi:id="_rh-aUSXoEd22C99UI3MBbQ" value="0.38483556282493137"/>
-                      </children>
-                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_d1Sn4SXoEd22C99UI3MBbQ" showStereotype="Label"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d1Sn4iXoEd22C99UI3MBbQ" x="40592" y="383" width="28497" height="13661"/>
                     </children>
                     <children xmi:id="_F84HMCjbEd2DMqj-ciF7fw" element="_F55rsCjbEd2DMqj-ciF7fw">
                       <children xmi:id="_F84HMyjbEd2DMqj-ciF7fw" element="_F55rsSjbEd2DMqj-ciF7fw">
@@ -8014,19 +8041,6 @@
                               <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_F9B4QCjbEd2DMqj-ciF7fw" showStereotype="Label"/>
                               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F9B4QSjbEd2DMqj-ciF7fw" x="-1" y="1322" height="1322"/>
                             </children>
-                            <children xmi:id="_F9B4QijbEd2DMqj-ciF7fw" element="_rQT98yjaEd2DMqj-ciF7fw">
-                              <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_F9B4QyjbEd2DMqj-ciF7fw" showStereotype="Label"/>
-                              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F9B4RCjbEd2DMqj-ciF7fw" x="-1" y="1322" height="1322"/>
-                            </children>
-                            <children xmi:id="_8gOKESjbEd2DMqj-ciF7fw" element="_8gOKECjbEd2DMqj-ciF7fw">
-                              <children xmi:id="_8gOKFCjbEd2DMqj-ciF7fw" type="ImageCompartment">
-                                <layoutConstraint xmi:type="notation:Size" xmi:id="_8gOKFSjbEd2DMqj-ciF7fw" width="1320" height="1320"/>
-                              </children>
-                              <children xmi:id="_8gOKFijbEd2DMqj-ciF7fw" type="Stereotype"/>
-                              <children xmi:id="_8gOKFyjbEd2DMqj-ciF7fw" type="CommentBody"/>
-                              <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_8gOKEijbEd2DMqj-ciF7fw" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-                              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8gOKEyjbEd2DMqj-ciF7fw" x="3801" y="250"/>
-                            </children>
                             <children xmi:id="_C24KISjcEd2DMqj-ciF7fw" element="_C24KICjcEd2DMqj-ciF7fw">
                               <children xmi:id="_C24KJCjcEd2DMqj-ciF7fw" type="ImageCompartment">
                                 <layoutConstraint xmi:type="notation:Size" xmi:id="_C24KJSjcEd2DMqj-ciF7fw" width="1320" height="1320"/>
@@ -8034,7 +8048,19 @@
                               <children xmi:id="_C24KJijcEd2DMqj-ciF7fw" type="Stereotype"/>
                               <children xmi:id="_C24KJyjcEd2DMqj-ciF7fw" type="CommentBody"/>
                               <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_C24KIijcEd2DMqj-ciF7fw" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-                              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_C24KIyjcEd2DMqj-ciF7fw" x="3774" y="7711"/>
+                              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_C24KIyjcEd2DMqj-ciF7fw" x="3328" y="10616"/>
+                            </children>
+                            <children xmi:id="_j6rQECl9Ed2_g-92KDgBsQ" element="_j4wkgCl9Ed2_g-92KDgBsQ">
+                              <children xmi:id="_j6xWsCl9Ed2_g-92KDgBsQ" element="_j4wkgSl9Ed2_g-92KDgBsQ">
+                                <children xmi:id="_j6xWsil9Ed2_g-92KDgBsQ" element="_j42rICl9Ed2_g-92KDgBsQ">
+                                  <children xmi:id="_j6xWtSl9Ed2_g-92KDgBsQ" type="guard"/>
+                                  <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_j6xWsyl9Ed2_g-92KDgBsQ" showStereotype="Label"/>
+                                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j6xWtCl9Ed2_g-92KDgBsQ"/>
+                                </children>
+                                <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_j6xWsSl9Ed2_g-92KDgBsQ"/>
+                              </children>
+                              <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_j6rQESl9Ed2_g-92KDgBsQ" showStereotype="Label"/>
+                              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j6rQEil9Ed2_g-92KDgBsQ" x="-1" y="449"/>
                             </children>
                             <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_F9B4NyjbEd2DMqj-ciF7fw"/>
                           </children>
@@ -8078,7 +8104,7 @@
                           <children xmi:id="_EAVslijcEd2DMqj-ciF7fw" type="Stereotype"/>
                           <children xmi:id="_EAVslyjcEd2DMqj-ciF7fw" type="CommentBody"/>
                           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_EAVskijcEd2DMqj-ciF7fw" fillColor="16763850" lineColor="16744576" showStereotype="Label"/>
-                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EAVskyjcEd2DMqj-ciF7fw" x="3355" y="6361"/>
+                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EAVskyjcEd2DMqj-ciF7fw" x="3133" y="8881"/>
                         </children>
                         <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_F84HOijbEd2DMqj-ciF7fw"/>
                         <layoutConstraint xmi:type="notation:Ratio" xmi:id="_G7BKcSjbEd2DMqj-ciF7fw" value="0.5027919019246966"/>
@@ -8145,7 +8171,7 @@
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Of-JuyDEEd2QC6lTKoXgfA" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Of-JvCDEEd2QC6lTKoXgfA" points="[0, 0, -137, 0]$[137, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Of-JwSDEEd2QC6lTKoXgfA" id="901:1746"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Of-JwSDEEd2QC6lTKoXgfA" id="901:978"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Of-JwiDEEd2QC6lTKoXgfA" id="913:0"/>
                 </edges>
                 <edges xmi:id="_8HONICE5Ed2HO4akhfXL1w" element="_Of-JuCDEEd2QC6lTKoXgfA" source="_rBiXoCDCEd2QC6lTKoXgfA" target="_H1jgIiDEEd2QC6lTKoXgfA">
@@ -8156,7 +8182,7 @@
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_8HONISE5Ed2HO4akhfXL1w" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_8HONIiE5Ed2HO4akhfXL1w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_8HaaYiE5Ed2HO4akhfXL1w" id="22:2936"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_8HaaYiE5Ed2HO4akhfXL1w" id="22:1111"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_8HaaYyE5Ed2HO4akhfXL1w" id="23:0"/>
                 </edges>
                 <edges xmi:id="_3N-TESHlEd2AX46NLcxjVA" element="_3NyF0CHlEd2AX46NLcxjVA" source="_apd9AiDCEd2QC6lTKoXgfA" target="_rBiXoCDCEd2QC6lTKoXgfA">
@@ -8239,7 +8265,7 @@
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_FfutNCIBEd2AX46NLcxjVA" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FfutNSIBEd2AX46NLcxjVA" points="[0, 0, -258, 0]$[258, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FfutOiIBEd2AX46NLcxjVA" id="1053:238"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FfutOiIBEd2AX46NLcxjVA" id="1053:899"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FfutOyIBEd2AX46NLcxjVA" id="1087:0"/>
                 </edges>
                 <edges xmi:id="_FgydICIBEd2AX46NLcxjVA" element="_FfutMSIBEd2AX46NLcxjVA" source="_AWOyYCDFEd2QC6lTKoXgfA" target="_rBiXoCDCEd2QC6lTKoXgfA">
@@ -8250,7 +8276,7 @@
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_FgydISIBEd2AX46NLcxjVA" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FgydIiIBEd2AX46NLcxjVA" points="[0, 0, 258, 0]$[-258, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FgydJyIBEd2AX46NLcxjVA" id="1088:1825"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FgydJyIBEd2AX46NLcxjVA" id="1088:1693"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FgydKCIBEd2AX46NLcxjVA" id="1089:0"/>
                 </edges>
                 <edges xmi:id="_IQsswyXiEd2lYfhrZc13jw" element="_IQgfgCXiEd2lYfhrZc13jw" source="_AWOyYCDFEd2QC6lTKoXgfA" target="_TJgyECIAEd2AX46NLcxjVA">
@@ -8308,72 +8334,6 @@
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UVia0iXmEd22C99UI3MBbQ" id="136:608"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UVia0yXmEd22C99UI3MBbQ" id="232:1191"/>
                 </edges>
-                <edges xmi:id="_S3YI0CXoEd22C99UI3MBbQ" element="_S3SCMCXoEd22C99UI3MBbQ" source="_AWOyYCDFEd2QC6lTKoXgfA" target="_7cN2UCH_Ed2AX46NLcxjVA">
-                  <children xmi:id="_S3YI0yXoEd22C99UI3MBbQ" type="MessageNameLabel">
-                    <children xmi:id="_S3YI1SXoEd22C99UI3MBbQ" type="Stereotype"/>
-                    <children xmi:id="_S3YI1iXoEd22C99UI3MBbQ" type="Name"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S3YI1CXoEd22C99UI3MBbQ" y="-317"/>
-                  </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_S3YI0SXoEd22C99UI3MBbQ" showListSignature="true" showStereotype="Text"/>
-                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_S3YI0iXoEd22C99UI3MBbQ" points="[0, 0, -157, 0]$[157, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S3YI1yXoEd22C99UI3MBbQ" id="538:1217"/>
-                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S3YI2CXoEd22C99UI3MBbQ" id="560:0"/>
-                </edges>
-                <edges xmi:id="_S4VLECXoEd22C99UI3MBbQ" element="_S3SCNSXoEd22C99UI3MBbQ" source="_7cN2UCH_Ed2AX46NLcxjVA" target="_AWOyYCDFEd2QC6lTKoXgfA">
-                  <children xmi:id="_S4VLEyXoEd22C99UI3MBbQ" visible="false" type="MessageNameLabel">
-                    <children xmi:id="_S4VLFSXoEd22C99UI3MBbQ" type="Stereotype"/>
-                    <children xmi:id="_S4VLFiXoEd22C99UI3MBbQ" type="Name"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S4VLFCXoEd22C99UI3MBbQ" y="476"/>
-                  </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_S4VLESXoEd22C99UI3MBbQ" showStereotype="Text"/>
-                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_S4VLEiXoEd22C99UI3MBbQ" points="[0, 0, 157, 0]$[-157, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S4VLFyXoEd22C99UI3MBbQ" id="561:1322"/>
-                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S4VLGCXoEd22C99UI3MBbQ" id="562:0"/>
-                </edges>
-                <edges xmi:id="_WIXYciXoEd22C99UI3MBbQ" element="_WIRR0CXoEd22C99UI3MBbQ" source="_AWOyYCDFEd2QC6lTKoXgfA" target="_TJgyECIAEd2AX46NLcxjVA">
-                  <children xmi:id="_WIXYdSXoEd22C99UI3MBbQ" type="MessageNameLabel">
-                    <children xmi:id="_WIXYdyXoEd22C99UI3MBbQ" type="Stereotype"/>
-                    <children xmi:id="_WIXYeCXoEd22C99UI3MBbQ" type="Name"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WIXYdiXoEd22C99UI3MBbQ" y="-317"/>
-                  </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_WIXYcyXoEd22C99UI3MBbQ" showListSignature="true" showStereotype="Text"/>
-                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WIXYdCXoEd22C99UI3MBbQ" points="[0, 0, -522, 0]$[522, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WIXYeSXoEd22C99UI3MBbQ" id="580:1005"/>
-                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WIXYeiXoEd22C99UI3MBbQ" id="614:0"/>
-                </edges>
-                <edges xmi:id="_WJUasCXoEd22C99UI3MBbQ" element="_WIXYcCXoEd22C99UI3MBbQ" source="_TJgyECIAEd2AX46NLcxjVA" target="_AWOyYCDFEd2QC6lTKoXgfA">
-                  <children xmi:id="_WJUasyXoEd22C99UI3MBbQ" visible="false" type="MessageNameLabel">
-                    <children xmi:id="_WJUatSXoEd22C99UI3MBbQ" type="Stereotype"/>
-                    <children xmi:id="_WJUatiXoEd22C99UI3MBbQ" type="Name"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WJUatCXoEd22C99UI3MBbQ" y="476"/>
-                  </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_WJUasSXoEd22C99UI3MBbQ" showStereotype="Text"/>
-                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WJUasiXoEd22C99UI3MBbQ" points="[0, 0, 522, 0]$[-522, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WJUatyXoEd22C99UI3MBbQ" id="615:1322"/>
-                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_WJUauCXoEd22C99UI3MBbQ" id="616:0"/>
-                </edges>
-                <edges xmi:id="_ZRBygSXoEd22C99UI3MBbQ" element="_ZQ7r4CXoEd22C99UI3MBbQ" source="_AWOyYCDFEd2QC6lTKoXgfA" target="_J9K-UCIAEd2AX46NLcxjVA">
-                  <children xmi:id="_ZRByhCXoEd22C99UI3MBbQ" type="MessageNameLabel">
-                    <children xmi:id="_ZRByhiXoEd22C99UI3MBbQ" type="Stereotype"/>
-                    <children xmi:id="_ZRByhyXoEd22C99UI3MBbQ" type="Name"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZRByhSXoEd22C99UI3MBbQ" y="-317"/>
-                  </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_ZRBygiXoEd22C99UI3MBbQ" showStereotype="Text"/>
-                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZRBygyXoEd22C99UI3MBbQ" points="[0, 0, -667, 0]$[667, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZRByiCXoEd22C99UI3MBbQ" id="635:1005"/>
-                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZRByiSXoEd22C99UI3MBbQ" id="669:0"/>
-                </edges>
-                <edges xmi:id="_ZR-0wCXoEd22C99UI3MBbQ" element="_ZQ7r5SXoEd22C99UI3MBbQ" source="_J9K-UCIAEd2AX46NLcxjVA" target="_AWOyYCDFEd2QC6lTKoXgfA">
-                  <children xmi:id="_ZR-0wyXoEd22C99UI3MBbQ" visible="false" type="MessageNameLabel">
-                    <children xmi:id="_ZSE7YCXoEd22C99UI3MBbQ" type="Stereotype"/>
-                    <children xmi:id="_ZSE7YSXoEd22C99UI3MBbQ" type="Name"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZR-0xCXoEd22C99UI3MBbQ" y="476"/>
-                  </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_ZR-0wSXoEd22C99UI3MBbQ" showStereotype="Text"/>
-                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZR-0wiXoEd22C99UI3MBbQ" points="[0, 0, 667, 0]$[-667, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZSE7YiXoEd22C99UI3MBbQ" id="670:1322"/>
-                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZSE7YyXoEd22C99UI3MBbQ" id="671:0"/>
-                </edges>
                 <edges xmi:id="_iXY1dyjaEd2DMqj-ciF7fw" element="_iXY1cCjaEd2DMqj-ciF7fw" source="_rBiXoCDCEd2QC6lTKoXgfA" target="_AWOyYCDFEd2QC6lTKoXgfA">
                   <children xmi:id="_iXY1eijaEd2DMqj-ciF7fw" type="MessageNameLabel">
                     <children xmi:id="_iXimcCjaEd2DMqj-ciF7fw" type="Stereotype"/>
@@ -8426,7 +8386,7 @@
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_rQT9-CjaEd2DMqj-ciF7fw" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_rQT9-SjaEd2DMqj-ciF7fw" points="[0, 0, -519, 0]$[519, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rQT9_ijaEd2DMqj-ciF7fw" id="5096:529"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rQT9_ijaEd2DMqj-ciF7fw" id="5096:1031"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rQT9_yjaEd2DMqj-ciF7fw" id="5128:0"/>
                 </edges>
                 <edges xmi:id="_rQwp4CjaEd2DMqj-ciF7fw" element="_rQT99SjaEd2DMqj-ciF7fw" source="_TJgyECIAEd2AX46NLcxjVA" target="_AWOyYCDFEd2QC6lTKoXgfA">
@@ -8468,7 +8428,7 @@
                     <children xmi:id="_p1vn_SjbEd2DMqj-ciF7fw" type="Name"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p1vn-yjbEd2DMqj-ciF7fw" y="-317"/>
                   </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_p1vn-CjbEd2DMqj-ciF7fw" showStereotype="Text"/>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_p1vn-CjbEd2DMqj-ciF7fw" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_p1vn-SjbEd2DMqj-ciF7fw" points="[0, 0, -258, 0]$[258, 0, 0, 0]"/>
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_p15Y8CjbEd2DMqj-ciF7fw" id="6857:2592"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_p15Y8SjbEd2DMqj-ciF7fw" id="6955:0"/>
@@ -8490,7 +8450,7 @@
                     <children xmi:id="_uUvi3SjbEd2DMqj-ciF7fw" type="Name"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uUvi2yjbEd2DMqj-ciF7fw" y="-317"/>
                   </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_uUvi2CjbEd2DMqj-ciF7fw" showStereotype="Text"/>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_uUvi2CjbEd2DMqj-ciF7fw" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_uUvi2SjbEd2DMqj-ciF7fw" points="[0, 0, -345, 0]$[345, 0, 0, 0]"/>
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uUvi3ijbEd2DMqj-ciF7fw" id="7082:687"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uUvi3yjbEd2DMqj-ciF7fw" id="7232:0"/>
@@ -8512,10 +8472,120 @@
                     <children xmi:id="_vqktVijbEd2DMqj-ciF7fw" type="Name"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vqktVCjbEd2DMqj-ciF7fw" y="-317"/>
                   </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vqktUSjbEd2DMqj-ciF7fw" showStereotype="Text"/>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vqktUSjbEd2DMqj-ciF7fw" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vqktUijbEd2DMqj-ciF7fw" points="[0, 0, -519, 0]$[519, 0, 0, 0]"/>
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vqktVyjbEd2DMqj-ciF7fw" id="7329:661"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vqktWCjbEd2DMqj-ciF7fw" id="7499:0"/>
+                </edges>
+                <edges xmi:id="_juDjoCltEd2_g-92KDgBsQ" element="_vqa8VSjbEd2DMqj-ciF7fw" source="_TJgyECIAEd2AX46NLcxjVA" target="_AWOyYCDFEd2QC6lTKoXgfA">
+                  <children xmi:id="_juDjoyltEd2_g-92KDgBsQ" type="MessageNameLabel">
+                    <children xmi:id="_juJqQCltEd2_g-92KDgBsQ" type="Stereotype"/>
+                    <children xmi:id="_juJqQSltEd2_g-92KDgBsQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_juDjpCltEd2_g-92KDgBsQ" y="476"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_juDjoSltEd2_g-92KDgBsQ" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_juDjoiltEd2_g-92KDgBsQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_juJqQiltEd2_g-92KDgBsQ" id="1781:1322"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_juJqQyltEd2_g-92KDgBsQ" id="1782:0"/>
+                </edges>
+                <edges xmi:id="_JKsxACl-Ed2_g-92KDgBsQ" element="_JKmqYCl-Ed2_g-92KDgBsQ" source="_rBiXoCDCEd2QC6lTKoXgfA" target="_AWOyYCDFEd2QC6lTKoXgfA">
+                  <children xmi:id="_JKsxAyl-Ed2_g-92KDgBsQ" type="MessageNameLabel">
+                    <children xmi:id="_JKsxBSl-Ed2_g-92KDgBsQ" type="Stereotype"/>
+                    <children xmi:id="_JKsxBil-Ed2_g-92KDgBsQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JKsxBCl-Ed2_g-92KDgBsQ" y="-317"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_JKsxASl-Ed2_g-92KDgBsQ" showListSignature="true" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JKsxAil-Ed2_g-92KDgBsQ" points="[0, 0, -258, 0]$[258, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JKsxByl-Ed2_g-92KDgBsQ" id="2715:317"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JKsxCCl-Ed2_g-92KDgBsQ" id="2739:0"/>
+                </edges>
+                <edges xmi:id="_JLjsoCl-Ed2_g-92KDgBsQ" element="_JKmqZSl-Ed2_g-92KDgBsQ" source="_AWOyYCDFEd2QC6lTKoXgfA" target="_rBiXoCDCEd2QC6lTKoXgfA">
+                  <children xmi:id="_JLjsoyl-Ed2_g-92KDgBsQ" type="MessageNameLabel">
+                    <children xmi:id="_JLjspSl-Ed2_g-92KDgBsQ" type="Stereotype"/>
+                    <children xmi:id="_JLjspil-Ed2_g-92KDgBsQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JLjspCl-Ed2_g-92KDgBsQ" y="476"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_JLjsoSl-Ed2_g-92KDgBsQ" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JLjsoil-Ed2_g-92KDgBsQ" points="[0, 0, 258, 0]$[-258, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JLjspyl-Ed2_g-92KDgBsQ" id="2740:1322"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JLjsqCl-Ed2_g-92KDgBsQ" id="2741:0"/>
+                </edges>
+                <edges xmi:id="_dBvz8Cl-Ed2_g-92KDgBsQ" element="_dBptUCl-Ed2_g-92KDgBsQ" source="_AWOyYCDFEd2QC6lTKoXgfA" target="_7cN2UCH_Ed2AX46NLcxjVA">
+                  <children xmi:id="_dBvz8yl-Ed2_g-92KDgBsQ" type="MessageNameLabel">
+                    <children xmi:id="_dBvz9Sl-Ed2_g-92KDgBsQ" type="Stereotype"/>
+                    <children xmi:id="_dBvz9il-Ed2_g-92KDgBsQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dBvz9Cl-Ed2_g-92KDgBsQ" y="-317"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_dBvz8Sl-Ed2_g-92KDgBsQ" showListSignature="true" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dBvz8il-Ed2_g-92KDgBsQ" points="[0, 0, -157, 0]$[157, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dBvz9yl-Ed2_g-92KDgBsQ" id="2776:687"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dBvz-Cl-Ed2_g-92KDgBsQ" id="2808:0"/>
+                </edges>
+                <edges xmi:id="_dCgo8Cl-Ed2_g-92KDgBsQ" element="_dBptVSl-Ed2_g-92KDgBsQ" source="_7cN2UCH_Ed2AX46NLcxjVA" target="_AWOyYCDFEd2QC6lTKoXgfA">
+                  <children xmi:id="_dCgo8yl-Ed2_g-92KDgBsQ" type="MessageNameLabel">
+                    <children xmi:id="_dCgo9Sl-Ed2_g-92KDgBsQ" type="Stereotype"/>
+                    <children xmi:id="_dCgo9il-Ed2_g-92KDgBsQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dCgo9Cl-Ed2_g-92KDgBsQ" y="476"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_dCgo8Sl-Ed2_g-92KDgBsQ" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dCgo8il-Ed2_g-92KDgBsQ" points="[0, 0, 157, 0]$[-157, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dCgo9yl-Ed2_g-92KDgBsQ" id="2809:1322"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dCgo-Cl-Ed2_g-92KDgBsQ" id="2810:0"/>
+                </edges>
+                <edges xmi:id="_e7CQ1Sl-Ed2_g-92KDgBsQ" element="_e68KMCl-Ed2_g-92KDgBsQ" source="_AWOyYCDFEd2QC6lTKoXgfA" target="_TJgyECIAEd2AX46NLcxjVA">
+                  <children xmi:id="_e7CQ2Cl-Ed2_g-92KDgBsQ" type="MessageNameLabel">
+                    <children xmi:id="_e7IXcCl-Ed2_g-92KDgBsQ" type="Stereotype"/>
+                    <children xmi:id="_e7IXcSl-Ed2_g-92KDgBsQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e7CQ2Sl-Ed2_g-92KDgBsQ" y="-317"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_e7CQ1il-Ed2_g-92KDgBsQ" showListSignature="true" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_e7CQ1yl-Ed2_g-92KDgBsQ" points="[0, 0, -522, 0]$[522, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_e7IXcil-Ed2_g-92KDgBsQ" id="2820:370"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_e7IXcyl-Ed2_g-92KDgBsQ" id="2862:0"/>
+                </edges>
+                <edges xmi:id="_e7_TECl-Ed2_g-92KDgBsQ" element="_e7CQ0yl-Ed2_g-92KDgBsQ" source="_TJgyECIAEd2AX46NLcxjVA" target="_AWOyYCDFEd2QC6lTKoXgfA">
+                  <children xmi:id="_e7_TEyl-Ed2_g-92KDgBsQ" type="MessageNameLabel">
+                    <children xmi:id="_e7_TFSl-Ed2_g-92KDgBsQ" type="Stereotype"/>
+                    <children xmi:id="_e7_TFil-Ed2_g-92KDgBsQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e7_TFCl-Ed2_g-92KDgBsQ" y="476"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_e7_TESl-Ed2_g-92KDgBsQ" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_e7_TEil-Ed2_g-92KDgBsQ" points="[0, 0, 522, 0]$[-522, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_e7_TFyl-Ed2_g-92KDgBsQ" id="2863:1322"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_e7_TGCl-Ed2_g-92KDgBsQ" id="2864:0"/>
+                </edges>
+                <edges xmi:id="_hsg59Cl-Ed2_g-92KDgBsQ" element="_hsazUCl-Ed2_g-92KDgBsQ" source="_AWOyYCDFEd2QC6lTKoXgfA" target="_J9K-UCIAEd2AX46NLcxjVA">
+                  <children xmi:id="_hsg59yl-Ed2_g-92KDgBsQ" type="MessageNameLabel">
+                    <children xmi:id="_hsg5-Sl-Ed2_g-92KDgBsQ" type="Stereotype"/>
+                    <children xmi:id="_hsg5-il-Ed2_g-92KDgBsQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hsg5-Cl-Ed2_g-92KDgBsQ" y="-317"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_hsg59Sl-Ed2_g-92KDgBsQ" showListSignature="true" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hsg59il-Ed2_g-92KDgBsQ" points="[0, 0, -667, 0]$[667, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hsnAkCl-Ed2_g-92KDgBsQ" id="2887:740"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_hsnAkSl-Ed2_g-92KDgBsQ" id="2911:0"/>
+                </edges>
+                <edges xmi:id="_htejQCl-Ed2_g-92KDgBsQ" element="_hsg58il-Ed2_g-92KDgBsQ" source="_J9K-UCIAEd2AX46NLcxjVA" target="_AWOyYCDFEd2QC6lTKoXgfA">
+                  <children xmi:id="_htkp4Cl-Ed2_g-92KDgBsQ" type="MessageNameLabel">
+                    <children xmi:id="_htkp4il-Ed2_g-92KDgBsQ" type="Stereotype"/>
+                    <children xmi:id="_htkp4yl-Ed2_g-92KDgBsQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_htkp4Sl-Ed2_g-92KDgBsQ" y="476"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_htejQSl-Ed2_g-92KDgBsQ" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_htejQil-Ed2_g-92KDgBsQ" points="[0, 0, 667, 0]$[-667, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_htkp5Cl-Ed2_g-92KDgBsQ" id="2912:1322"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_htkp5Sl-Ed2_g-92KDgBsQ" id="2913:0"/>
+                </edges>
+                <edges xmi:id="_m30hMCl-Ed2_g-92KDgBsQ" element="_m3uakCl-Ed2_g-92KDgBsQ" source="_rBiXoCDCEd2QC6lTKoXgfA" target="_AWOyYCDFEd2QC6lTKoXgfA">
+                  <children xmi:id="_m30hMyl-Ed2_g-92KDgBsQ" type="MessageNameLabel">
+                    <children xmi:id="_m30hNSl-Ed2_g-92KDgBsQ" type="Stereotype"/>
+                    <children xmi:id="_m30hNil-Ed2_g-92KDgBsQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m30hNCl-Ed2_g-92KDgBsQ" y="-317"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_m30hMSl-Ed2_g-92KDgBsQ" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_m30hMil-Ed2_g-92KDgBsQ" points="[0, 0, -258, 0]$[258, 0, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_m30hNyl-Ed2_g-92KDgBsQ" id="2931:1534"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_m30hOCl-Ed2_g-92KDgBsQ" id="2943:0"/>
                 </edges>
               </contents>
             </eAnnotations>
@@ -8583,13 +8653,13 @@
             <lifeline xmi:id="_apd9ACDCEd2QC6lTKoXgfA" name="pantalla Llistat de comandes2" represents="_apd9ASDCEd2QC6lTKoXgfA" coveredBy="_em9GQiDCEd2QC6lTKoXgfA _wcbdkSDDEd2QC6lTKoXgfA _Zdp_QCDEEd2QC6lTKoXgfA _3NyF0SHlEd2AX46NLcxjVA _3N-TECHlEd2AX46NLcxjVA"/>
             <lifeline xmi:id="_vDqT0CDDEd2QC6lTKoXgfA" name="pantalla Informació comanda" represents="_vDqT0SDDEd2QC6lTKoXgfA" coveredBy="_wcbdkyDDEd2QC6lTKoXgfA _MOwVASDEEd2QC6lTKoXgfA _UVD5sSXmEd22C99UI3MBbQ _UVKAUCXmEd22C99UI3MBbQ _UVQG8SXmEd22C99UI3MBbQ _UVQG8yXmEd22C99UI3MBbQ"/>
             <lifeline xmi:id="_H1jgICDEEd2QC6lTKoXgfA" name="pantalla Confirmar cancel·lació" represents="_H1jgISDEEd2QC6lTKoXgfA" coveredBy="_MOwVAyDEEd2QC6lTKoXgfA _Of-JsSDEEd2QC6lTKoXgfA _Of-JuSDEEd2QC6lTKoXgfA"/>
-            <lifeline xmi:id="_rBZNsCDCEd2QC6lTKoXgfA" name="controlador CC" represents="_rBZNsSDCEd2QC6lTKoXgfA" coveredBy="_r8HJgyDCEd2QC6lTKoXgfA _Of-JsiDEEd2QC6lTKoXgfA _Of-JtiDEEd2QC6lTKoXgfA _Of-JtyDEEd2QC6lTKoXgfA _3N4McCHlEd2AX46NLcxjVA _3N4McSHlEd2AX46NLcxjVA _3N4MciHlEd2AX46NLcxjVA _6Un68SHlEd2AX46NLcxjVA _6Un69iHlEd2AX46NLcxjVA _PHQcYiHmEd2AX46NLcxjVA _PHQcYyHmEd2AX46NLcxjVA _PHQcZCHmEd2AX46NLcxjVA _FfomkSIBEd2AX46NLcxjVA _FfutMiIBEd2AX46NLcxjVA _iXY1cSjaEd2DMqj-ciF7fw _iXY1dijaEd2DMqj-ciF7fw _1x2DASjaEd2DMqj-ciF7fw _1x2DBijaEd2DMqj-ciF7fw _AeGxYCjbEd2DMqj-ciF7fw _AeGxYSjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw _p1vn8SjbEd2DMqj-ciF7fw _p1vn9ijbEd2DMqj-ciF7fw"/>
+            <lifeline xmi:id="_rBZNsCDCEd2QC6lTKoXgfA" name="controlador CC" represents="_rBZNsSDCEd2QC6lTKoXgfA" coveredBy="_r8HJgyDCEd2QC6lTKoXgfA _Of-JsiDEEd2QC6lTKoXgfA _Of-JtiDEEd2QC6lTKoXgfA _Of-JtyDEEd2QC6lTKoXgfA _3N4McCHlEd2AX46NLcxjVA _3N4McSHlEd2AX46NLcxjVA _3N4MciHlEd2AX46NLcxjVA _6Un68SHlEd2AX46NLcxjVA _6Un69iHlEd2AX46NLcxjVA _PHQcYiHmEd2AX46NLcxjVA _PHQcYyHmEd2AX46NLcxjVA _PHQcZCHmEd2AX46NLcxjVA _FfomkSIBEd2AX46NLcxjVA _FfutMiIBEd2AX46NLcxjVA _iXY1cSjaEd2DMqj-ciF7fw _iXY1dijaEd2DMqj-ciF7fw _1x2DASjaEd2DMqj-ciF7fw _1x2DBijaEd2DMqj-ciF7fw _AeGxYCjbEd2DMqj-ciF7fw _AeGxYSjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw _p1vn8SjbEd2DMqj-ciF7fw _p1vn9ijbEd2DMqj-ciF7fw _JKmqYSl-Ed2_g-92KDgBsQ _JKmqZil-Ed2_g-92KDgBsQ _m3uakSl-Ed2_g-92KDgBsQ"/>
             <lifeline xmi:id="_F8P_sCDFEd2QC6lTKoXgfA" name="client" represents="_F8P_sSDFEd2QC6lTKoXgfA" coveredBy="_1x2DAijaEd2DMqj-ciF7fw _1x2DAyjaEd2DMqj-ciF7fw _1x2DBCjaEd2DMqj-ciF7fw _AeGxYCjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw"/>
-            <lifeline xmi:id="_AWFocCDFEd2QC6lTKoXgfA" name="comanda" represents="_AWFocSDFEd2QC6lTKoXgfA" coveredBy="_6Un68iHlEd2AX46NLcxjVA _6Un68yHlEd2AX46NLcxjVA _6Un69CHlEd2AX46NLcxjVA _FfomkiIBEd2AX46NLcxjVA _FfomkyIBEd2AX46NLcxjVA _FfutMCIBEd2AX46NLcxjVA _IQmmICXiEd2lYfhrZc13jw _IQsswiXiEd2lYfhrZc13jw _L1544CXiEd2lYfhrZc13jw _L1545SXiEd2lYfhrZc13jw _kbZ1sSXnEd22C99UI3MBbQ _S3SCMSXoEd22C99UI3MBbQ _S3SCNiXoEd22C99UI3MBbQ _WIRR0SXoEd22C99UI3MBbQ _WIXYcSXoEd22C99UI3MBbQ _ZQ7r4SXoEd22C99UI3MBbQ _ZRBygCXoEd22C99UI3MBbQ _du5E8CXoEd22C99UI3MBbQ _iXY1cijaEd2DMqj-ciF7fw _iXY1cyjaEd2DMqj-ciF7fw _iXY1dCjaEd2DMqj-ciF7fw _lIHQoSjaEd2DMqj-ciF7fw _lIHQpijaEd2DMqj-ciF7fw _rQT98SjaEd2DMqj-ciF7fw _rQT99ijaEd2DMqj-ciF7fw _AeGxYCjbEd2DMqj-ciF7fw _AeGxYSjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw _p1vn8ijbEd2DMqj-ciF7fw _p1vn8yjbEd2DMqj-ciF7fw _p1vn9CjbEd2DMqj-ciF7fw _uUvi0SjbEd2DMqj-ciF7fw _uUvi1ijbEd2DMqj-ciF7fw _vqa8USjbEd2DMqj-ciF7fw _vqa8VijbEd2DMqj-ciF7fw"/>
-            <lifeline xmi:id="_7bvVMCH_Ed2AX46NLcxjVA" name="contracte" represents="_7b1b0CH_Ed2AX46NLcxjVA" coveredBy="_S3SCMiXoEd22C99UI3MBbQ _S3SCMyXoEd22C99UI3MBbQ _S3SCNCXoEd22C99UI3MBbQ _du5E8CXoEd22C99UI3MBbQ _AeGxYCjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw"/>
-            <lifeline xmi:id="_mN8FQCIAEd2AX46NLcxjVA" name="estatComanda" represents="_mN8FQSIAEd2AX46NLcxjVA" coveredBy="_du5E8CXoEd22C99UI3MBbQ _lIHQoijaEd2DMqj-ciF7fw _lIHQoyjaEd2DMqj-ciF7fw _lIHQpCjaEd2DMqj-ciF7fw _AeGxYCjbEd2DMqj-ciF7fw _AeGxYSjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw _uUvi0ijbEd2DMqj-ciF7fw _uUvi0yjbEd2DMqj-ciF7fw _uUvi1CjbEd2DMqj-ciF7fw"/>
-            <lifeline xmi:id="_TJIXkCIAEd2AX46NLcxjVA" name="client2" represents="_TJIXkSIAEd2AX46NLcxjVA" coveredBy="_IQmmISXiEd2lYfhrZc13jw _IQmmIiXiEd2lYfhrZc13jw _IQsswCXiEd2lYfhrZc13jw _WIRR0iXoEd22C99UI3MBbQ _WIRR0yXoEd22C99UI3MBbQ _WIRR1CXoEd22C99UI3MBbQ _du5E8CXoEd22C99UI3MBbQ _rQT98ijaEd2DMqj-ciF7fw _rQT98yjaEd2DMqj-ciF7fw _rQT99CjaEd2DMqj-ciF7fw _AeGxYCjbEd2DMqj-ciF7fw _AeGxYSjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw _vqa8UijbEd2DMqj-ciF7fw _vqa8UyjbEd2DMqj-ciF7fw _vqa8VCjbEd2DMqj-ciF7fw"/>
-            <lifeline xmi:id="_J84DYCIAEd2AX46NLcxjVA" name="adreça" represents="_J84DYSIAEd2AX46NLcxjVA" coveredBy="_L1544SXiEd2lYfhrZc13jw _L1544iXiEd2lYfhrZc13jw _L1544yXiEd2lYfhrZc13jw _ZQ7r4iXoEd22C99UI3MBbQ _ZQ7r4yXoEd22C99UI3MBbQ _ZQ7r5CXoEd22C99UI3MBbQ _du5E8CXoEd22C99UI3MBbQ _F55rsCjbEd2DMqj-ciF7fw"/>
+            <lifeline xmi:id="_AWFocCDFEd2QC6lTKoXgfA" name="comanda" represents="_AWFocSDFEd2QC6lTKoXgfA" coveredBy="_6Un68iHlEd2AX46NLcxjVA _6Un68yHlEd2AX46NLcxjVA _6Un69CHlEd2AX46NLcxjVA _FfomkiIBEd2AX46NLcxjVA _FfomkyIBEd2AX46NLcxjVA _FfutMCIBEd2AX46NLcxjVA _IQmmICXiEd2lYfhrZc13jw _IQsswiXiEd2lYfhrZc13jw _L1544CXiEd2lYfhrZc13jw _L1545SXiEd2lYfhrZc13jw _kbZ1sSXnEd22C99UI3MBbQ _iXY1cijaEd2DMqj-ciF7fw _iXY1cyjaEd2DMqj-ciF7fw _iXY1dCjaEd2DMqj-ciF7fw _lIHQoSjaEd2DMqj-ciF7fw _lIHQpijaEd2DMqj-ciF7fw _rQT98SjaEd2DMqj-ciF7fw _rQT99ijaEd2DMqj-ciF7fw _AeGxYCjbEd2DMqj-ciF7fw _AeGxYSjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw _p1vn8ijbEd2DMqj-ciF7fw _p1vn8yjbEd2DMqj-ciF7fw _p1vn9CjbEd2DMqj-ciF7fw _uUvi0SjbEd2DMqj-ciF7fw _uUvi1ijbEd2DMqj-ciF7fw _vqa8USjbEd2DMqj-ciF7fw _vqa8VijbEd2DMqj-ciF7fw _j4wkgCl9Ed2_g-92KDgBsQ _JKmqYil-Ed2_g-92KDgBsQ _JKmqYyl-Ed2_g-92KDgBsQ _JKmqZCl-Ed2_g-92KDgBsQ _dBptUSl-Ed2_g-92KDgBsQ _dBptVil-Ed2_g-92KDgBsQ _e68KMSl-Ed2_g-92KDgBsQ _e7CQ1Cl-Ed2_g-92KDgBsQ _hsazUSl-Ed2_g-92KDgBsQ _hsg58yl-Ed2_g-92KDgBsQ _m3uakyl-Ed2_g-92KDgBsQ"/>
+            <lifeline xmi:id="_7bvVMCH_Ed2AX46NLcxjVA" name="contracte" represents="_7b1b0CH_Ed2AX46NLcxjVA" coveredBy="_AeGxYCjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw _j4wkgCl9Ed2_g-92KDgBsQ _dBptUil-Ed2_g-92KDgBsQ _dBptUyl-Ed2_g-92KDgBsQ _dBptVCl-Ed2_g-92KDgBsQ"/>
+            <lifeline xmi:id="_mN8FQCIAEd2AX46NLcxjVA" name="estatComanda" represents="_mN8FQSIAEd2AX46NLcxjVA" coveredBy="_lIHQoijaEd2DMqj-ciF7fw _lIHQoyjaEd2DMqj-ciF7fw _lIHQpCjaEd2DMqj-ciF7fw _AeGxYCjbEd2DMqj-ciF7fw _AeGxYSjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw _uUvi0ijbEd2DMqj-ciF7fw _uUvi0yjbEd2DMqj-ciF7fw _uUvi1CjbEd2DMqj-ciF7fw _j4wkgCl9Ed2_g-92KDgBsQ"/>
+            <lifeline xmi:id="_TJIXkCIAEd2AX46NLcxjVA" name="client2" represents="_TJIXkSIAEd2AX46NLcxjVA" coveredBy="_IQmmISXiEd2lYfhrZc13jw _IQmmIiXiEd2lYfhrZc13jw _IQsswCXiEd2lYfhrZc13jw _rQT98ijaEd2DMqj-ciF7fw _rQT98yjaEd2DMqj-ciF7fw _rQT99CjaEd2DMqj-ciF7fw _AeGxYCjbEd2DMqj-ciF7fw _AeGxYSjbEd2DMqj-ciF7fw _F55rsCjbEd2DMqj-ciF7fw _vqa8UijbEd2DMqj-ciF7fw _vqa8UyjbEd2DMqj-ciF7fw _vqa8VCjbEd2DMqj-ciF7fw _j4wkgCl9Ed2_g-92KDgBsQ _e7CQ0Cl-Ed2_g-92KDgBsQ _e7CQ0Sl-Ed2_g-92KDgBsQ _e7CQ0il-Ed2_g-92KDgBsQ"/>
+            <lifeline xmi:id="_J84DYCIAEd2AX46NLcxjVA" name="adreça" represents="_J84DYSIAEd2AX46NLcxjVA" coveredBy="_L1544SXiEd2lYfhrZc13jw _L1544iXiEd2lYfhrZc13jw _L1544yXiEd2lYfhrZc13jw _F55rsCjbEd2DMqj-ciF7fw _hsazUil-Ed2_g-92KDgBsQ _hsg58Cl-Ed2_g-92KDgBsQ _hsg58Sl-Ed2_g-92KDgBsQ"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_r8HJgSDCEd2QC6lTKoXgfA" covered="_YPOvMCDCEd2QC6lTKoXgfA" event="_r8HJgiDCEd2QC6lTKoXgfA" message="_r8HJgCDCEd2QC6lTKoXgfA"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_r8HJgyDCEd2QC6lTKoXgfA" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_r8HJhCDCEd2QC6lTKoXgfA" message="_r8HJgCDCEd2QC6lTKoXgfA"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_PHQcYSHmEd2AX46NLcxjVA" covered="_YPOvMCDCEd2QC6lTKoXgfA" event="_Ax2pUSDDEd2QC6lTKoXgfA" message="_PHQcYCHmEd2AX46NLcxjVA"/>
@@ -8602,7 +8672,7 @@
                 </ownedComment>
                 <guard xmi:id="_F6DcsCjbEd2DMqj-ciF7fw">
                   <specification xmi:type="uml:OpaqueExpression" xmi:id="_F6DcsSjbEd2DMqj-ciF7fw">
-                    <body></body>
+                    <body>Si DNI != NULL</body>
                   </specification>
                 </guard>
                 <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1x2DASjaEd2DMqj-ciF7fw" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_SwGBYCjjEd2TepqzqWQHFw" message="_1x2DACjaEd2DMqj-ciF7fw"/>
@@ -8612,9 +8682,6 @@
                 <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1x2DBijaEd2DMqj-ciF7fw" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_SwGBYSjjEd2TepqzqWQHFw" message="_1x2DBSjaEd2DMqj-ciF7fw"/>
                 <fragment xmi:type="uml:CombinedFragment" xmi:id="_AeGxYCjbEd2DMqj-ciF7fw" covered="_mN8FQCIAEd2AX46NLcxjVA _TJIXkCIAEd2AX46NLcxjVA _7bvVMCH_Ed2AX46NLcxjVA _F8P_sCDFEd2QC6lTKoXgfA _AWFocCDFEd2QC6lTKoXgfA _rBZNsCDCEd2QC6lTKoXgfA" interactionOperator="loop">
                   <operand xmi:id="_AeGxYSjbEd2DMqj-ciF7fw" covered="_rBZNsCDCEd2QC6lTKoXgfA _AWFocCDFEd2QC6lTKoXgfA _mN8FQCIAEd2AX46NLcxjVA _TJIXkCIAEd2AX46NLcxjVA">
-                    <ownedComment xmi:id="_8gOKECjbEd2DMqj-ciF7fw">
-                      <body>llistaComandes.addList(infoComanda)</body>
-                    </ownedComment>
                     <ownedComment xmi:id="_C24KICjcEd2DMqj-ciF7fw">
                       <body>llistaComandes.addList(infoComanda)</body>
                     </ownedComment>
@@ -8630,11 +8697,20 @@
                     <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_lIHQoyjaEd2DMqj-ciF7fw" covered="_mN8FQCIAEd2AX46NLcxjVA" start="_lIHQoijaEd2DMqj-ciF7fw" finish="_lIHQpCjaEd2DMqj-ciF7fw"/>
                     <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lIHQpCjaEd2DMqj-ciF7fw" covered="_mN8FQCIAEd2AX46NLcxjVA" event="_r8x3YSIAEd2AX46NLcxjVA" message="_lIHQpSjaEd2DMqj-ciF7fw"/>
                     <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_lIHQpijaEd2DMqj-ciF7fw" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_r83-ACIAEd2AX46NLcxjVA" message="_lIHQpSjaEd2DMqj-ciF7fw"/>
-                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_rQT98SjaEd2DMqj-ciF7fw" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_ED980CRREd2275m_HVu1pQ" message="_rQT98CjaEd2DMqj-ciF7fw"/>
-                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_rQT98ijaEd2DMqj-ciF7fw" covered="_TJIXkCIAEd2AX46NLcxjVA" event="_ED980SRREd2275m_HVu1pQ" message="_rQT98CjaEd2DMqj-ciF7fw"/>
-                    <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_rQT98yjaEd2DMqj-ciF7fw" covered="_TJIXkCIAEd2AX46NLcxjVA" start="_rQT98ijaEd2DMqj-ciF7fw" finish="_rQT99CjaEd2DMqj-ciF7fw"/>
-                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_rQT99CjaEd2DMqj-ciF7fw" covered="_TJIXkCIAEd2AX46NLcxjVA" event="_ED980CRREd2275m_HVu1pQ" message="_rQT99SjaEd2DMqj-ciF7fw"/>
-                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_rQT99ijaEd2DMqj-ciF7fw" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_ED980SRREd2275m_HVu1pQ" message="_rQT99SjaEd2DMqj-ciF7fw"/>
+                    <fragment xmi:type="uml:CombinedFragment" xmi:id="_j4wkgCl9Ed2_g-92KDgBsQ" covered="_mN8FQCIAEd2AX46NLcxjVA _TJIXkCIAEd2AX46NLcxjVA _7bvVMCH_Ed2AX46NLcxjVA _AWFocCDFEd2QC6lTKoXgfA" interactionOperator="opt">
+                      <operand xmi:id="_j4wkgSl9Ed2_g-92KDgBsQ">
+                        <guard xmi:id="_j42rICl9Ed2_g-92KDgBsQ">
+                          <specification xmi:type="uml:OpaqueExpression" xmi:id="_j42rISl9Ed2_g-92KDgBsQ">
+                            <body>Si estat = TRUE</body>
+                          </specification>
+                        </guard>
+                        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_rQT98SjaEd2DMqj-ciF7fw" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_ED980CRREd2275m_HVu1pQ" message="_rQT98CjaEd2DMqj-ciF7fw"/>
+                        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_rQT98ijaEd2DMqj-ciF7fw" covered="_TJIXkCIAEd2AX46NLcxjVA" event="_ED980SRREd2275m_HVu1pQ" message="_rQT98CjaEd2DMqj-ciF7fw"/>
+                        <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_rQT98yjaEd2DMqj-ciF7fw" covered="_TJIXkCIAEd2AX46NLcxjVA" start="_rQT98ijaEd2DMqj-ciF7fw" finish="_rQT99CjaEd2DMqj-ciF7fw"/>
+                        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_rQT99CjaEd2DMqj-ciF7fw" covered="_TJIXkCIAEd2AX46NLcxjVA" event="_ED980CRREd2275m_HVu1pQ" message="_rQT99SjaEd2DMqj-ciF7fw"/>
+                        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_rQT99ijaEd2DMqj-ciF7fw" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_ED980SRREd2275m_HVu1pQ" message="_rQT99SjaEd2DMqj-ciF7fw"/>
+                      </operand>
+                    </fragment>
                     <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_iXY1dCjaEd2DMqj-ciF7fw" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_-_ViYSE8Ed2HO4akhfXL1w" message="_iXY1dSjaEd2DMqj-ciF7fw"/>
                     <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_iXY1dijaEd2DMqj-ciF7fw" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_-_ViYiE8Ed2HO4akhfXL1w" message="_iXY1dSjaEd2DMqj-ciF7fw"/>
                   </operand>
@@ -8661,7 +8737,7 @@
                 </ownedComment>
                 <guard xmi:id="_F6MmoCjbEd2DMqj-ciF7fw">
                   <specification xmi:type="uml:OpaqueExpression" xmi:id="_F6MmoSjbEd2DMqj-ciF7fw">
-                    <body></body>
+                    <body>Si DNI = NULL</body>
                   </specification>
                 </guard>
               </operand>
@@ -8701,42 +8777,33 @@
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Of-JsSDEEd2QC6lTKoXgfA" covered="_H1jgICDEEd2QC6lTKoXgfA" event="_QKApoCDEEd2QC6lTKoXgfA" message="_Of-JsCDEEd2QC6lTKoXgfA"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Of-JsiDEEd2QC6lTKoXgfA" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_QKApoSDEEd2QC6lTKoXgfA" message="_Of-JsCDEEd2QC6lTKoXgfA"/>
             <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_Of-JtiDEEd2QC6lTKoXgfA" covered="_rBZNsCDCEd2QC6lTKoXgfA" start="_Of-JsiDEEd2QC6lTKoXgfA" finish="_Of-JtyDEEd2QC6lTKoXgfA"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_JKmqYSl-Ed2_g-92KDgBsQ" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_8456ASE_Ed2HO4akhfXL1w" message="_JKmqYCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_JKmqYil-Ed2_g-92KDgBsQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_8456AiE_Ed2HO4akhfXL1w" message="_JKmqYCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_JKmqYyl-Ed2_g-92KDgBsQ" covered="_AWFocCDFEd2QC6lTKoXgfA" start="_JKmqYil-Ed2_g-92KDgBsQ" finish="_JKmqZCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_JKmqZCl-Ed2_g-92KDgBsQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_8456ASE_Ed2HO4akhfXL1w" message="_JKmqZSl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_JKmqZil-Ed2_g-92KDgBsQ" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_8456AiE_Ed2HO4akhfXL1w" message="_JKmqZSl-Ed2_g-92KDgBsQ"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_FfomkSIBEd2AX46NLcxjVA" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_6lw0gSXmEd22C99UI3MBbQ" message="_FfomkCIBEd2AX46NLcxjVA"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_FfomkiIBEd2AX46NLcxjVA" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_6lw0giXmEd22C99UI3MBbQ" message="_FfomkCIBEd2AX46NLcxjVA"/>
             <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_FfomkyIBEd2AX46NLcxjVA" covered="_AWFocCDFEd2QC6lTKoXgfA" start="_FfomkiIBEd2AX46NLcxjVA" finish="_FfutMCIBEd2AX46NLcxjVA"/>
-            <fragment xmi:type="uml:CombinedFragment" xmi:id="_du5E8CXoEd22C99UI3MBbQ" covered="_mN8FQCIAEd2AX46NLcxjVA _TJIXkCIAEd2AX46NLcxjVA _J84DYCIAEd2AX46NLcxjVA _7bvVMCH_Ed2AX46NLcxjVA _AWFocCDFEd2QC6lTKoXgfA" interactionOperator="alt">
-              <operand xmi:id="_du5E8SXoEd22C99UI3MBbQ">
-                <guard xmi:id="_dvFSMCXoEd22C99UI3MBbQ">
-                  <specification xmi:type="uml:OpaqueExpression" xmi:id="_dvFSMSXoEd22C99UI3MBbQ">
-                    <body>Si estatComanda = Planificada</body>
-                  </specification>
-                </guard>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_S3SCMSXoEd22C99UI3MBbQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_BAMcQSIAEd2AX46NLcxjVA" message="_S3SCMCXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_S3SCMiXoEd22C99UI3MBbQ" covered="_7bvVMCH_Ed2AX46NLcxjVA" event="_BAMcQiIAEd2AX46NLcxjVA" message="_S3SCMCXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_S3SCMyXoEd22C99UI3MBbQ" covered="_7bvVMCH_Ed2AX46NLcxjVA" start="_S3SCMiXoEd22C99UI3MBbQ" finish="_S3SCNCXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_S3SCNCXoEd22C99UI3MBbQ" covered="_7bvVMCH_Ed2AX46NLcxjVA" event="_BAMcQSIAEd2AX46NLcxjVA" message="_S3SCNSXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_S3SCNiXoEd22C99UI3MBbQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_BAMcQiIAEd2AX46NLcxjVA" message="_S3SCNSXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_WIRR0SXoEd22C99UI3MBbQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_WyiuQSIAEd2AX46NLcxjVA" message="_WIRR0CXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_WIRR0iXoEd22C99UI3MBbQ" covered="_TJIXkCIAEd2AX46NLcxjVA" event="_WyiuQiIAEd2AX46NLcxjVA" message="_WIRR0CXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_WIRR0yXoEd22C99UI3MBbQ" covered="_TJIXkCIAEd2AX46NLcxjVA" start="_WIRR0iXoEd22C99UI3MBbQ" finish="_WIRR1CXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_WIRR1CXoEd22C99UI3MBbQ" covered="_TJIXkCIAEd2AX46NLcxjVA" event="_WyiuQSIAEd2AX46NLcxjVA" message="_WIXYcCXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_WIXYcSXoEd22C99UI3MBbQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_WyiuQiIAEd2AX46NLcxjVA" message="_WIXYcCXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_ZQ7r4SXoEd22C99UI3MBbQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_L6dxcSIAEd2AX46NLcxjVA" message="_ZQ7r4CXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_ZQ7r4iXoEd22C99UI3MBbQ" covered="_J84DYCIAEd2AX46NLcxjVA" event="_L6dxciIAEd2AX46NLcxjVA" message="_ZQ7r4CXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_ZQ7r4yXoEd22C99UI3MBbQ" covered="_J84DYCIAEd2AX46NLcxjVA" start="_ZQ7r4iXoEd22C99UI3MBbQ" finish="_ZQ7r5CXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_ZQ7r5CXoEd22C99UI3MBbQ" covered="_J84DYCIAEd2AX46NLcxjVA" event="_L6dxcSIAEd2AX46NLcxjVA" message="_ZQ7r5SXoEd22C99UI3MBbQ"/>
-                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_ZRBygCXoEd22C99UI3MBbQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_L6dxciIAEd2AX46NLcxjVA" message="_ZQ7r5SXoEd22C99UI3MBbQ"/>
-              </operand>
-              <operand xmi:id="_dvXmECXoEd22C99UI3MBbQ">
-                <guard xmi:id="_dvdssCXoEd22C99UI3MBbQ">
-                  <specification xmi:type="uml:OpaqueExpression" xmi:id="_dvdssSXoEd22C99UI3MBbQ">
-                    <body>Si esetatComanda != planificada</body>
-                  </specification>
-                </guard>
-              </operand>
-            </fragment>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_dBptUSl-Ed2_g-92KDgBsQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_BAMcQSIAEd2AX46NLcxjVA" message="_dBptUCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_dBptUil-Ed2_g-92KDgBsQ" covered="_7bvVMCH_Ed2AX46NLcxjVA" event="_BAMcQiIAEd2AX46NLcxjVA" message="_dBptUCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_dBptUyl-Ed2_g-92KDgBsQ" covered="_7bvVMCH_Ed2AX46NLcxjVA" start="_dBptUil-Ed2_g-92KDgBsQ" finish="_dBptVCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_dBptVCl-Ed2_g-92KDgBsQ" covered="_7bvVMCH_Ed2AX46NLcxjVA" event="_BAMcQSIAEd2AX46NLcxjVA" message="_dBptVSl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_dBptVil-Ed2_g-92KDgBsQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_BAMcQiIAEd2AX46NLcxjVA" message="_dBptVSl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_e68KMSl-Ed2_g-92KDgBsQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_WyiuQSIAEd2AX46NLcxjVA" message="_e68KMCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_e7CQ0Cl-Ed2_g-92KDgBsQ" covered="_TJIXkCIAEd2AX46NLcxjVA" event="_WyiuQiIAEd2AX46NLcxjVA" message="_e68KMCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_e7CQ0Sl-Ed2_g-92KDgBsQ" covered="_TJIXkCIAEd2AX46NLcxjVA" start="_e7CQ0Cl-Ed2_g-92KDgBsQ" finish="_e7CQ0il-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_e7CQ0il-Ed2_g-92KDgBsQ" covered="_TJIXkCIAEd2AX46NLcxjVA" event="_WyiuQSIAEd2AX46NLcxjVA" message="_e7CQ0yl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_e7CQ1Cl-Ed2_g-92KDgBsQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_WyiuQiIAEd2AX46NLcxjVA" message="_e7CQ0yl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hsazUSl-Ed2_g-92KDgBsQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_L6dxcSIAEd2AX46NLcxjVA" message="_hsazUCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hsazUil-Ed2_g-92KDgBsQ" covered="_J84DYCIAEd2AX46NLcxjVA" event="_L6dxciIAEd2AX46NLcxjVA" message="_hsazUCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_hsg58Cl-Ed2_g-92KDgBsQ" covered="_J84DYCIAEd2AX46NLcxjVA" start="_hsazUil-Ed2_g-92KDgBsQ" finish="_hsg58Sl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hsg58Sl-Ed2_g-92KDgBsQ" covered="_J84DYCIAEd2AX46NLcxjVA" event="_L6dxcSIAEd2AX46NLcxjVA" message="_hsg58il-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hsg58yl-Ed2_g-92KDgBsQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_L6dxciIAEd2AX46NLcxjVA" message="_hsg58il-Ed2_g-92KDgBsQ"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_FfutMCIBEd2AX46NLcxjVA" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_6lw0gSXmEd22C99UI3MBbQ" message="_FfutMSIBEd2AX46NLcxjVA"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_FfutMiIBEd2AX46NLcxjVA" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_6lw0giXmEd22C99UI3MBbQ" message="_FfutMSIBEd2AX46NLcxjVA"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_m3uakSl-Ed2_g-92KDgBsQ" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_m3uakil-Ed2_g-92KDgBsQ" message="_m3uakCl-Ed2_g-92KDgBsQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_m3uakyl-Ed2_g-92KDgBsQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_m3ualCl-Ed2_g-92KDgBsQ" message="_m3uakCl-Ed2_g-92KDgBsQ"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Of-JtyDEEd2QC6lTKoXgfA" covered="_rBZNsCDCEd2QC6lTKoXgfA" event="_QKApoCDEEd2QC6lTKoXgfA" message="_Of-JuCDEEd2QC6lTKoXgfA"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_Of-JuSDEEd2QC6lTKoXgfA" covered="_H1jgICDEEd2QC6lTKoXgfA" event="_QKApoSDEEd2QC6lTKoXgfA" message="_Of-JuCDEEd2QC6lTKoXgfA"/>
             <fragment xmi:type="uml:OccurrenceSpecification" xmi:id="_kbZ1sSXnEd22C99UI3MBbQ" covered="_AWFocCDFEd2QC6lTKoXgfA" event="_kbZ1sCXnEd22C99UI3MBbQ"/>
@@ -8761,12 +8828,6 @@
             <message xmi:id="_L1zyQCXiEd2lYfhrZc13jw" name="getAdreça" receiveEvent="_L1544SXiEd2lYfhrZc13jw" sendEvent="_L1544CXiEd2lYfhrZc13jw" connector="_LI5xoyIAEd2AX46NLcxjVA"/>
             <message xmi:id="_L1545CXiEd2lYfhrZc13jw" name="getAdreça" messageSort="reply" receiveEvent="_L1545SXiEd2lYfhrZc13jw" sendEvent="_L1544yXiEd2lYfhrZc13jw" connector="_LI5xoyIAEd2AX46NLcxjVA"/>
             <message xmi:id="_UVD5sCXmEd22C99UI3MBbQ" name="cancel·larComanda" messageSort="asynchCall" receiveEvent="_UVKAUCXmEd22C99UI3MBbQ" sendEvent="_UVD5sSXmEd22C99UI3MBbQ" connector="_UVKAUSXmEd22C99UI3MBbQ"/>
-            <message xmi:id="_S3SCMCXoEd22C99UI3MBbQ" name="eliminarComanda" receiveEvent="_S3SCMiXoEd22C99UI3MBbQ" sendEvent="_S3SCMSXoEd22C99UI3MBbQ" connector="_-cLnYyH_Ed2AX46NLcxjVA"/>
-            <message xmi:id="_S3SCNSXoEd22C99UI3MBbQ" name="eliminarComanda" messageSort="reply" receiveEvent="_S3SCNiXoEd22C99UI3MBbQ" sendEvent="_S3SCNCXoEd22C99UI3MBbQ" connector="_-cLnYyH_Ed2AX46NLcxjVA"/>
-            <message xmi:id="_WIRR0CXoEd22C99UI3MBbQ" name="eliminarComanda" receiveEvent="_WIRR0iXoEd22C99UI3MBbQ" sendEvent="_WIRR0SXoEd22C99UI3MBbQ" connector="_VGn_AyIAEd2AX46NLcxjVA"/>
-            <message xmi:id="_WIXYcCXoEd22C99UI3MBbQ" name="eliminarComanda" messageSort="reply" receiveEvent="_WIXYcSXoEd22C99UI3MBbQ" sendEvent="_WIRR1CXoEd22C99UI3MBbQ" connector="_VGn_AyIAEd2AX46NLcxjVA"/>
-            <message xmi:id="_ZQ7r4CXoEd22C99UI3MBbQ" name="eliminarComanda" receiveEvent="_ZQ7r4iXoEd22C99UI3MBbQ" sendEvent="_ZQ7r4SXoEd22C99UI3MBbQ" connector="_LI5xoyIAEd2AX46NLcxjVA"/>
-            <message xmi:id="_ZQ7r5SXoEd22C99UI3MBbQ" name="eliminarComanda" messageSort="reply" receiveEvent="_ZRBygCXoEd22C99UI3MBbQ" sendEvent="_ZQ7r5CXoEd22C99UI3MBbQ" connector="_LI5xoyIAEd2AX46NLcxjVA"/>
             <message xmi:id="_iXY1cCjaEd2DMqj-ciF7fw" name="getComandaInfo" receiveEvent="_iXY1cijaEd2DMqj-ciF7fw" sendEvent="_iXY1cSjaEd2DMqj-ciF7fw" connector="_9bJy0yE8Ed2HO4akhfXL1w"/>
             <message xmi:id="_iXY1dSjaEd2DMqj-ciF7fw" name="getComandaInfo" messageSort="reply" receiveEvent="_iXY1dijaEd2DMqj-ciF7fw" sendEvent="_iXY1dCjaEd2DMqj-ciF7fw" connector="_9bJy0yE8Ed2HO4akhfXL1w"/>
             <message xmi:id="_lIHQoCjaEd2DMqj-ciF7fw" name="comandaPlanificada" receiveEvent="_lIHQoijaEd2DMqj-ciF7fw" sendEvent="_lIHQoSjaEd2DMqj-ciF7fw" connector="_n9ld8yIAEd2AX46NLcxjVA"/>
@@ -8781,6 +8842,15 @@
             <message xmi:id="_uUvi1SjbEd2DMqj-ciF7fw" name="comandaPlanificada" messageSort="reply" receiveEvent="_uUvi1ijbEd2DMqj-ciF7fw" sendEvent="_uUvi1CjbEd2DMqj-ciF7fw" connector="_n9ld8yIAEd2AX46NLcxjVA"/>
             <message xmi:id="_vqa8UCjbEd2DMqj-ciF7fw" name="getNom" receiveEvent="_vqa8UijbEd2DMqj-ciF7fw" sendEvent="_vqa8USjbEd2DMqj-ciF7fw" connector="_VGn_AyIAEd2AX46NLcxjVA"/>
             <message xmi:id="_vqa8VSjbEd2DMqj-ciF7fw" name="getNom" messageSort="reply" receiveEvent="_vqa8VijbEd2DMqj-ciF7fw" sendEvent="_vqa8VCjbEd2DMqj-ciF7fw" connector="_VGn_AyIAEd2AX46NLcxjVA"/>
+            <message xmi:id="_JKmqYCl-Ed2_g-92KDgBsQ" name="getComanda" receiveEvent="_JKmqYil-Ed2_g-92KDgBsQ" sendEvent="_JKmqYSl-Ed2_g-92KDgBsQ" connector="_9bJy0yE8Ed2HO4akhfXL1w"/>
+            <message xmi:id="_JKmqZSl-Ed2_g-92KDgBsQ" name="getComanda" messageSort="reply" receiveEvent="_JKmqZil-Ed2_g-92KDgBsQ" sendEvent="_JKmqZCl-Ed2_g-92KDgBsQ" connector="_9bJy0yE8Ed2HO4akhfXL1w"/>
+            <message xmi:id="_dBptUCl-Ed2_g-92KDgBsQ" name="eliminarComanda" receiveEvent="_dBptUil-Ed2_g-92KDgBsQ" sendEvent="_dBptUSl-Ed2_g-92KDgBsQ" connector="_-cLnYyH_Ed2AX46NLcxjVA"/>
+            <message xmi:id="_dBptVSl-Ed2_g-92KDgBsQ" name="eliminarComanda" messageSort="reply" receiveEvent="_dBptVil-Ed2_g-92KDgBsQ" sendEvent="_dBptVCl-Ed2_g-92KDgBsQ" connector="_-cLnYyH_Ed2AX46NLcxjVA"/>
+            <message xmi:id="_e68KMCl-Ed2_g-92KDgBsQ" name="eliminarComanda" receiveEvent="_e7CQ0Cl-Ed2_g-92KDgBsQ" sendEvent="_e68KMSl-Ed2_g-92KDgBsQ" connector="_VGn_AyIAEd2AX46NLcxjVA"/>
+            <message xmi:id="_e7CQ0yl-Ed2_g-92KDgBsQ" name="eliminarComanda" messageSort="reply" receiveEvent="_e7CQ1Cl-Ed2_g-92KDgBsQ" sendEvent="_e7CQ0il-Ed2_g-92KDgBsQ" connector="_VGn_AyIAEd2AX46NLcxjVA"/>
+            <message xmi:id="_hsazUCl-Ed2_g-92KDgBsQ" name="eliminarComanda" receiveEvent="_hsazUil-Ed2_g-92KDgBsQ" sendEvent="_hsazUSl-Ed2_g-92KDgBsQ" connector="_LI5xoyIAEd2AX46NLcxjVA"/>
+            <message xmi:id="_hsg58il-Ed2_g-92KDgBsQ" name="eliminarComanda" messageSort="reply" receiveEvent="_hsg58yl-Ed2_g-92KDgBsQ" sendEvent="_hsg58Sl-Ed2_g-92KDgBsQ" connector="_LI5xoyIAEd2AX46NLcxjVA"/>
+            <message xmi:id="_m3uakCl-Ed2_g-92KDgBsQ" name="(Destruir)" messageSort="deleteMessage" receiveEvent="_m3uakyl-Ed2_g-92KDgBsQ" sendEvent="_m3uakSl-Ed2_g-92KDgBsQ" connector="_9bJy0yE8Ed2HO4akhfXL1w"/>
           </ownedBehavior>
           <ownedAttribute xmi:id="_NswO8SDCEd2QC6lTKoXgfA" name="pantalla Cerca comanda" type="_z3x8YCC-Ed2QC6lTKoXgfA"/>
           <ownedAttribute xmi:id="_YPOvMSDCEd2QC6lTKoXgfA" name="pantLC" type="_z3x8YCC-Ed2QC6lTKoXgfA" end="_em9GRSDCEd2QC6lTKoXgfA _r8HJhiDCEd2QC6lTKoXgfA"/>
@@ -8859,6 +8929,8 @@
         <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_yotMcSXoEd22C99UI3MBbQ" name="Eventodeoperaciónderecepción20" operation="_yonF0CXoEd22C99UI3MBbQ"/>
         <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_SwGBYCjjEd2TepqzqWQHFw" name="Eventodeoperacióndeenvío25" operation="_3ZsIcCWWEd2G-_S0ol0HdQ"/>
         <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_SwGBYSjjEd2TepqzqWQHFw" name="Eventodeoperaciónderecepción21" operation="_3ZsIcCWWEd2G-_S0ol0HdQ"/>
+        <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_m3uakil-Ed2_g-92KDgBsQ" name="Eventodeoperacióndeenvío26"/>
+        <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_m3ualCl-Ed2_g-92KDgBsQ" name="Eventodeoperaciónderecepción22"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_NJqUMB-qEd2wW57a2gCSYg" name="Crear Ruta">
         <eAnnotations xmi:id="_NJ0FMB-qEd2wW57a2gCSYg" source="uml2.diagrams">
@@ -15736,25 +15808,16 @@
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_kW3r4iDBEd2QC6lTKoXgfA"/>
           </ownedAttribute>
           <ownedOperation xmi:id="_Ax2pUCDDEd2QC6lTKoXgfA" name="cercaInformacio">
-            <ownedParameter xmi:id="_pvJXsCE7Ed2HO4akhfXL1w" name="NifEmisor">
+            <ownedParameter xmi:id="_pvJXsCE7Ed2HO4akhfXL1w" name="DNI">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             </ownedParameter>
             <ownedParameter xmi:id="_PivVMCE7Ed2HO4akhfXL1w" name="idComanda">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             </ownedParameter>
-            <ownedParameter xmi:id="_APi6wCXXEd2bD9UxYkKmRA" name="idCom" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <ownedParameter xmi:id="_APi6wCXXEd2bD9UxYkKmRA" name="infoComandes" direction="return">
+              <type xmi:type="uml:DataType" href="0708Q2-7-E-1-2-Design_Model.emx#_CR6HgCluEd2_g-92KDgBsQ?Design%20Model/Capa%20Presentacio/pGestioComandesContractes/infoComandes?"/>
               <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_cu7sgSXXEd2bD9UxYkKmRA" value="*"/>
               <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_cu7sgCXXEd2bD9UxYkKmRA"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="_BOAHECXXEd2bD9UxYkKmRA" name="destinatari" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_eBuxISXXEd2bD9UxYkKmRA" value="*"/>
-              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_eBuxICXXEd2bD9UxYkKmRA"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="__1whwCXWEd2bD9UxYkKmRA" name="data" type="_R_0qEBtFEd2NEcGCsxdGog" direction="return">
-              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_dqPeMSXXEd2bD9UxYkKmRA" value="*"/>
-              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_dqPeMCXXEd2bD9UxYkKmRA"/>
             </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_nE01ACDDEd2QC6lTKoXgfA" name="obteInformacio">
@@ -15766,22 +15829,7 @@
             <ownedParameter xmi:id="_DsviICE8Ed2HO4akhfXL1w" name="idComanda">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             </ownedParameter>
-            <ownedParameter xmi:id="_9XeOgCXjEd22C99UI3MBbQ" name="idCom" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="_9MS5QCXjEd22C99UI3MBbQ" name="data" type="_R_0qEBtFEd2NEcGCsxdGog" direction="return"/>
-            <ownedParameter xmi:id="_9BORsCXjEd22C99UI3MBbQ" name="destinatari" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="_82bW8CXjEd22C99UI3MBbQ" name="carrer" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="_8U5XMCXjEd22C99UI3MBbQ" name="numero" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="_GvLkwCXkEd22C99UI3MBbQ" name="porta" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-            </ownedParameter>
+            <ownedParameter xmi:id="_GvLkwCXkEd22C99UI3MBbQ" name="infoExt" type="_Zbg_ACl8Ed2_g-92KDgBsQ" direction="return"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QJ3fsCDEEd2QC6lTKoXgfA" name="confirmarCancel·lacio">
             <ownedParameter xmi:id="_kFcPECH9Ed2AX46NLcxjVA" name="idComanda">
@@ -16228,10 +16276,7 @@
             <ownedParameter xmi:id="_ZMtyMB-xEd2wW57a2gCSYg" name="dIni" type="_R_0qEBtFEd2NEcGCsxdGog"/>
           </ownedOperation>
           <ownedOperation xmi:id="_-_ViYCE8Ed2HO4akhfXL1w" name="getComandaInfo">
-            <ownedParameter xmi:id="_vrl1sCXVEd2bD9UxYkKmRA" name="destinatari" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="_zOswECXVEd2bD9UxYkKmRA" name="data" type="_R_0qEBtFEd2NEcGCsxdGog" direction="return"/>
+            <ownedParameter xmi:id="_vrl1sCXVEd2bD9UxYkKmRA" name="info" type="_WBJw8Cl8Ed2_g-92KDgBsQ" direction="return"/>
           </ownedOperation>
           <ownedOperation xmi:id="_8456ACE_Ed2HO4akhfXL1w" name="getComanda">
             <ownedParameter xmi:id="_uh6rECGnEd2Z85oOD8AvLQ" name="com" type="_e7-rUPnDEdyli_XzYLJ9YQ" direction="return"/>
@@ -16267,7 +16312,7 @@
             </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_6lw0gCXmEd22C99UI3MBbQ" name="cancel·larComanda">
-            <ownedParameter xmi:id="_-UESQCXmEd22C99UI3MBbQ" name="confirmacio">
+            <ownedParameter xmi:id="_-UESQCXmEd22C99UI3MBbQ" name="confirmacio" direction="return">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
             </ownedParameter>
           </ownedOperation>
@@ -16312,7 +16357,11 @@
         <packagedElement xmi:type="uml:Class" xmi:id="_2hI8UP81Edy9otTkNyh1Pw" name="EstatComanda" isAbstract="true">
           <ownedAttribute xmi:id="_7vq2sf81Edy9otTkNyh1Pw" name="comanda" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_7vq2sP81Edy9otTkNyh1Pw"/>
           <ownedAttribute xmi:id="_lkgmov82Edy9otTkNyh1Pw" name="comanda2" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_lkgmoP82Edy9otTkNyh1Pw"/>
-          <ownedOperation xmi:id="_r8x3YCIAEd2AX46NLcxjVA" name="comandaPlanificada"/>
+          <ownedOperation xmi:id="_r8x3YCIAEd2AX46NLcxjVA" name="comandaPlanificada">
+            <ownedParameter xmi:id="_rMG2UCl9Ed2_g-92KDgBsQ" name="estat" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            </ownedParameter>
+          </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_vKpiUBtBEd2NEcGCsxdGog" name="Peticio Comanda">
           <ownedOperation xmi:id="_W8pl4BtEEd2NEcGCsxdGog" name="CrearPeticio">
