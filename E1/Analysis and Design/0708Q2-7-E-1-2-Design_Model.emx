@@ -13396,16 +13396,16 @@
                         <body>Si rentConfirm = OK</body>
                       </specification>
                     </guard>
-                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_t8MWkSj0Ed2JT-HJs_Wegg" covered="_Pk-GECDIEd2QC6lTKoXgfA" event="_xMqBwSj0Ed2JT-HJs_Wegg" message="_t8MWkCj0Ed2JT-HJs_Wegg"/>
-                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_t8MWkij0Ed2JT-HJs_Wegg" covered="_zhfAkCjzEd2JT-HJs_Wegg" event="_xMqBwij0Ed2JT-HJs_Wegg" message="_t8MWkCj0Ed2JT-HJs_Wegg"/>
+                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_t8MWkSj0Ed2JT-HJs_Wegg" covered="_Pk-GECDIEd2QC6lTKoXgfA" event="_pJBSoSDJEd2QC6lTKoXgfA" message="_t8MWkCj0Ed2JT-HJs_Wegg"/>
+                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_t8MWkij0Ed2JT-HJs_Wegg" covered="_zhfAkCjzEd2JT-HJs_Wegg" event="_pJBSoiDJEd2QC6lTKoXgfA" message="_t8MWkCj0Ed2JT-HJs_Wegg"/>
                     <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_t8MWlij0Ed2JT-HJs_Wegg" covered="_zhfAkCjzEd2JT-HJs_Wegg" start="_t8MWkij0Ed2JT-HJs_Wegg" finish="_t8MWlyj0Ed2JT-HJs_Wegg"/>
                     <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_zlsVsSj0Ed2JT-HJs_Wegg" covered="_zhfAkCjzEd2JT-HJs_Wegg" event="_0RgS0Sj0Ed2JT-HJs_Wegg" message="_zlsVsCj0Ed2JT-HJs_Wegg"/>
                     <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_zlsVsij0Ed2JT-HJs_Wegg" covered="_6i504CjzEd2JT-HJs_Wegg" event="_0RgS0ij0Ed2JT-HJs_Wegg" message="_zlsVsCj0Ed2JT-HJs_Wegg"/>
                     <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_zlsVtij0Ed2JT-HJs_Wegg" covered="_6i504CjzEd2JT-HJs_Wegg" start="_zlsVsij0Ed2JT-HJs_Wegg" finish="_zlsVtyj0Ed2JT-HJs_Wegg"/>
                     <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_zlsVtyj0Ed2JT-HJs_Wegg" covered="_6i504CjzEd2JT-HJs_Wegg" event="_0RgS0Sj0Ed2JT-HJs_Wegg" message="_zlsVuCj0Ed2JT-HJs_Wegg"/>
                     <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_zlsVuSj0Ed2JT-HJs_Wegg" covered="_zhfAkCjzEd2JT-HJs_Wegg" event="_0RgS0ij0Ed2JT-HJs_Wegg" message="_zlsVuCj0Ed2JT-HJs_Wegg"/>
-                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_t8MWlyj0Ed2JT-HJs_Wegg" covered="_zhfAkCjzEd2JT-HJs_Wegg" event="_xMqBwSj0Ed2JT-HJs_Wegg" message="_t8MWmCj0Ed2JT-HJs_Wegg"/>
-                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_t8MWmSj0Ed2JT-HJs_Wegg" covered="_Pk-GECDIEd2QC6lTKoXgfA" event="_xMqBwij0Ed2JT-HJs_Wegg" message="_t8MWmCj0Ed2JT-HJs_Wegg"/>
+                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_t8MWlyj0Ed2JT-HJs_Wegg" covered="_zhfAkCjzEd2JT-HJs_Wegg" event="_pJBSoSDJEd2QC6lTKoXgfA" message="_t8MWmCj0Ed2JT-HJs_Wegg"/>
+                    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_t8MWmSj0Ed2JT-HJs_Wegg" covered="_Pk-GECDIEd2QC6lTKoXgfA" event="_pJBSoiDJEd2QC6lTKoXgfA" message="_t8MWmCj0Ed2JT-HJs_Wegg"/>
                   </operand>
                 </fragment>
               </operand>
@@ -13703,7 +13703,7 @@
           <ownedAttribute xmi:id="_7yiYICjwEd2JT-HJs_Wegg" name="cercador" type="_BA2hQCXqEd2w77SGMUcvww" end="_8lMkJSjwEd2JT-HJs_Wegg _PhaWhCjxEd2JT-HJs_Wegg"/>
           <ownedAttribute xmi:id="_O5xHsCjxEd2JT-HJs_Wegg" name="ctrlContrTransportEspecialHome" type="_hxNu0CjxEd2JT-HJs_Wegg" end="_PhaWhSjxEd2JT-HJs_Wegg _Vvtr0ijxEd2JT-HJs_Wegg"/>
           <ownedAttribute xmi:id="_U15u8SjxEd2JT-HJs_Wegg" name="contrTransportEspecial" type="_doatcCjxEd2JT-HJs_Wegg" end="_Vvtr0yjxEd2JT-HJs_Wegg _cTz1hSjyEd2JT-HJs_Wegg"/>
-          <ownedAttribute xmi:id="_zhfAkSjzEd2JT-HJs_Wegg" name="contractacioTransporEspecial2" type="_mXB40CjwEd2JT-HJs_Wegg" end="_9keIdSjzEd2JT-HJs_Wegg _E_XzxCj0Ed2JT-HJs_Wegg _t8MWlSj0Ed2JT-HJs_Wegg _zlsVtCj0Ed2JT-HJs_Wegg"/>
+          <ownedAttribute xmi:id="_zhfAkSjzEd2JT-HJs_Wegg" name="contractacioTransporEspecial2" type="_LeM6cCDHEd2QC6lTKoXgfA" end="_9keIdSjzEd2JT-HJs_Wegg _E_XzxCj0Ed2JT-HJs_Wegg _t8MWlSj0Ed2JT-HJs_Wegg _zlsVtCj0Ed2JT-HJs_Wegg"/>
           <ownedAttribute xmi:id="_3PwpISjzEd2JT-HJs_Wegg" name="cercador2" type="_BA2hQCXqEd2w77SGMUcvww" end="_E_hkwCj0Ed2JT-HJs_Wegg _GxEa5Cj0Ed2JT-HJs_Wegg"/>
           <ownedAttribute xmi:id="_598tsSjzEd2JT-HJs_Wegg" name="ctrlContrTransportEspecialHome2" type="_p8BQgCXlEd2w77SGMUcvww" end="_GxEa5Sj0Ed2JT-HJs_Wegg _IcgpASj0Ed2JT-HJs_Wegg"/>
           <ownedAttribute xmi:id="_6i504SjzEd2JT-HJs_Wegg" name="contrTransportEspecial2" type="_v7SEQCXlEd2w77SGMUcvww" end="_IcgpAij0Ed2JT-HJs_Wegg _zlsVtSj0Ed2JT-HJs_Wegg"/>
@@ -19173,7 +19173,7 @@
             <ownedParameter xmi:id="_QFyZ0CHpEd2AX46NLcxjVA" name="Tipus">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             </ownedParameter>
-            <ownedParameter xmi:id="_P4UlkCHpEd2AX46NLcxjVA" name="Alta?">
+            <ownedParameter xmi:id="_P4UlkCHpEd2AX46NLcxjVA" name="Material">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
             </ownedParameter>
             <ownedParameter xmi:id="_PcbTwCHpEd2AX46NLcxjVA" name="Volum">
@@ -19194,7 +19194,29 @@
           <ownedOperation xmi:id="_ROe8UCjxEd2JT-HJs_Wegg" name="create"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Interface" xmi:id="_v7SEQCXlEd2w77SGMUcvww" name="ContrTransportEspecial">
-          <ownedOperation xmi:id="_0RgS0Cj0Ed2JT-HJs_Wegg" name="confirmarPeticio"/>
+          <ownedOperation xmi:id="_0RgS0Cj0Ed2JT-HJs_Wegg" name="confirmarPeticio">
+            <ownedParameter xmi:id="_doWbkClrEd2_g-92KDgBsQ" name="matricula">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_c9F4EClrEd2_g-92KDgBsQ" name="TARA">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_csFnoClrEd2_g-92KDgBsQ" name="TASA">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_ceB9gClrEd2_g-92KDgBsQ" name="volum">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_cUqmIClrEd2_g-92KDgBsQ" name="tipus">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_cKc6MClrEd2_g-92KDgBsQ" name="material">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_b9jtsClrEd2_g-92KDgBsQ" name="confirm" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            </ownedParameter>
+          </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Interface" xmi:id="_bQwYgCY-Ed2K8pZ8EU4P6g" name="CtrlPlanificadorHome">
           <ownedOperation xmi:id="_I3_cACY_Ed2K8pZ8EU4P6g" name="create" visibility="public">
