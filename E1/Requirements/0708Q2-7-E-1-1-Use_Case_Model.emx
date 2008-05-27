@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--xtools2_universal_type_manager-->
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
-<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.0/notation" xmlns:uml="http://www.eclipse.org/uml2/2.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_EpRy4OnFEdyVi_xoU05qOw" name="Use Case">
   <eAnnotations xmi:id="_EpRy4enFEdyVi_xoU05qOw" source="uml2.diagrams"/>
   <eAnnotations xmi:id="_wLqFgPglEdymAcX529PBRQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -84,7 +84,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_IFqRUCDHEd2QC6lTKoXgfA" memberEnd="_IF0CUCDHEd2QC6lTKoXgfA _IF0CUyDHEd2QC6lTKoXgfA" navigableOwnedEnd="_IF0CUCDHEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_IF0CUCDHEd2QC6lTKoXgfA" name="confirmació de petició" visibility="private" association="_IFqRUCDHEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_C5egUCDHEd2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pPlanificacio/Pantalla%20Confirmació%20de%20petició?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-2-Design_Model.emx#_C5egUCDHEd2QC6lTKoXgfA?Design%20Model/Capa%20Presentacio/pPlanificacio/PantallaConfirmacioPeticio?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_IF0CUiDHEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IF0CUSDHEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -107,7 +107,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_HQT9sCDHEd2QC6lTKoXgfA" memberEnd="_HQT9sSDHEd2QC6lTKoXgfA _HQdusCDHEd2QC6lTKoXgfA" navigableOwnedEnd="_HQT9sSDHEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_HQT9sSDHEd2QC6lTKoXgfA" name="llistat de possibilitats" visibility="private" association="_HQT9sCDHEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#__ZDGgCDGEd2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pPlanificacio/Pantalla%20Llistat%20de%20possibilitats?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-2-Design_Model.emx#__ZDGgCDGEd2QC6lTKoXgfA?Design%20Model/Capa%20Presentacio/pPlanificacio/PantallaLlistatPossibilitats?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_HQT9syDHEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_HQT9siDHEd2QC6lTKoXgfA"/>
       </ownedEnd>
@@ -118,7 +118,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_GGP-UCDHEd2QC6lTKoXgfA" memberEnd="_GGZIQCDHEd2QC6lTKoXgfA _GGZIQyDHEd2QC6lTKoXgfA" navigableOwnedEnd="_GGZIQCDHEd2QC6lTKoXgfA">
       <ownedEnd xmi:id="_GGZIQCDHEd2QC6lTKoXgfA" name="pantalla característiques de la petició" visibility="private" association="_GGP-UCDHEd2QC6lTKoXgfA">
-        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-1-Analysis_Model.emx#_4fB6sCDGEd2QC6lTKoXgfA?Analysis%20Model/Capa%20Presentacio/pPlanificacio/Pantalla%20Característiques%20de%20la%20petició?"/>
+        <type xmi:type="uml:Class" href="../Analysis%20and%20Design/0708Q2-7-E-1-2-Design_Model.emx#_4fB6sCDGEd2QC6lTKoXgfA?Design%20Model/Capa%20Presentacio/pPlanificacio/PantallaCaracteristiquesPetició?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_GGZIQiDHEd2QC6lTKoXgfA" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_GGZIQSDHEd2QC6lTKoXgfA"/>
       </ownedEnd>

@@ -19081,6 +19081,9 @@ idComanda = idComanda</body>
           <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_EbeDwCloEd2_g-92KDgBsQ" name="TARA" visibility="private">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedAttribute>
+          <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_SquXwCvZEd2fD-GM0WYvZg" name="preu" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedAttribute>
           <ownedAttribute xmi:type="uml:ExtensionEnd" xmi:id="_DdA3cCloEd2_g-92KDgBsQ" name="Matricula" visibility="private">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedAttribute>
