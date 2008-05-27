@@ -18257,6 +18257,17 @@ idComanda = idComanda</body>
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_0aFT4SwREd2s3-0qq04x1A" showStereotype="Label"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0aFT4iwREd2s3-0qq04x1A" x="529" y="25278"/>
                     </children>
+                    <children xmi:id="_WX12ACwWEd2s3-0qq04x1A" type="Note">
+                      <children xmi:id="_WX12AywWEd2s3-0qq04x1A" type="DiagramName">
+                        <element xsi:nil="true"/>
+                      </children>
+                      <children xmi:id="_WX12BCwWEd2s3-0qq04x1A" type="Description">
+                        <element xsi:nil="true"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_WX12ASwWEd2s3-0qq04x1A" description="Adaptem el format del resultat rebut al que espera l'aplicació i el retornem" fillColor="13369343" lineColor="6737151"/>
+                      <element xsi:nil="true"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WX12AiwWEd2s3-0qq04x1A" x="4913" y="43558" width="5820"/>
+                    </children>
                     <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_4GGSRSvHEd21J6-Nbny-3Q"/>
                   </children>
                   <children xmi:id="_4GGSRivHEd21J6-Nbny-3Q" type="Name"/>
@@ -18807,6 +18818,13 @@ idComanda = idComanda</body>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ddj9UiwWEd2s3-0qq04x1A" points="[0, 0, 0, -10]$[0, 10, 0, 0]"/>
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ddj9VywWEd2s3-0qq04x1A" id="3813:238"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ddj9WCwWEd2s3-0qq04x1A" id="3814:264"/>
+                </edges>
+                <edges xmi:id="_a-ScsCwWEd2s3-0qq04x1A" type="NoteAttachment" source="_hGwFMywVEd2s3-0qq04x1A" target="_WX12ACwWEd2s3-0qq04x1A">
+                  <styles xmi:type="notation:ConnectorStyle" xmi:id="_a-ScsSwWEd2s3-0qq04x1A"/>
+                  <element xsi:nil="true"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_a-ScsiwWEd2s3-0qq04x1A" points="[-164, -28, -8, -103]$[-156, 75, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_a-ScsywWEd2s3-0qq04x1A" id="(1.0,1.0)"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_a-SctCwWEd2s3-0qq04x1A" id="(0.0,0.0)"/>
                 </edges>
               </contents>
             </eAnnotations>
