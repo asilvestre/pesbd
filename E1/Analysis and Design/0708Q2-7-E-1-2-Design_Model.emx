@@ -2113,7 +2113,7 @@
             <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_L5D8KP82Edy9otTkNyh1Pw"/>
           </children>
           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_L46LIv82Edy9otTkNyh1Pw" showStereotype="Label"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L46LI_82Edy9otTkNyh1Pw" x="6019" y="19284"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L46LI_82Edy9otTkNyh1Pw" x="10117" y="19522"/>
         </children>
         <children xmi:id="_NdC3YP82Edy9otTkNyh1Pw" element="_Nc5tcP82Edy9otTkNyh1Pw">
           <children xmi:id="_NdC3Y_82Edy9otTkNyh1Pw" type="ImageCompartment">
@@ -2223,7 +2223,7 @@
             <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_d772T_83Edy9otTkNyh1Pw"/>
           </children>
           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_d772Qf83Edy9otTkNyh1Pw" showStereotype="Label"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d772Qv83Edy9otTkNyh1Pw" x="10010" y="19338"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d772Qv83Edy9otTkNyh1Pw" x="6577" y="19575"/>
         </children>
         <children xmi:id="_B6vQ0P9BEdy9otTkNyh1Pw" element="_dnO3MPnJEdyli_XzYLJ9YQ">
           <children xmi:id="_B6vQ0_9BEdy9otTkNyh1Pw" type="ImageCompartment">
@@ -2847,7 +2847,7 @@
           <children xmi:id="_sd8Rs_84Edy9otTkNyh1Pw" type="NameLabel">
             <children xmi:id="_sd8Rtf84Edy9otTkNyh1Pw" type="Stereotype"/>
             <children xmi:id="_sd8Rtv84Edy9otTkNyh1Pw" type="Name"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sd8RtP84Edy9otTkNyh1Pw" x="764" y="403"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sd8RtP84Edy9otTkNyh1Pw" x="683" y="306"/>
           </children>
           <children xmi:id="_sd8Rt_84Edy9otTkNyh1Pw" type="ToMultiplicityLabel" element="_sdzHwv84Edy9otTkNyh1Pw">
             <children xmi:id="_sd8Ruf84Edy9otTkNyh1Pw" type="ToMultiplicity"/>
@@ -4825,7 +4825,7 @@
       <packagedElement xmi:type="uml:Association" xmi:id="_n0XgkANAEd2UJPas6DJRJg" memberEnd="_n0hRkANAEd2UJPas6DJRJg _n0hRkQNAEd2UJPas6DJRJg"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_7vq2sP81Edy9otTkNyh1Pw" name="Actual" memberEnd="_7vq2sf81Edy9otTkNyh1Pw _7vq2sv81Edy9otTkNyh1Pw"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_ylVYoP82Edy9otTkNyh1Pw" name="Caducitat" memberEnd="_ylVYof82Edy9otTkNyh1Pw _ylVYov82Edy9otTkNyh1Pw"/>
-      <packagedElement xmi:type="uml:Association" xmi:id="_sdzHwP84Edy9otTkNyh1Pw" name="Data Cancelació" memberEnd="_sdzHwf84Edy9otTkNyh1Pw _sdzHwv84Edy9otTkNyh1Pw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_sdzHwP84Edy9otTkNyh1Pw" name="Data Acceptació" memberEnd="_sdzHwf84Edy9otTkNyh1Pw _sdzHwv84Edy9otTkNyh1Pw"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_FgzkIP83Edy9otTkNyh1Pw" name="Entrega Planificada" memberEnd="_FgzkIf83Edy9otTkNyh1Pw _Fg8uEP83Edy9otTkNyh1Pw"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_SLRroP83Edy9otTkNyh1Pw" name="Entrega Real" memberEnd="_SLRrof83Edy9otTkNyh1Pw _SLRrov83Edy9otTkNyh1Pw"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_lkgmoP82Edy9otTkNyh1Pw" name="Historial" memberEnd="_lkgmof82Edy9otTkNyh1Pw _lkgmov82Edy9otTkNyh1Pw"/>
@@ -9470,10 +9470,6 @@ idComanda = idComanda</body>
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_rY80MSjoEd2JT-HJs_Wegg" showStereotype="Label"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rY80MijoEd2JT-HJs_Wegg" x="529" y="8069"/>
                     </children>
-                    <children xmi:id="_s91HUCjoEd2JT-HJs_Wegg" element="_s9hlVijoEd2JT-HJs_Wegg">
-                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_s91HUSjoEd2JT-HJs_Wegg" showStereotype="Label"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s91HUijoEd2JT-HJs_Wegg" x="-1" y="1322" height="1322"/>
-                    </children>
                     <children xmi:id="_yesH0ijoEd2JT-HJs_Wegg" element="_yesH0CjoEd2JT-HJs_Wegg">
                       <children xmi:id="_yesH1SjoEd2JT-HJs_Wegg" type="Name"/>
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_yesH0yjoEd2JT-HJs_Wegg" showStereotype="Label"/>
@@ -9568,6 +9564,18 @@ idComanda = idComanda</body>
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_DgLNQSl1Ed2_g-92KDgBsQ" showStereotype="Label"/>
                       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DgLNQil1Ed2_g-92KDgBsQ" x="-1" y="423"/>
                     </children>
+                    <children xmi:id="_RosqECyJEd21SeqZODTf0Q" element="_Rn9DMCyJEd21SeqZODTf0Q">
+                      <children xmi:id="_RosqEyyJEd21SeqZODTf0Q" element="_Rn9DMSyJEd21SeqZODTf0Q">
+                        <children xmi:id="_RosqFSyJEd21SeqZODTf0Q" element="_RoG0MCyJEd21SeqZODTf0Q">
+                          <children xmi:id="_RosqGCyJEd21SeqZODTf0Q" type="guard"/>
+                          <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_RosqFiyJEd21SeqZODTf0Q" showStereotype="Label"/>
+                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RosqFyyJEd21SeqZODTf0Q"/>
+                        </children>
+                        <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_RosqFCyJEd21SeqZODTf0Q"/>
+                      </children>
+                      <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_RosqESyJEd21SeqZODTf0Q" showStereotype="Label"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RosqEiyJEd21SeqZODTf0Q" x="-1" y="317"/>
+                    </children>
                     <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_8KgKBCjhEd2TepqzqWQHFw"/>
                   </children>
                   <children xmi:id="_8KgKBSjhEd2TepqzqWQHFw" type="Name"/>
@@ -9627,7 +9635,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_s9rWUyjoEd2JT-HJs_Wegg" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_s9rWVCjoEd2JT-HJs_Wegg" points="[0, 0, -348, 0]$[348, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_s9rWWSjoEd2JT-HJs_Wegg" id="740:555"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_s9rWWSjoEd2JT-HJs_Wegg" id="740:899"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_s9rWWijoEd2JT-HJs_Wegg" id="768:0"/>
                 </edges>
                 <edges xmi:id="_s91HUyjoEd2JT-HJs_Wegg" element="_s9rWUCjoEd2JT-HJs_Wegg" source="_rY80MCjoEd2JT-HJs_Wegg" target="_cGYpEijoEd2JT-HJs_Wegg">
@@ -9649,7 +9657,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_0IL1NyjoEd2JT-HJs_Wegg" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_0IL1OCjoEd2JT-HJs_Wegg" points="[0, 0, -677, 0]$[677, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0IL1PSjoEd2JT-HJs_Wegg" id="787:1058"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0IL1PSjoEd2JT-HJs_Wegg" id="787:1402"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0IL1PijoEd2JT-HJs_Wegg" id="821:0"/>
                 </edges>
                 <edges xmi:id="_0IewICjoEd2JT-HJs_Wegg" element="_0IL1NCjoEd2JT-HJs_Wegg" source="_zSimoCjoEd2JT-HJs_Wegg" target="_cGYpEijoEd2JT-HJs_Wegg">
@@ -9702,7 +9710,7 @@ idComanda = idComanda</body>
                     <children xmi:id="_IMY6Nil0Ed2_g-92KDgBsQ" type="Name"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IMY6NCl0Ed2_g-92KDgBsQ" y="-317"/>
                   </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_IMY6MSl0Ed2_g-92KDgBsQ" showStereotype="Text"/>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_IMY6MSl0Ed2_g-92KDgBsQ" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_IMY6Mil0Ed2_g-92KDgBsQ" points="[0, 0, -987, 0]$[987, 0, 0, 0]"/>
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IMY6Nyl0Ed2_g-92KDgBsQ" id="2077:793"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IMY6OCl0Ed2_g-92KDgBsQ" id="2101:0"/>
@@ -9724,7 +9732,7 @@ idComanda = idComanda</body>
                     <children xmi:id="_QyWDZil0Ed2_g-92KDgBsQ" type="Name"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QyWDZCl0Ed2_g-92KDgBsQ" y="-317"/>
                   </children>
-                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_QyWDYSl0Ed2_g-92KDgBsQ" showStereotype="Text"/>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_QyWDYSl0Ed2_g-92KDgBsQ" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QyWDYil0Ed2_g-92KDgBsQ" points="[0, 0, -1273, 0]$[1273, 0, 0, 0]"/>
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QyWDZyl0Ed2_g-92KDgBsQ" id="2117:978"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QyWDaCl0Ed2_g-92KDgBsQ" id="2141:0"/>
@@ -9825,8 +9833,8 @@ idComanda = idComanda</body>
             </ownedConnector>
             <lifeline xmi:id="_RKoGICjoEd2JT-HJs_Wegg" name="ctrlCancelarComandaBean" represents="_RKoGISjoEd2JT-HJs_Wegg" coveredBy="_YrVegSjoEd2JT-HJs_Wegg _YrVeiSjoEd2JT-HJs_Wegg _g9hXISjoEd2JT-HJs_Wegg _g9hXKSjoEd2JT-HJs_Wegg _K5EzESjpEd2JT-HJs_Wegg"/>
             <lifeline xmi:id="_YRHAoCjoEd2JT-HJs_Wegg" name="comandaHome" represents="_YRHAoSjoEd2JT-HJs_Wegg" coveredBy="_YrVegijoEd2JT-HJs_Wegg _YrVehijoEd2JT-HJs_Wegg _YrVehyjoEd2JT-HJs_Wegg"/>
-            <lifeline xmi:id="_cGYpECjoEd2JT-HJs_Wegg" name="comandaBean" represents="_cGYpESjoEd2JT-HJs_Wegg" coveredBy="_g9hXIijoEd2JT-HJs_Wegg _g9hXJijoEd2JT-HJs_Wegg _g9hXJyjoEd2JT-HJs_Wegg _s9hlUSjoEd2JT-HJs_Wegg _s9rWUSjoEd2JT-HJs_Wegg _0ICrQSjoEd2JT-HJs_Wegg _0IL1NSjoEd2JT-HJs_Wegg _2_eLYSjoEd2JT-HJs_Wegg _2_eLaSjoEd2JT-HJs_Wegg _K5EzEyjpEd2JT-HJs_Wegg _IMSzkSl0Ed2_g-92KDgBsQ _IMSzmSl0Ed2_g-92KDgBsQ _QyJ2ISl0Ed2_g-92KDgBsQ _QyP8wil0Ed2_g-92KDgBsQ _DdUGgCl1Ed2_g-92KDgBsQ"/>
-            <lifeline xmi:id="_rYzDMCjoEd2JT-HJs_Wegg" name="contracteBean" represents="_rYzDMSjoEd2JT-HJs_Wegg" coveredBy="_s9hlUijoEd2JT-HJs_Wegg _s9hlVijoEd2JT-HJs_Wegg _s9hlVyjoEd2JT-HJs_Wegg _DdUGgCl1Ed2_g-92KDgBsQ"/>
+            <lifeline xmi:id="_cGYpECjoEd2JT-HJs_Wegg" name="comandaBean" represents="_cGYpESjoEd2JT-HJs_Wegg" coveredBy="_g9hXIijoEd2JT-HJs_Wegg _g9hXJijoEd2JT-HJs_Wegg _g9hXJyjoEd2JT-HJs_Wegg _s9hlUSjoEd2JT-HJs_Wegg _s9rWUSjoEd2JT-HJs_Wegg _0ICrQSjoEd2JT-HJs_Wegg _0IL1NSjoEd2JT-HJs_Wegg _2_eLYSjoEd2JT-HJs_Wegg _2_eLaSjoEd2JT-HJs_Wegg _K5EzEyjpEd2JT-HJs_Wegg _IMSzkSl0Ed2_g-92KDgBsQ _IMSzmSl0Ed2_g-92KDgBsQ _QyJ2ISl0Ed2_g-92KDgBsQ _QyP8wil0Ed2_g-92KDgBsQ _DdUGgCl1Ed2_g-92KDgBsQ _Rn9DMCyJEd21SeqZODTf0Q"/>
+            <lifeline xmi:id="_rYzDMCjoEd2JT-HJs_Wegg" name="contracteBean" represents="_rYzDMSjoEd2JT-HJs_Wegg" coveredBy="_s9hlUijoEd2JT-HJs_Wegg _s9hlVijoEd2JT-HJs_Wegg _s9hlVyjoEd2JT-HJs_Wegg _DdUGgCl1Ed2_g-92KDgBsQ _Rn9DMCyJEd21SeqZODTf0Q"/>
             <lifeline xmi:id="_zSZcsCjoEd2JT-HJs_Wegg" name="clientBean" represents="_zSZcsSjoEd2JT-HJs_Wegg" coveredBy="_0ICrQijoEd2JT-HJs_Wegg _0IL1MijoEd2JT-HJs_Wegg _0IL1MyjoEd2JT-HJs_Wegg _DdUGgCl1Ed2_g-92KDgBsQ"/>
             <lifeline xmi:id="_yesH0CjoEd2JT-HJs_Wegg" name="adreçaBean" represents="_yesH0SjoEd2JT-HJs_Wegg" coveredBy="_2_eLYijoEd2JT-HJs_Wegg _2_eLZijoEd2JT-HJs_Wegg _2_eLZyjoEd2JT-HJs_Wegg _DdUGgCl1Ed2_g-92KDgBsQ"/>
             <lifeline xmi:id="_ErwsECl0Ed2_g-92KDgBsQ" name="adreçaBean3" represents="_ErwsESl0Ed2_g-92KDgBsQ" coveredBy="_IMSzkil0Ed2_g-92KDgBsQ _IMSzlil0Ed2_g-92KDgBsQ _IMSzlyl0Ed2_g-92KDgBsQ _DdUGgCl1Ed2_g-92KDgBsQ"/>
@@ -9841,11 +9849,20 @@ idComanda = idComanda</body>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_g9hXISjoEd2JT-HJs_Wegg" covered="_RKoGICjoEd2JT-HJs_Wegg" event="_oCOI8CjoEd2JT-HJs_Wegg" message="_g9hXICjoEd2JT-HJs_Wegg"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_g9hXIijoEd2JT-HJs_Wegg" covered="_cGYpECjoEd2JT-HJs_Wegg" event="_oCOI8SjoEd2JT-HJs_Wegg" message="_g9hXICjoEd2JT-HJs_Wegg"/>
             <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_g9hXJijoEd2JT-HJs_Wegg" covered="_cGYpECjoEd2JT-HJs_Wegg" start="_g9hXIijoEd2JT-HJs_Wegg" finish="_g9hXJyjoEd2JT-HJs_Wegg"/>
-            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_s9hlUSjoEd2JT-HJs_Wegg" covered="_cGYpECjoEd2JT-HJs_Wegg" event="_BAMcQSIAEd2AX46NLcxjVA" message="_s9hlUCjoEd2JT-HJs_Wegg"/>
-            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_s9hlUijoEd2JT-HJs_Wegg" covered="_rYzDMCjoEd2JT-HJs_Wegg" event="_BAMcQiIAEd2AX46NLcxjVA" message="_s9hlUCjoEd2JT-HJs_Wegg"/>
-            <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_s9hlVijoEd2JT-HJs_Wegg" covered="_rYzDMCjoEd2JT-HJs_Wegg" start="_s9hlUijoEd2JT-HJs_Wegg" finish="_s9hlVyjoEd2JT-HJs_Wegg"/>
-            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_s9hlVyjoEd2JT-HJs_Wegg" covered="_rYzDMCjoEd2JT-HJs_Wegg" event="_BAMcQSIAEd2AX46NLcxjVA" message="_s9rWUCjoEd2JT-HJs_Wegg"/>
-            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_s9rWUSjoEd2JT-HJs_Wegg" covered="_cGYpECjoEd2JT-HJs_Wegg" event="_BAMcQiIAEd2AX46NLcxjVA" message="_s9rWUCjoEd2JT-HJs_Wegg"/>
+            <fragment xmi:type="uml:CombinedFragment" xmi:id="_Rn9DMCyJEd21SeqZODTf0Q" covered="_rYzDMCjoEd2JT-HJs_Wegg _cGYpECjoEd2JT-HJs_Wegg" interactionOperator="opt">
+              <operand xmi:id="_Rn9DMSyJEd21SeqZODTf0Q">
+                <guard xmi:id="_RoG0MCyJEd21SeqZODTf0Q">
+                  <specification xmi:type="uml:OpaqueExpression" xmi:id="_RoG0MSyJEd21SeqZODTf0Q">
+                    <body>Si contracte != null</body>
+                  </specification>
+                </guard>
+                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_s9hlUSjoEd2JT-HJs_Wegg" covered="_cGYpECjoEd2JT-HJs_Wegg" event="_BAMcQSIAEd2AX46NLcxjVA" message="_s9hlUCjoEd2JT-HJs_Wegg"/>
+                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_s9hlUijoEd2JT-HJs_Wegg" covered="_rYzDMCjoEd2JT-HJs_Wegg" event="_BAMcQiIAEd2AX46NLcxjVA" message="_s9hlUCjoEd2JT-HJs_Wegg"/>
+                <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_s9hlVijoEd2JT-HJs_Wegg" covered="_rYzDMCjoEd2JT-HJs_Wegg" start="_s9hlUijoEd2JT-HJs_Wegg" finish="_s9hlVyjoEd2JT-HJs_Wegg"/>
+                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_s9hlVyjoEd2JT-HJs_Wegg" covered="_rYzDMCjoEd2JT-HJs_Wegg" event="_BAMcQSIAEd2AX46NLcxjVA" message="_s9rWUCjoEd2JT-HJs_Wegg"/>
+                <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_s9rWUSjoEd2JT-HJs_Wegg" covered="_cGYpECjoEd2JT-HJs_Wegg" event="_BAMcQiIAEd2AX46NLcxjVA" message="_s9rWUCjoEd2JT-HJs_Wegg"/>
+              </operand>
+            </fragment>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_0ICrQSjoEd2JT-HJs_Wegg" covered="_cGYpECjoEd2JT-HJs_Wegg" event="_WyiuQSIAEd2AX46NLcxjVA" message="_0ICrQCjoEd2JT-HJs_Wegg"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_0ICrQijoEd2JT-HJs_Wegg" covered="_zSZcsCjoEd2JT-HJs_Wegg" event="_WyiuQiIAEd2AX46NLcxjVA" message="_0ICrQCjoEd2JT-HJs_Wegg"/>
             <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_0IL1MijoEd2JT-HJs_Wegg" covered="_zSZcsCjoEd2JT-HJs_Wegg" start="_0ICrQijoEd2JT-HJs_Wegg" finish="_0IL1MyjoEd2JT-HJs_Wegg"/>
@@ -21121,7 +21138,7 @@ idComanda = idComanda</body>
           <ownedAttribute xmi:id="_wHcvAv84Edy9otTkNyh1Pw" name="data" visibility="private" type="_Jz9AYPt-EdyQTa0fFLYTBQ" association="_wHcvAP84Edy9otTkNyh1Pw"/>
           <ownedAttribute xmi:id="_BCfRkAJfEd2iV-WQu0z7XQ" name="Pendent Legalització?" visibility="private"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:Class" xmi:id="_cqRaEP83Edy9otTkNyh1Pw" name="Cancelada">
+        <packagedElement xmi:type="uml:Class" xmi:id="_cqRaEP83Edy9otTkNyh1Pw" name="Acceptada">
           <generalization xmi:id="_evMfMP83Edy9otTkNyh1Pw" general="_2hI8UP81Edy9otTkNyh1Pw"/>
           <ownedAttribute xmi:id="_sdzHwv84Edy9otTkNyh1Pw" name="data" visibility="private" type="_Jz9AYPt-EdyQTa0fFLYTBQ" association="_sdzHwP84Edy9otTkNyh1Pw"/>
         </packagedElement>
@@ -21165,7 +21182,9 @@ idComanda = idComanda</body>
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qhsTQQJgEd2iV-WQu0z7XQ" value="*"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qhsTQAJgEd2iV-WQu0z7XQ"/>
           </ownedAttribute>
-          <ownedOperation xmi:id="_L6dxcCIAEd2AX46NLcxjVA" name="eliminarComanda"/>
+          <ownedOperation xmi:id="_L6dxcCIAEd2AX46NLcxjVA" name="eliminarComanda">
+            <ownedParameter xmi:id="_gGCdYCyJEd21SeqZODTf0Q" name="comanda" type="_6S_FoCXqEd2w77SGMUcvww"/>
+          </ownedOperation>
           <ownedOperation xmi:id="_Hj3yMCRREd2275m_HVu1pQ" name="getAdreça"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_e7-rUPnDEdyli_XzYLJ9YQ" name="ComandaBean" clientDependency="_C1tUoCXrEd2w77SGMUcvww _DS6OACXrEd2w77SGMUcvww">
@@ -21282,7 +21301,9 @@ idComanda = idComanda</body>
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qjQBUQNDEd21DvGULe85wg" value="*"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qjQBUANDEd21DvGULe85wg" value="1"/>
           </ownedAttribute>
-          <ownedOperation xmi:id="_BAMcQCIAEd2AX46NLcxjVA" name="eliminarComanda"/>
+          <ownedOperation xmi:id="_BAMcQCIAEd2AX46NLcxjVA" name="eliminarComanda">
+            <ownedParameter xmi:id="_i_jBICyJEd21SeqZODTf0Q" name="comanda" type="_6S_FoCXqEd2w77SGMUcvww"/>
+          </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_w_LbkADVEd28FtcncL3_MQ" name="EmbalumComandaBean" clientDependency="_gh53wCXrEd2w77SGMUcvww _g3XKYCXrEd2w77SGMUcvww">
           <eAnnotations xmi:id="_48wZ5yXnEd2w77SGMUcvww" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -21305,7 +21326,9 @@ idComanda = idComanda</body>
             <ownedParameter xmi:id="_8I_5ABtKEd2NEcGCsxdGog" name="E" type="_w_LbkADVEd28FtcncL3_MQ"/>
             <ownedParameter xmi:id="_BaQCIBtJEd2NEcGCsxdGog" name="info" type="_asrQABtGEd2NEcGCsxdGog"/>
           </ownedOperation>
-          <ownedOperation xmi:id="_Tad8MCl0Ed2_g-92KDgBsQ" name="eliminarComanda"/>
+          <ownedOperation xmi:id="_Tad8MCl0Ed2_g-92KDgBsQ" name="eliminarComanda">
+            <ownedParameter xmi:id="_uFuEUCyJEd21SeqZODTf0Q" name="comanda" type="_6S_FoCXqEd2w77SGMUcvww"/>
+          </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_2hI8UP81Edy9otTkNyh1Pw" name="EstatComandaBean" isAbstract="true">
           <eAnnotations xmi:id="_48wZ6SXnEd2w77SGMUcvww" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -21313,7 +21336,7 @@ idComanda = idComanda</body>
           </eAnnotations>
           <ownedAttribute xmi:id="_7vq2sf81Edy9otTkNyh1Pw" name="comanda" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_7vq2sP81Edy9otTkNyh1Pw"/>
           <ownedAttribute xmi:id="_lkgmov82Edy9otTkNyh1Pw" name="comanda2" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_lkgmoP82Edy9otTkNyh1Pw"/>
-          <ownedOperation xmi:id="_r8x3YCIAEd2AX46NLcxjVA" name="comandaPlanificada">
+          <ownedOperation xmi:id="_r8x3YCIAEd2AX46NLcxjVA" name="comandaAcceptada" visibility="public">
             <ownedParameter xmi:id="_PqM9UCl5Ed2_g-92KDgBsQ" name="estat" direction="return">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
             </ownedParameter>
@@ -21365,7 +21388,9 @@ idComanda = idComanda</body>
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_NM4SUQNFEd21DvGULe85wg" value="*"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_NM4SUANFEd21DvGULe85wg"/>
           </ownedAttribute>
-          <ownedOperation xmi:id="_lFfMcCl0Ed2_g-92KDgBsQ" name="eliminarEmbalum"/>
+          <ownedOperation xmi:id="_lFfMcCl0Ed2_g-92KDgBsQ" name="eliminarEmbalum">
+            <ownedParameter xmi:id="_nZeOwCyJEd21SeqZODTf0Q" name="embalum" type="_7pt9cCvcEd21JNnSPIhnow"/>
+          </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_bS2yEPnPEdyli_XzYLJ9YQ" name="TipusProducteBean" clientDependency="_tsHPQCXrEd2w77SGMUcvww _uA07ACXrEd2w77SGMUcvww">
           <eAnnotations xmi:id="_486K5CXnEd2w77SGMUcvww" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -21390,7 +21415,9 @@ idComanda = idComanda</body>
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_JsVOMQO9Ed2gVZORqptsVA" value="*"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_JsVOMAO9Ed2gVZORqptsVA"/>
           </ownedAttribute>
-          <ownedOperation xmi:id="_nmg-wCl0Ed2_g-92KDgBsQ" name="eliminarEmbalum"/>
+          <ownedOperation xmi:id="_nmg-wCl0Ed2_g-92KDgBsQ" name="eliminarEmbalum">
+            <ownedParameter xmi:id="_pqTo8CyJEd21SeqZODTf0Q" name="embalum" type="_7pt9cCvcEd21JNnSPIhnow"/>
+          </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_p3RtgCWwEd2O2MssHrGUWw" name="PressupostBean">
           <eAnnotations xmi:id="_48wZ8SXnEd2w77SGMUcvww" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -21410,7 +21437,9 @@ idComanda = idComanda</body>
           <ownedOperation xmi:id="_VOqXAyXtEd2w77SGMUcvww" name="tots" visibility="public"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Interface" xmi:id="_zeO0UCXqEd2w77SGMUcvww" name="TipusEmbalum">
-          <ownedOperation xmi:id="_4lBdYCvcEd21JNnSPIhnow" name="eliminarEmbalum"/>
+          <ownedOperation xmi:id="_4lBdYCvcEd21JNnSPIhnow" name="eliminarEmbalum">
+            <ownedParameter xmi:id="_QEyx4CyKEd21SeqZODTf0Q" name="embalum" type="_7pt9cCvcEd21JNnSPIhnow"/>
+          </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Interface" xmi:id="_4swusCXqEd2w77SGMUcvww" name="ComandaHome" clientDependency="_54o2gCXrEd2w77SGMUcvww">
           <ownedOperation xmi:id="_CbGKUiXtEd2w77SGMUcvww" name="buscar" visibility="public">
@@ -21478,7 +21507,9 @@ idComanda = idComanda</body>
             <ownedParameter xmi:id="_7pkzgSvcEd21JNnSPIhnow" name="E" type="_w_LbkADVEd28FtcncL3_MQ"/>
             <ownedParameter xmi:id="_7pkzgivcEd21JNnSPIhnow" name="info" type="_asrQABtGEd2NEcGCsxdGog"/>
           </ownedOperation>
-          <ownedOperation xmi:id="_7pkzgyvcEd21JNnSPIhnow" name="eliminarComanda"/>
+          <ownedOperation xmi:id="_7pkzgyvcEd21JNnSPIhnow" name="eliminarComanda">
+            <ownedParameter xmi:id="_Mqo_MCyKEd21SeqZODTf0Q" name="comanda" type="_e7-rUPnDEdyli_XzYLJ9YQ"/>
+          </ownedOperation>
           <nestedClassifier xmi:type="uml:Interface" xmi:id="_7pt9cCvcEd21JNnSPIhnow" name="EmbalumComanda"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Realization" xmi:id="_gh53wCXrEd2w77SGMUcvww" supplier="_TyN5ECXrEd2w77SGMUcvww" client="_w_LbkADVEd28FtcncL3_MQ"/>
@@ -21493,7 +21524,9 @@ idComanda = idComanda</body>
           <ownedOperation xmi:id="_VOqXBCXtEd2w77SGMUcvww" name="tots" visibility="public"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Interface" xmi:id="_odIo8CXrEd2w77SGMUcvww" name="TipusProducte">
-          <ownedOperation xmi:id="_2iMC8CvcEd21JNnSPIhnow" name="eliminarEmbalum"/>
+          <ownedOperation xmi:id="_2iMC8CvcEd21JNnSPIhnow" name="eliminarEmbalum">
+            <ownedParameter xmi:id="_SaihQCyKEd21SeqZODTf0Q" name="embalum" type="_7pt9cCvcEd21JNnSPIhnow"/>
+          </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Realization" xmi:id="_tsHPQCXrEd2w77SGMUcvww" supplier="_m_2yoCXrEd2w77SGMUcvww" client="_bS2yEPnPEdyli_XzYLJ9YQ"/>
         <packagedElement xmi:type="uml:Realization" xmi:id="_uA07ACXrEd2w77SGMUcvww" supplier="_odIo8CXrEd2w77SGMUcvww" client="_bS2yEPnPEdyli_XzYLJ9YQ"/>
@@ -21521,7 +21554,13 @@ idComanda = idComanda</body>
         <packagedElement xmi:type="uml:Interface" xmi:id="_kCix0Cc8Ed2DzNXG19kLMw" name="EstatComandaHome">
           <ownedOperation xmi:id="_s1DwUCc8Ed2DzNXG19kLMw" name="create"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:Interface" xmi:id="_l9xvcCc8Ed2DzNXG19kLMw" name="EstatComanda"/>
+        <packagedElement xmi:type="uml:Interface" xmi:id="_l9xvcCc8Ed2DzNXG19kLMw" name="EstatComanda">
+          <ownedOperation xmi:id="_bu3zYCyKEd21SeqZODTf0Q" name="comandaAcceptada" visibility="public">
+            <ownedParameter xmi:id="_bu3zYSyKEd21SeqZODTf0Q" name="estat" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            </ownedParameter>
+          </ownedOperation>
+        </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="__A_VQCc8Ed2DzNXG19kLMw" name="AcceptadaBean" clientDependency="_FGewACdBEd2DzNXG19kLMw _FkSGUCdBEd2DzNXG19kLMw">
           <eAnnotations xmi:id="_EZqDECc9Ed2DzNXG19kLMw" source="http://www.eclipse.org/uml2/2.0.0/UML">
             <details xmi:id="_EZqDESc9Ed2DzNXG19kLMw" key="EntityBean"/>
@@ -21537,7 +21576,9 @@ idComanda = idComanda</body>
         <packagedElement xmi:type="uml:Realization" xmi:id="_FGewACdBEd2DzNXG19kLMw" supplier="_UpwNcCc9Ed2DzNXG19kLMw" client="__A_VQCc8Ed2DzNXG19kLMw"/>
         <packagedElement xmi:type="uml:Realization" xmi:id="_FkSGUCdBEd2DzNXG19kLMw" supplier="_S7fU0Cc9Ed2DzNXG19kLMw" client="__A_VQCc8Ed2DzNXG19kLMw"/>
         <packagedElement xmi:type="uml:Interface" xmi:id="_eiehgCvcEd21JNnSPIhnow" name="Adreça">
-          <ownedOperation xmi:id="_nQ-isCvcEd21JNnSPIhnow" name="eliminarComanda"/>
+          <ownedOperation xmi:id="_nQ-isCvcEd21JNnSPIhnow" name="eliminarComanda">
+            <ownedParameter xmi:id="_xIB-wCyJEd21SeqZODTf0Q" name="comanda" type="_6S_FoCXqEd2w77SGMUcvww"/>
+          </ownedOperation>
           <ownedOperation xmi:id="_nQ-isSvcEd21JNnSPIhnow" name="getAdreça"/>
           <ownedOperation xmi:id="_sDpAcCvcEd21JNnSPIhnow" name="ObtenirDelTipus">
             <ownedParameter xmi:id="_sDpAcSvcEd21JNnSPIhnow" name="llComandes" direction="return">
@@ -21585,7 +21626,9 @@ idComanda = idComanda</body>
           <ownedOperation xmi:id="_lJX9ACvcEd21JNnSPIhnow" name="create"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Interface" xmi:id="_BztagCvdEd21JNnSPIhnow" name="Contracte">
-          <ownedOperation xmi:id="_HqBtoCvdEd21JNnSPIhnow" name="eliminarComanda"/>
+          <ownedOperation xmi:id="_HqBtoCvdEd21JNnSPIhnow" name="eliminarComanda">
+            <ownedParameter xmi:id="_KmLNECyKEd21SeqZODTf0Q" name="comanda" type="_e7-rUPnDEdyli_XzYLJ9YQ"/>
+          </ownedOperation>
         </packagedElement>
         <packagedElement xmi:type="uml:Interface" xmi:id="_DVJ_ICvdEd21JNnSPIhnow" name="ContracteHome"/>
       </packagedElement>
@@ -21610,7 +21653,9 @@ idComanda = idComanda</body>
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             </ownedParameter>
           </ownedOperation>
-          <ownedOperation xmi:id="_MGPZ8yXtEd2w77SGMUcvww" name="eliminarComanda"/>
+          <ownedOperation xmi:id="_MGPZ8yXtEd2w77SGMUcvww" name="eliminarComanda">
+            <ownedParameter xmi:id="_VfTvQCyJEd21SeqZODTf0Q" name="comanda" type="_6S_FoCXqEd2w77SGMUcvww"/>
+          </ownedOperation>
           <ownedOperation xmi:id="_MGPZ9CXtEd2w77SGMUcvww" name="getNom"/>
           <ownedOperation xmi:id="_MGPZ9SXtEd2w77SGMUcvww" name="getComandesClient">
             <ownedParameter xmi:id="_MGPZ9yXtEd2w77SGMUcvww" name="comandes" direction="return"/>
@@ -21676,7 +21721,9 @@ idComanda = idComanda</body>
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             </ownedParameter>
           </ownedOperation>
-          <ownedOperation xmi:id="_WyiuQCIAEd2AX46NLcxjVA" name="eliminarComanda"/>
+          <ownedOperation xmi:id="_WyiuQCIAEd2AX46NLcxjVA" name="eliminarComanda">
+            <ownedParameter xmi:id="_aQeYMCyJEd21SeqZODTf0Q" name="comanda" type="_6S_FoCXqEd2w77SGMUcvww"/>
+          </ownedOperation>
           <ownedOperation xmi:id="_5CvicCKMEd2PyqHmPA90Rg" name="ObteClient">
             <ownedParameter xmi:id="_NNx4YCKNEd2PyqHmPA90Rg" name="CodiClient">
               <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_PS_4cSKNEd2PyqHmPA90Rg" value="1"/>
