@@ -2184,7 +2184,7 @@
             <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_L5D8KP82Edy9otTkNyh1Pw"/>
           </children>
           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_L46LIv82Edy9otTkNyh1Pw" showStereotype="Label"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L46LI_82Edy9otTkNyh1Pw" x="6759" y="14607"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L46LI_82Edy9otTkNyh1Pw" x="10778" y="14582"/>
         </children>
         <children xmi:id="_NdC3YP82Edy9otTkNyh1Pw" element="_Nc5tcP82Edy9otTkNyh1Pw">
           <children xmi:id="_NdC3Y_82Edy9otTkNyh1Pw" type="ImageCompartment">
@@ -2294,7 +2294,7 @@
             <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_d772T_83Edy9otTkNyh1Pw"/>
           </children>
           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_d772Qf83Edy9otTkNyh1Pw" showStereotype="Label"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d772Qv83Edy9otTkNyh1Pw" x="10750" y="14661"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d772Qv83Edy9otTkNyh1Pw" x="7291" y="14582"/>
         </children>
         <children xmi:id="_B6vQ0P9BEdy9otTkNyh1Pw" element="_dnO3MPnJEdyli_XzYLJ9YQ">
           <children xmi:id="_B6vQ0_9BEdy9otTkNyh1Pw" type="ImageCompartment">
@@ -2853,7 +2853,7 @@
           </children>
           <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_FhGfEf83Edy9otTkNyh1Pw" showStereotype="Text"/>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FhGfEv83Edy9otTkNyh1Pw" points="[-105, -397, 1376, 4974]$[-1190, -4313, 291, 1058]"/>
-          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XQ-4sAM-Ed2UJPas6DJRJg" id="(0.46593735,0.12798725)"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XQ-4sAM-Ed2UJPas6DJRJg" id="(0.9555975,0.04882379)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_8XOj0ANEEd21DvGULe85wg" id="(0.4866689,0.9351433)"/>
         </edges>
         <edges xmi:id="_SLbcoP83Edy9otTkNyh1Pw" element="_SLRroP83Edy9otTkNyh1Pw" source="_QVaWMP83Edy9otTkNyh1Pw" target="_NdC3YP82Edy9otTkNyh1Pw">
@@ -2961,7 +2961,7 @@
             <layoutConstraint xmi:type="notation:Location" xmi:id="_sd8R0P84Edy9otTkNyh1Pw" y="1058"/>
           </children>
           <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_sd8Rsf84Edy9otTkNyh1Pw" showStereotype="Text"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_sd8Rsv84Edy9otTkNyh1Pw" points="[-25, -25, 102, 100]$[-130, -150, -3, -25]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_sd8Rsv84Edy9otTkNyh1Pw" points="[-106, -1905, 0, 4207]$[-106, -5424, 0, 688]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_AUPzAANFEd21DvGULe85wg" id="(0.8344107,0.8449283)"/>
         </edges>
         <edges xmi:id="_B65B0P9BEdy9otTkNyh1Pw" element="_e4lxYPnJEdyli_XzYLJ9YQ" source="_wC0f8P8zEdy9otTkNyh1Pw" target="_B6vQ0P9BEdy9otTkNyh1Pw">
@@ -4810,7 +4810,7 @@
       <packagedElement xmi:type="uml:Association" xmi:id="_n0XgkANAEd2UJPas6DJRJg" memberEnd="_n0hRkANAEd2UJPas6DJRJg _n0hRkQNAEd2UJPas6DJRJg"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_7vq2sP81Edy9otTkNyh1Pw" name="Actual" memberEnd="_7vq2sf81Edy9otTkNyh1Pw _7vq2sv81Edy9otTkNyh1Pw"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_ylVYoP82Edy9otTkNyh1Pw" name="Caducitat" memberEnd="_ylVYof82Edy9otTkNyh1Pw _ylVYov82Edy9otTkNyh1Pw"/>
-      <packagedElement xmi:type="uml:Association" xmi:id="_sdzHwP84Edy9otTkNyh1Pw" name="Data Cancelació" memberEnd="_sdzHwf84Edy9otTkNyh1Pw _sdzHwv84Edy9otTkNyh1Pw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_sdzHwP84Edy9otTkNyh1Pw" name="Data Acceptació" memberEnd="_sdzHwf84Edy9otTkNyh1Pw _sdzHwv84Edy9otTkNyh1Pw"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_FgzkIP83Edy9otTkNyh1Pw" name="Entrega Planificada" memberEnd="_FgzkIf83Edy9otTkNyh1Pw _Fg8uEP83Edy9otTkNyh1Pw"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_SLRroP83Edy9otTkNyh1Pw" name="Entrega Real" memberEnd="_SLRrof83Edy9otTkNyh1Pw _SLRrov83Edy9otTkNyh1Pw"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_lkgmoP82Edy9otTkNyh1Pw" name="Historial" memberEnd="_lkgmof82Edy9otTkNyh1Pw _lkgmov82Edy9otTkNyh1Pw"/>
@@ -16421,7 +16421,7 @@
           <ownedAttribute xmi:id="_wHcvAv84Edy9otTkNyh1Pw" name="data" visibility="private" type="_Jz9AYPt-EdyQTa0fFLYTBQ" association="_wHcvAP84Edy9otTkNyh1Pw"/>
           <ownedAttribute xmi:id="_BCfRkAJfEd2iV-WQu0z7XQ" name="Pendent Legalització?" visibility="private"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:Class" xmi:id="_cqRaEP83Edy9otTkNyh1Pw" name="Cancelada">
+        <packagedElement xmi:type="uml:Class" xmi:id="_cqRaEP83Edy9otTkNyh1Pw" name="Acceptada">
           <generalization xmi:id="_evMfMP83Edy9otTkNyh1Pw" general="_2hI8UP81Edy9otTkNyh1Pw"/>
           <ownedAttribute xmi:id="_sdzHwv84Edy9otTkNyh1Pw" name="data" visibility="private" type="_Jz9AYPt-EdyQTa0fFLYTBQ" association="_sdzHwP84Edy9otTkNyh1Pw"/>
         </packagedElement>
@@ -16617,7 +16617,7 @@
         <packagedElement xmi:type="uml:Class" xmi:id="_2hI8UP81Edy9otTkNyh1Pw" name="EstatComanda" isAbstract="true">
           <ownedAttribute xmi:id="_7vq2sf81Edy9otTkNyh1Pw" name="comanda" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_7vq2sP81Edy9otTkNyh1Pw"/>
           <ownedAttribute xmi:id="_lkgmov82Edy9otTkNyh1Pw" name="comanda2" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_lkgmoP82Edy9otTkNyh1Pw"/>
-          <ownedOperation xmi:id="_r8x3YCIAEd2AX46NLcxjVA" name="comandaPlanificada">
+          <ownedOperation xmi:id="_r8x3YCIAEd2AX46NLcxjVA" name="comandaAcceptada" visibility="public">
             <ownedParameter xmi:id="_rMG2UCl9Ed2_g-92KDgBsQ" name="estat" direction="return">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
             </ownedParameter>
