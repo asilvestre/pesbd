@@ -18564,7 +18564,7 @@ idComanda = idComanda</body>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_AAIh4SvOEd21J6-Nbny-3Q" description="Introduim el tipus de producte per si requereix un transport especial" fillColor="13369343" lineColor="6737151"/>
                       <element xsi:nil="true"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AAIh4ivOEd21J6-Nbny-3Q" x="12204" y="8688" width="4813"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AAIh4ivOEd21J6-Nbny-3Q" x="11887" y="6786" width="4813"/>
                     </children>
                     <children xmi:id="_IFEosCvOEd21J6-Nbny-3Q" element="_IE63syvOEd21J6-Nbny-3Q">
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_IFEosSvOEd21J6-Nbny-3Q" showStereotype="Image"/>
@@ -18577,11 +18577,11 @@ idComanda = idComanda</body>
                     </children>
                     <children xmi:id="_4V2r4CvPEd21J6-Nbny-3Q" element="_4Vs65ivPEd21J6-Nbny-3Q">
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_4V2r4SvPEd21J6-Nbny-3Q" showStereotype="Image"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4V2r4ivPEd21J6-Nbny-3Q" x="-1" y="1322" height="476"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4V2r4ivPEd21J6-Nbny-3Q" x="-1" y="1322" height="238"/>
                     </children>
                     <children xmi:id="_-9pfQCvPEd21J6-Nbny-3Q" element="_-9gVUyvPEd21J6-Nbny-3Q">
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_-9pfQSvPEd21J6-Nbny-3Q" showStereotype="Image"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-9pfQivPEd21J6-Nbny-3Q" x="-1" y="1322" height="582"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-9pfQivPEd21J6-Nbny-3Q" x="-1" y="1322" height="238"/>
                     </children>
                     <children xmi:id="_E0uAUCvQEd21J6-Nbny-3Q" type="Note">
                       <children xmi:id="_E0uAUyvQEd21J6-Nbny-3Q" type="DiagramName">
@@ -18603,7 +18603,7 @@ idComanda = idComanda</body>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_7t87ASvNEd21J6-Nbny-3Q" description="Introduim la finestra de temps per el node de recollida" fillColor="13369343" lineColor="6737151"/>
                       <element xsi:nil="true"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7t87AivNEd21J6-Nbny-3Q" x="12204" y="6469" width="4101" height="1561"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7t87AivNEd21J6-Nbny-3Q" x="11887" y="4567" width="4101" height="1561"/>
                     </children>
                     <children xmi:id="_XVP8QivQEd21J6-Nbny-3Q" element="_XVP8QCvQEd21J6-Nbny-3Q">
                       <children xmi:id="_XVP8RSvQEd21J6-Nbny-3Q" type="Name"/>
@@ -18643,7 +18643,7 @@ idComanda = idComanda</body>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_0CdHkSvQEd21J6-Nbny-3Q" description="Introduim la geolocalització" fillColor="13369343" lineColor="6737151"/>
                       <element xsi:nil="true"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0CdHkivQEd21J6-Nbny-3Q" x="12204" y="11224" height="634"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0CdHkivQEd21J6-Nbny-3Q" x="11887" y="8688" height="634"/>
                     </children>
                     <children xmi:id="_5Dw1wCwGEd2s3-0qq04x1A" element="_5BOfICwGEd2s3-0qq04x1A">
                       <children xmi:id="_5Dw1wywGEd2s3-0qq04x1A" element="_5BYQICwGEd2s3-0qq04x1A">
@@ -18661,7 +18661,7 @@ idComanda = idComanda</body>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_6GqdMSwGEd2s3-0qq04x1A" description="Segons els dies que ocupin les finestres de temps d'entrega i recepció donem més pressupostos o menys" fillColor="13369343" lineColor="6737151"/>
                           <element xsi:nil="true"/>
-                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6GqdMiwGEd2s3-0qq04x1A" x="1108" y="-314" width="6321"/>
+                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6GqdMiwGEd2s3-0qq04x1A" x="1267" y="-428" width="6321"/>
                         </children>
                         <children xmi:id="_HW150CwHEd2s3-0qq04x1A" element="_HVpnACwHEd2s3-0qq04x1A">
                           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_HW150SwHEd2s3-0qq04x1A" showStereotype="Label"/>
@@ -18700,7 +18700,7 @@ idComanda = idComanda</body>
                           </children>
                           <styles xmi:type="notation:ShapeStyle" xmi:id="_nNgvcSwSEd2s3-0qq04x1A" description="Afegim les rutes ja planificades" fillColor="13369343" lineColor="6737151"/>
                           <element xsi:nil="true"/>
-                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nNgvciwSEd2s3-0qq04x1A" x="14264" y="2142" height="1031"/>
+                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nNgvciwSEd2s3-0qq04x1A" x="15533" y="6023" height="1031"/>
                         </children>
                         <children xmi:id="_c1jAoCwTEd2s3-0qq04x1A" element="_c09KwCwTEd2s3-0qq04x1A">
                           <children xmi:id="_c1jAoywTEd2s3-0qq04x1A" element="_c09KwSwTEd2s3-0qq04x1A">
@@ -18740,9 +18740,9 @@ idComanda = idComanda</body>
                           <children xmi:id="_NUHdoCwUEd2s3-0qq04x1A" type="Description">
                             <element xsi:nil="true"/>
                           </children>
-                          <styles xmi:type="notation:ShapeStyle" xmi:id="_NT-TsSwUEd2s3-0qq04x1A" description="Posem el parámetre de nombre d'iteracions a un nombre que ens permeti retornar un resultatr ràpidament" fillColor="13369343" lineColor="6737151"/>
+                          <styles xmi:type="notation:ShapeStyle" xmi:id="_NT-TsSwUEd2s3-0qq04x1A" description="Posem el parámetre de nombre d'iteracions a un nombre que ens permeti retornar un resultat ràpidament" fillColor="13369343" lineColor="6737151"/>
                           <element xsi:nil="true"/>
-                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NT-TsiwUEd2s3-0qq04x1A" x="24408" y="14505" width="5369"/>
+                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NT-TsiwUEd2s3-0qq04x1A" x="30272" y="14169" width="5369"/>
                         </children>
                         <children xmi:id="_cF5P4CwUEd2s3-0qq04x1A" element="_cFTaACwUEd2s3-0qq04x1A">
                           <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_cF5P4SwUEd2s3-0qq04x1A" showStereotype="Label"/>
@@ -18767,7 +18767,7 @@ idComanda = idComanda</body>
                         <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_5Dw1xCwGEd2s3-0qq04x1A"/>
                       </children>
                       <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_5Dw1wSwGEd2s3-0qq04x1A" showStereotype="Label"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5Dw1wiwGEd2s3-0qq04x1A" x="159" y="1118" width="32917" height="14129"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5Dw1wiwGEd2s3-0qq04x1A" x="159" y="621" width="35960" height="20743"/>
                     </children>
                     <children xmi:id="_0aFT4CwREd2s3-0qq04x1A" element="_0ZyY8CwREd2s3-0qq04x1A">
                       <children xmi:id="_0aFT4ywREd2s3-0qq04x1A" type="Name"/>
@@ -18783,7 +18783,7 @@ idComanda = idComanda</body>
                       </children>
                       <styles xmi:type="notation:ShapeStyle" xmi:id="_WX12ASwWEd2s3-0qq04x1A" description="Adaptem el format del resultat rebut al que espera l'aplicació i el retornem" fillColor="13369343" lineColor="6737151"/>
                       <element xsi:nil="true"/>
-                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WX12AiwWEd2s3-0qq04x1A" x="4913" y="43558" width="5820"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WX12AiwWEd2s3-0qq04x1A" x="4755" y="34236" width="5820"/>
                     </children>
                     <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_4GGSRSvHEd21J6-Nbny-3Q"/>
                   </children>
@@ -18811,7 +18811,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_V5CkWCvNEd21J6-Nbny-3Q" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_V5CkWSvNEd21J6-Nbny-3Q" points="[0, 0, -249, 0]$[249, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_V5MVVCvNEd21J6-Nbny-3Q" id="277:1852"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_V5MVVCvNEd21J6-Nbny-3Q" id="277:926"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_V5MVVSvNEd21J6-Nbny-3Q" id="303:0"/>
                 </edges>
                 <edges xmi:id="_V5MVWSvNEd21J6-Nbny-3Q" element="_V5CkVSvNEd21J6-Nbny-3Q" source="_Dbfq8CvNEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -18833,7 +18833,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_njB52CvNEd21J6-Nbny-3Q" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_njB52SvNEd21J6-Nbny-3Q" points="[0, 0, -249, 0]$[249, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_njLq0ivNEd21J6-Nbny-3Q" id="363:926"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_njLq0ivNEd21J6-Nbny-3Q" id="363:661"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_njLq0yvNEd21J6-Nbny-3Q" id="397:0"/>
                 </edges>
                 <edges xmi:id="_njU0wCvNEd21J6-Nbny-3Q" element="_njB51SvNEd21J6-Nbny-3Q" source="_Dbfq8CvNEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -18855,7 +18855,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_20bASCvNEd21J6-Nbny-3Q" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_20bASSvNEd21J6-Nbny-3Q" points="[0, 0, -249, 0]$[249, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_20bATivNEd21J6-Nbny-3Q" id="482:978"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_20bATivNEd21J6-Nbny-3Q" id="482:608"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_20bATyvNEd21J6-Nbny-3Q" id="520:0"/>
                 </edges>
                 <edges xmi:id="_20t7MCvNEd21J6-Nbny-3Q" element="_20bARSvNEd21J6-Nbny-3Q" source="_Dbfq8CvNEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -18877,7 +18877,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_IE63uCvOEd21J6-Nbny-3Q" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_IE63uSvOEd21J6-Nbny-3Q" points="[0, 0, -249, 0]$[249, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IE63vivOEd21J6-Nbny-3Q" id="573:1375"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IE63vivOEd21J6-Nbny-3Q" id="573:582"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IE63vyvOEd21J6-Nbny-3Q" id="599:0"/>
                 </edges>
                 <edges xmi:id="_IFOZsCvOEd21J6-Nbny-3Q" element="_IE63tSvOEd21J6-Nbny-3Q" source="_Dbfq8CvNEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -18899,7 +18899,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_4Vs66yvPEd21J6-Nbny-3Q" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4Vs67CvPEd21J6-Nbny-3Q" points="[0, 0, -474, 0]$[474, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4Vs68SvPEd21J6-Nbny-3Q" id="631:1693"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4Vs68SvPEd21J6-Nbny-3Q" id="631:1349"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4Vs68ivPEd21J6-Nbny-3Q" id="673:0"/>
                 </edges>
                 <edges xmi:id="_4V_10CvPEd21J6-Nbny-3Q" element="_4Vs66CvPEd21J6-Nbny-3Q" source="_3etogCvPEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -18910,7 +18910,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_4V_10SvPEd21J6-Nbny-3Q" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4V_10ivPEd21J6-Nbny-3Q" points="[0, 0, 474, 0]$[-474, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4V_11yvPEd21J6-Nbny-3Q" id="674:476"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4V_11yvPEd21J6-Nbny-3Q" id="674:238"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4V_12CvPEd21J6-Nbny-3Q" id="675:0"/>
                 </edges>
                 <edges xmi:id="_-9gVVyvPEd21J6-Nbny-3Q" element="_-9gVUCvPEd21J6-Nbny-3Q" source="_zn-H0CvMEd21J6-Nbny-3Q" target="_3etogCvPEd21J6-Nbny-3Q">
@@ -18921,7 +18921,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-9gVWCvPEd21J6-Nbny-3Q" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-9gVWSvPEd21J6-Nbny-3Q" points="[0, 0, -474, 0]$[474, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-9gVXivPEd21J6-Nbny-3Q" id="697:1005"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-9gVXivPEd21J6-Nbny-3Q" id="697:661"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-9gVXyvPEd21J6-Nbny-3Q" id="743:0"/>
                 </edges>
                 <edges xmi:id="_-9zQQCvPEd21J6-Nbny-3Q" element="_-9gVVSvPEd21J6-Nbny-3Q" source="_3etogCvPEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -18932,7 +18932,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-9zQQSvPEd21J6-Nbny-3Q" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-9zQQivPEd21J6-Nbny-3Q" points="[0, 0, 474, 0]$[-474, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-9zQRyvPEd21J6-Nbny-3Q" id="744:582"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-9zQRyvPEd21J6-Nbny-3Q" id="744:238"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_-9zQSCvPEd21J6-Nbny-3Q" id="745:0"/>
                 </edges>
                 <edges xmi:id="_OuVw0CvQEd21J6-Nbny-3Q" type="NoteAttachment" source="_7t87ACvNEd21J6-Nbny-3Q" target="_V5CkVyvNEd21J6-Nbny-3Q">
@@ -18975,7 +18975,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_i0yhuCvQEd21J6-Nbny-3Q" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_i0yhuSvQEd21J6-Nbny-3Q" points="[0, 0, -759, 0]$[759, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_i07roCvQEd21J6-Nbny-3Q" id="829:1481"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_i07roCvQEd21J6-Nbny-3Q" id="829:873"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_i07roSvQEd21J6-Nbny-3Q" id="869:0"/>
                 </edges>
                 <edges xmi:id="_i1FcoCvQEd21J6-Nbny-3Q" element="_i0yhtSvQEd21J6-Nbny-3Q" source="_XVP8QivQEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -18997,7 +18997,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_lsE36CvQEd21J6-Nbny-3Q" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lsE36SvQEd21J6-Nbny-3Q" points="[0, 0, -759, 0]$[759, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lsE37ivQEd21J6-Nbny-3Q" id="892:1111"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lsE37ivQEd21J6-Nbny-3Q" id="892:608"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lsE37yvQEd21J6-Nbny-3Q" id="930:0"/>
                 </edges>
                 <edges xmi:id="_lsXy0CvQEd21J6-Nbny-3Q" element="_lsE35SvQEd21J6-Nbny-3Q" source="_XVP8QivQEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -19019,7 +19019,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_nwtCGCvQEd21J6-Nbny-3Q" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_nwtCGSvQEd21J6-Nbny-3Q" points="[0, 0, -759, 0]$[759, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nwtCHivQEd21J6-Nbny-3Q" id="968:952"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nwtCHivQEd21J6-Nbny-3Q" id="968:449"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nwtCHyvQEd21J6-Nbny-3Q" id="1004:0"/>
                 </edges>
                 <edges xmi:id="_nw2MAyvQEd21J6-Nbny-3Q" element="_nwtCFSvQEd21J6-Nbny-3Q" source="_XVP8QivQEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -19063,7 +19063,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_wGnkKCvQEd21J6-Nbny-3Q" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wGnkKSvQEd21J6-Nbny-3Q" points="[0, 0, -759, 0]$[759, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wGnkLivQEd21J6-Nbny-3Q" id="1088:820"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wGnkLivQEd21J6-Nbny-3Q" id="1088:449"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wGnkLyvQEd21J6-Nbny-3Q" id="1124:0"/>
                 </edges>
                 <edges xmi:id="_wG7GICvQEd21J6-Nbny-3Q" element="_wGnkJSvQEd21J6-Nbny-3Q" source="_XVP8QivQEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -19085,7 +19085,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xzQFGCvQEd21J6-Nbny-3Q" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xzQFGSvQEd21J6-Nbny-3Q" points="[0, 0, -759, 0]$[759, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xzZ2FCvQEd21J6-Nbny-3Q" id="1156:687"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xzZ2FCvQEd21J6-Nbny-3Q" id="1156:502"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xzZ2FSvQEd21J6-Nbny-3Q" id="1192:0"/>
                 </edges>
                 <edges xmi:id="_xzjnEyvQEd21J6-Nbny-3Q" element="_xzQFFSvQEd21J6-Nbny-3Q" source="_XVP8QivQEd21J6-Nbny-3Q" target="_zn-H0CvMEd21J6-Nbny-3Q">
@@ -19143,7 +19143,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_6cxPFCwREd2s3-0qq04x1A" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6cxPFSwREd2s3-0qq04x1A" points="[0, 0, -992, 0]$[992, 0, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6cxPGiwREd2s3-0qq04x1A" id="512:582"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6cxPGiwREd2s3-0qq04x1A" id="512:238"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_6cxPGywREd2s3-0qq04x1A" id="544:0"/>
                 </edges>
                 <edges xmi:id="_KYdPtywSEd2s3-0qq04x1A" element="_KYdPsCwSEd2s3-0qq04x1A" source="_zn-H0CvMEd21J6-Nbny-3Q" target="_0aFT4CwREd2s3-0qq04x1A">
@@ -19278,7 +19278,7 @@ idComanda = idComanda</body>
                   </children>
                   <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_cFTaBCwUEd2s3-0qq04x1A" showListSignature="true" showStereotype="Text"/>
                   <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_cFTaBSwUEd2s3-0qq04x1A" points="[0, 0, -997, -1]$[997, 1, 0, 0]"/>
-                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cFTaCiwUEd2s3-0qq04x1A" id="1912:2037"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cFTaCiwUEd2s3-0qq04x1A" id="1912:740"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_cFTaCywUEd2s3-0qq04x1A" id="2192:26"/>
                 </edges>
                 <edges xmi:id="_RyjiZiwVEd2s3-0qq04x1A" element="_RyjiYCwVEd2s3-0qq04x1A" source="_0aFT4CwREd2s3-0qq04x1A" target="_0aFT4CwREd2s3-0qq04x1A">
