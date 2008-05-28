@@ -2146,7 +2146,7 @@
                     <children xmi:id="_7lSQxB-kEd2UjNGQ5vZTDg" type="Description">
                       <element xsi:nil="true"/>
                     </children>
-                    <styles xmi:type="notation:ShapeStyle" xmi:id="_7lSQwR-kEd2UjNGQ5vZTDg" description="requestList: TupleType {&#x9; idVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;vehicleType:String &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;loadType:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tamVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;startDay:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;endDay:String }&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" fillColor="13369343" lineColor="6737151"/>
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_7lSQwR-kEd2UjNGQ5vZTDg" description="requestList: TupleType {&#x9; idVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;vehicleType:String &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;loadType:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tamVehicle:String }&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" fillColor="13369343" lineColor="6737151"/>
                     <element xsi:nil="true"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7lSQwh-kEd2UjNGQ5vZTDg" x="30590" y="2348" height="2854"/>
                   </children>
@@ -2157,7 +2157,7 @@
                     <children xmi:id="_Js0VdCBQEd2BP-STTkafEQ" type="Description">
                       <element xsi:nil="true"/>
                     </children>
-                    <styles xmi:type="notation:ShapeStyle" xmi:id="_Js0VcSBQEd2BP-STTkafEQ" description="infoLloguer: TupleType {&#x9; idVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tipusVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tipusCarrega:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tamVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;diaInici:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;diaFi:String }" fillColor="13369343" lineColor="6737151"/>
+                    <styles xmi:type="notation:ShapeStyle" xmi:id="_Js0VcSBQEd2BP-STTkafEQ" description="infoLloguer: TupleType {&#x9; idVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tipusVehicle:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tipusCarrega:String&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;tamVehicle:String}" fillColor="13369343" lineColor="6737151"/>
                     <element xsi:nil="true"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Js0VciBQEd2BP-STTkafEQ" x="-5614" y="3616"/>
                   </children>
