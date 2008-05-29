@@ -18636,6 +18636,17 @@ idComanda = idComanda</body>
                   <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9A-AJy2QEd2NzoqdD1efOQ" id="922:1322"/>
                   <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9A-AKC2QEd2NzoqdD1efOQ" id="923:0"/>
                 </edges>
+                <edges xmi:id="_G4EBFy2REd2NzoqdD1efOQ" element="_G396cC2REd2NzoqdD1efOQ" source="_XY0TEC2QEd2NzoqdD1efOQ" target="_XY0TEC2QEd2NzoqdD1efOQ">
+                  <children xmi:id="_G4EBGi2REd2NzoqdD1efOQ" type="MessageNameLabel">
+                    <children xmi:id="_G4EBHC2REd2NzoqdD1efOQ" type="Stereotype"/>
+                    <children xmi:id="_G4EBHS2REd2NzoqdD1efOQ" type="Name"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G4EBGy2REd2NzoqdD1efOQ" x="-572" y="-1958"/>
+                  </children>
+                  <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_G4EBGC2REd2NzoqdD1efOQ" showStereotype="Text"/>
+                  <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_G4EBGS2REd2NzoqdD1efOQ" points="[0, 0, 0, -23]$[0, 23, 0, 0]"/>
+                  <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_G4EBHi2REd2NzoqdD1efOQ" id="938:1084"/>
+                  <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_G4EBHy2REd2NzoqdD1efOQ" id="970:608"/>
+                </edges>
               </contents>
             </eAnnotations>
             <ownedConnector xmi:id="_On0-lS2QEd2NzoqdD1efOQ">
@@ -18666,10 +18677,14 @@ idComanda = idComanda</body>
               <end xmi:id="_6jG2lC2QEd2NzoqdD1efOQ" role="_yUTc0SWzEd2O2MssHrGUWw"/>
               <end xmi:id="_6jG2lS2QEd2NzoqdD1efOQ" role="_ssIxoS2OEd2NzoqdD1efOQ"/>
             </ownedConnector>
+            <ownedConnector xmi:id="_G4EBEC2REd2NzoqdD1efOQ">
+              <end xmi:id="_G4EBES2REd2NzoqdD1efOQ" role="_yUTc0SWzEd2O2MssHrGUWw"/>
+              <end xmi:id="_G4EBEi2REd2NzoqdD1efOQ" role="_yUTc0SWzEd2O2MssHrGUWw"/>
+            </ownedConnector>
             <lifeline xmi:id="_FjoaMC2QEd2NzoqdD1efOQ" represents="_Q2togCWvEd2O2MssHrGUWw" coveredBy="_On0-kS2QEd2NzoqdD1efOQ"/>
             <lifeline xmi:id="_GUJRIC2QEd2NzoqdD1efOQ" represents="_9uonkSWyEd2O2MssHrGUWw" coveredBy="_On0-ky2QEd2NzoqdD1efOQ _P-pAgS2QEd2NzoqdD1efOQ _P-pAgi2QEd2NzoqdD1efOQ _P-pAhi2QEd2NzoqdD1efOQ _P-pAhy2QEd2NzoqdD1efOQ _eNj9US2QEd2NzoqdD1efOQ"/>
             <lifeline xmi:id="_WnEGAC2QEd2NzoqdD1efOQ" represents="_KkA-kSWzEd2O2MssHrGUWw" coveredBy="_eNj9Uy2QEd2NzoqdD1efOQ _mkAq4S2QEd2NzoqdD1efOQ _mkAq6S2QEd2NzoqdD1efOQ _38D70S2QEd2NzoqdD1efOQ"/>
-            <lifeline xmi:id="_XYuMcC2QEd2NzoqdD1efOQ" represents="_yUTc0SWzEd2O2MssHrGUWw" coveredBy="_38D70y2QEd2NzoqdD1efOQ _6jG2kS2QEd2NzoqdD1efOQ _6jG2mS2QEd2NzoqdD1efOQ"/>
+            <lifeline xmi:id="_XYuMcC2QEd2NzoqdD1efOQ" represents="_yUTc0SWzEd2O2MssHrGUWw" coveredBy="_38D70y2QEd2NzoqdD1efOQ _6jG2kS2QEd2NzoqdD1efOQ _6jG2mS2QEd2NzoqdD1efOQ _G396cS2REd2NzoqdD1efOQ _G396ci2REd2NzoqdD1efOQ _G4EBEy2REd2NzoqdD1efOQ _G4EBFC2REd2NzoqdD1efOQ"/>
             <lifeline xmi:id="_iUldEC2QEd2NzoqdD1efOQ" represents="_ssIxoS2OEd2NzoqdD1efOQ" coveredBy="_mkAq4i2QEd2NzoqdD1efOQ _mkAq5i2QEd2NzoqdD1efOQ _mkAq5y2QEd2NzoqdD1efOQ _zFSaIS2QEd2NzoqdD1efOQ _zFZH1i2QEd2NzoqdD1efOQ _6jG2ki2QEd2NzoqdD1efOQ _6jG2li2QEd2NzoqdD1efOQ _6jG2ly2QEd2NzoqdD1efOQ _9ArsQS2QEd2NzoqdD1efOQ _9ArsRi2QEd2NzoqdD1efOQ"/>
             <lifeline xmi:id="_IjZ-AC2QEd2NzoqdD1efOQ" represents="_KT5gsS2PEd2NzoqdD1efOQ" coveredBy="_zFSaIi2QEd2NzoqdD1efOQ _zFZH0y2QEd2NzoqdD1efOQ _zFZH1C2QEd2NzoqdD1efOQ _9ArsQi2QEd2NzoqdD1efOQ _9ArsQy2QEd2NzoqdD1efOQ _9ArsRC2QEd2NzoqdD1efOQ"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_On0-kS2QEd2NzoqdD1efOQ" covered="_FjoaMC2QEd2NzoqdD1efOQ" event="_On0-ki2QEd2NzoqdD1efOQ" message="_On0-kC2QEd2NzoqdD1efOQ"/>
@@ -18702,6 +18717,10 @@ idComanda = idComanda</body>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_9ArsRi2QEd2NzoqdD1efOQ" covered="_iUldEC2QEd2NzoqdD1efOQ" event="_-lV88i2QEd2NzoqdD1efOQ" message="_9ArsRS2QEd2NzoqdD1efOQ"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_6jG2ly2QEd2NzoqdD1efOQ" covered="_iUldEC2QEd2NzoqdD1efOQ" event="_7nxYkS2QEd2NzoqdD1efOQ" message="_6jG2mC2QEd2NzoqdD1efOQ"/>
             <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_6jG2mS2QEd2NzoqdD1efOQ" covered="_XYuMcC2QEd2NzoqdD1efOQ" event="_7nxYki2QEd2NzoqdD1efOQ" message="_6jG2mC2QEd2NzoqdD1efOQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_G396cS2REd2NzoqdD1efOQ" covered="_XYuMcC2QEd2NzoqdD1efOQ" event="_mVx_4SW0Ed2O2MssHrGUWw" message="_G396cC2REd2NzoqdD1efOQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_G396ci2REd2NzoqdD1efOQ" covered="_XYuMcC2QEd2NzoqdD1efOQ" event="_mVx_4iW0Ed2O2MssHrGUWw" message="_G396cC2REd2NzoqdD1efOQ"/>
+            <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_G4EBEy2REd2NzoqdD1efOQ" covered="_XYuMcC2QEd2NzoqdD1efOQ" start="_G396ci2REd2NzoqdD1efOQ" finish="_G4EBFC2REd2NzoqdD1efOQ"/>
+            <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_G4EBFC2REd2NzoqdD1efOQ" covered="_XYuMcC2QEd2NzoqdD1efOQ" event="_mVx_4SW0Ed2O2MssHrGUWw"/>
             <message xmi:id="_On0-kC2QEd2NzoqdD1efOQ" name="\Unspecified\" messageSort="createMessage" receiveEvent="_On0-ky2QEd2NzoqdD1efOQ" sendEvent="_On0-kS2QEd2NzoqdD1efOQ" connector="_On0-lS2QEd2NzoqdD1efOQ"/>
             <message xmi:id="_P-pAgC2QEd2NzoqdD1efOQ" name="llistarPressuposts" receiveEvent="_P-pAgi2QEd2NzoqdD1efOQ" sendEvent="_P-pAgS2QEd2NzoqdD1efOQ" connector="_P-pAgy2QEd2NzoqdD1efOQ"/>
             <message xmi:id="_eNj9UC2QEd2NzoqdD1efOQ" name="\Unspecified\" messageSort="createMessage" receiveEvent="_eNj9Uy2QEd2NzoqdD1efOQ" sendEvent="_eNj9US2QEd2NzoqdD1efOQ" connector="_eNj9VS2QEd2NzoqdD1efOQ"/>
@@ -18714,6 +18733,7 @@ idComanda = idComanda</body>
             <message xmi:id="_6jG2mC2QEd2NzoqdD1efOQ" name="generarFactura" messageSort="reply" receiveEvent="_6jG2mS2QEd2NzoqdD1efOQ" sendEvent="_6jG2ly2QEd2NzoqdD1efOQ" connector="_6jG2ky2QEd2NzoqdD1efOQ"/>
             <message xmi:id="_9ArsQC2QEd2NzoqdD1efOQ" name="generarFactura" receiveEvent="_9ArsQi2QEd2NzoqdD1efOQ" sendEvent="_9ArsQS2QEd2NzoqdD1efOQ" connector="_zFZH0C2QEd2NzoqdD1efOQ"/>
             <message xmi:id="_9ArsRS2QEd2NzoqdD1efOQ" name="generarFactura" messageSort="reply" receiveEvent="_9ArsRi2QEd2NzoqdD1efOQ" sendEvent="_9ArsRC2QEd2NzoqdD1efOQ" connector="_zFZH0C2QEd2NzoqdD1efOQ"/>
+            <message xmi:id="_G396cC2REd2NzoqdD1efOQ" name="mostrarDetallsPressupostFactura" receiveEvent="_G396ci2REd2NzoqdD1efOQ" sendEvent="_G396cS2REd2NzoqdD1efOQ" connector="_G4EBEC2REd2NzoqdD1efOQ"/>
           </ownedBehavior>
           <ownedAttribute xmi:id="_Q2togCWvEd2O2MssHrGUWw" name="pantallaCercarPressupost" type="_GqV7ICWvEd2O2MssHrGUWw" end="_dJeIsyWxEd2O2MssHrGUWw _BxtbdiWzEd2O2MssHrGUWw _TD2mxSW1Ed2O2MssHrGUWw _NBDqgy2PEd2NzoqdD1efOQ _On0-li2QEd2NzoqdD1efOQ"/>
           <ownedAttribute xmi:id="_UcTkQSWxEd2O2MssHrGUWw" name="" type="_rc9uYCWvEd2O2MssHrGUWw" end="_dJeItCWxEd2O2MssHrGUWw _G8CnxCWyEd2O2MssHrGUWw _kc_kNCWyEd2O2MssHrGUWw"/>
@@ -18722,7 +18742,7 @@ idComanda = idComanda</body>
           <ownedAttribute xmi:id="_tcdPASWxEd2O2MssHrGUWw" name="client" type="_y_7_UPm3Edyli_XzYLJ9YQ" end="_G8CnxSWyEd2O2MssHrGUWw"/>
           <ownedAttribute xmi:id="_9uonkSWyEd2O2MssHrGUWw" name="pantallaSeleccionarPressupost" type="_9Zr9MCWwEd2O2MssHrGUWw" end="_BxtbdyWzEd2O2MssHrGUWw _FyqvdCWzEd2O2MssHrGUWw _FyqvdSWzEd2O2MssHrGUWw _LwD69iWzEd2O2MssHrGUWw _On0-ly2QEd2NzoqdD1efOQ _P-pAhC2QEd2NzoqdD1efOQ _P-pAhS2QEd2NzoqdD1efOQ _eNj9Vi2QEd2NzoqdD1efOQ"/>
           <ownedAttribute xmi:id="_KkA-kSWzEd2O2MssHrGUWw" name="pantallaDetallsPressupost" type="_DNzQ4CWxEd2O2MssHrGUWw" end="_LwD69yWzEd2O2MssHrGUWw _kwKiZCWzEd2O2MssHrGUWw _kwKiZSWzEd2O2MssHrGUWw _zu7nxiWzEd2O2MssHrGUWw _eNj9Vy2QEd2NzoqdD1efOQ _mkAq5C2QEd2NzoqdD1efOQ _38D71i2QEd2NzoqdD1efOQ"/>
-          <ownedAttribute xmi:id="_yUTc0SWzEd2O2MssHrGUWw" name="pantallaComandaDonadaAlta" type="_LgEpECWxEd2O2MssHrGUWw" end="_zu7nxyWzEd2O2MssHrGUWw _EB2coSW0Ed2O2MssHrGUWw _kCFe9CW0Ed2O2MssHrGUWw _kCFe9SW0Ed2O2MssHrGUWw _TD2mxCW1Ed2O2MssHrGUWw _38KCcC2QEd2NzoqdD1efOQ _6jG2lC2QEd2NzoqdD1efOQ"/>
+          <ownedAttribute xmi:id="_yUTc0SWzEd2O2MssHrGUWw" name="pantallaComandaDonadaAlta" type="_LgEpECWxEd2O2MssHrGUWw" end="_zu7nxyWzEd2O2MssHrGUWw _EB2coSW0Ed2O2MssHrGUWw _kCFe9CW0Ed2O2MssHrGUWw _kCFe9SW0Ed2O2MssHrGUWw _TD2mxCW1Ed2O2MssHrGUWw _38KCcC2QEd2NzoqdD1efOQ _6jG2lC2QEd2NzoqdD1efOQ _G4EBES2REd2NzoqdD1efOQ _G4EBEi2REd2NzoqdD1efOQ"/>
           <ownedAttribute xmi:id="_CMQM8SW0Ed2O2MssHrGUWw" name="" type="_rc9uYCWvEd2O2MssHrGUWw" end="_EB2coiW0Ed2O2MssHrGUWw _ZHYE5iW0Ed2O2MssHrGUWw"/>
           <ownedAttribute xmi:id="_XsmwASW0Ed2O2MssHrGUWw" name="factura" type="_dnO3MPnJEdyli_XzYLJ9YQ" end="_ZHYE5yW0Ed2O2MssHrGUWw"/>
           <ownedAttribute xmi:id="_ssIxoS2OEd2NzoqdD1efOQ" name="servAltaComanda" type="_qjj7kC2OEd2NzoqdD1efOQ" end="_NBDqhC2PEd2NzoqdD1efOQ _ccF1JC2PEd2NzoqdD1efOQ _k07IVC2PEd2NzoqdD1efOQ _mkAq5S2QEd2NzoqdD1efOQ _zFZH0S2QEd2NzoqdD1efOQ _6jG2lS2QEd2NzoqdD1efOQ"/>
