@@ -1938,7 +1938,7 @@
     </eAnnotations>
   </LogicalDataModel:Package>
   <LogicalDataModel:Entity xmi:id="_3lCEYCcYEd2uG6BSdnVAJA" name="Comanda" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_3rFZESfIEd2TMNqSrSDvqA _6i_aUifIEd2TMNqSrSDvqA _LjbnESfKEd2TMNqSrSDvqA _aKDSMifKEd2TMNqSrSDvqA _kMWWMi8gEd2B2_Qp2ULqzg" relationships="_6i_aUCfIEd2TMNqSrSDvqA _aKDSMCfKEd2TMNqSrSDvqA _kMWWMC8gEd2B2_Qp2ULqzg">
-    <attributes xmi:id="_mhrboCcZEd2uG6BSdnVAJA" name="preu" dataType="CHAR(5)"/>
+    <attributes xmi:id="_mhrboCcZEd2uG6BSdnVAJA" name="preu" dataType="INTEGER"/>
     <attributes xmi:id="_7mggUCcZEd2uG6BSdnVAJA" name="idComanda" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_RXlxkCcbEd2uG6BSdnVAJA" name="data" dataType="DATE"/>
     <attributes xmi:id="_6jSVQCfIEd2TMNqSrSDvqA" name="idEstat" dataType="INTEGER" required="true"/>
@@ -1960,7 +1960,7 @@
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_3rFZEyfIEd2TMNqSrSDvqA" name="Clave externa1" attributes="_3rPKECfIEd2TMNqSrSDvqA" relationshipEnds="_3rFZEifIEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_rcs5QCcbEd2uG6BSdnVAJA" name="Embalum" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_LjbnEifKEd2TMNqSrSDvqA _3OT2IS8eEd2B2_Qp2ULqzg" relationships="_LjbnECfKEd2TMNqSrSDvqA">
-    <attributes xmi:id="_FJgOoCccEd2uG6BSdnVAJA" name="idEmbalum" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_FJgOoCccEd2uG6BSdnVAJA" name="idEmbalum" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_LjuiACfKEd2TMNqSrSDvqA" name="idComanda" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_FJgOpiccEd2uG6BSdnVAJA" name="Clave primaria" attributes="_FJgOoCccEd2uG6BSdnVAJA" relationshipEnds="_3OT2IS8eEd2B2_Qp2ULqzg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_LjkxACfKEd2TMNqSrSDvqA" name="Clave externa1" attributes="_LjuiACfKEd2TMNqSrSDvqA" relationshipEnds="_LjbnEifKEd2TMNqSrSDvqA"/>
@@ -1978,23 +1978,23 @@
     <relationshipEnds xmi:id="_LjbnEifKEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_rcs5QCcbEd2uG6BSdnVAJA" key="_LjkxACfKEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_1ksCYCfKEd2TMNqSrSDvqA" name="Zona" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_C2in4S77Ed2kt-7fPNK39w">
-    <attributes xmi:id="_FVpZsCfLEd2TMNqSrSDvqA" name="idZona" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_GFMAQCfLEd2TMNqSrSDvqA" name="nom" dataType="CHAR(5)"/>
+    <attributes xmi:id="_FVpZsCfLEd2TMNqSrSDvqA" name="idZona" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_GFMAQCfLEd2TMNqSrSDvqA" name="nom" dataType="CHAR(10)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_FVzKtSfLEd2TMNqSrSDvqA" name="Clave primaria" attributes="_FVpZsCfLEd2TMNqSrSDvqA" relationshipEnds="_C2in4S77Ed2kt-7fPNK39w"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_eWGmcCfLEd2TMNqSrSDvqA" name="Pais" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_E6tfES77Ed2kt-7fPNK39w">
-    <attributes xmi:id="_fMW5ACfLEd2TMNqSrSDvqA" name="idPais" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_gQ6tUCfLEd2TMNqSrSDvqA" name="nom" dataType="CHAR(5)"/>
+    <attributes xmi:id="_fMW5ACfLEd2TMNqSrSDvqA" name="idPais" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_gQ6tUCfLEd2TMNqSrSDvqA" name="nom" dataType="CHAR(10)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_fMgC9SfLEd2TMNqSrSDvqA" name="Clave primaria" attributes="_fMW5ACfLEd2TMNqSrSDvqA" relationshipEnds="_E6tfES77Ed2kt-7fPNK39w"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_PN01MCfKEd2TMNqSrSDvqA" name="Contracte" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_aKDSMSfKEd2TMNqSrSDvqA _2_P0gifNEd2TMNqSrSDvqA _xPyh4ifOEd2TMNqSrSDvqA _z5DqMSfOEd2TMNqSrSDvqA _BI1BsSfQEd2TMNqSrSDvqA _8lH7EifREd2TMNqSrSDvqA _CaH_kifSEd2TMNqSrSDvqA _ivgkwi8gEd2B2_Qp2ULqzg" relationships="_2_P0gCfNEd2TMNqSrSDvqA _xPyh4CfOEd2TMNqSrSDvqA _8lH7ECfREd2TMNqSrSDvqA _CaH_kCfSEd2TMNqSrSDvqA _ivgkwC8gEd2B2_Qp2ULqzg">
     <attributes xmi:id="_Ql5bYCfKEd2TMNqSrSDvqA" name="idContracte" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_eCTWICfKEd2TMNqSrSDvqA" name="tipus" dataType="INTEGER"/>
     <attributes xmi:id="_hbuJACfKEd2TMNqSrSDvqA" name="preu" dataType="FLOAT"/>
-    <attributes xmi:id="_2_ivcCfNEd2TMNqSrSDvqA" name="idPeriodicitat" dataType="CHAR(5)"/>
-    <attributes xmi:id="_xQFc0CfOEd2TMNqSrSDvqA" name="idEstatContracte" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_8la2ACfREd2TMNqSrSDvqA" name="idAdreçaOrigen" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_Caa6gCfSEd2TMNqSrSDvqA" name="idAdreçaDesti" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_2_ivcCfNEd2TMNqSrSDvqA" name="idPeriodicitat" dataType="INTEGER"/>
+    <attributes xmi:id="_xQFc0CfOEd2TMNqSrSDvqA" name="idEstatContracte" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_8la2ACfREd2TMNqSrSDvqA" name="idAdreçaOrigen" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_Caa6gCfSEd2TMNqSrSDvqA" name="idAdreçaDesti" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_ivgkxC8gEd2B2_Qp2ULqzg" name="idClient" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_QmDMYCfKEd2TMNqSrSDvqA" name="Clave primaria" attributes="_Ql5bYCfKEd2TMNqSrSDvqA" relationshipEnds="_aKDSMSfKEd2TMNqSrSDvqA _z5DqMSfOEd2TMNqSrSDvqA _BI1BsSfQEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_2_Y-cCfNEd2TMNqSrSDvqA" name="Clave externa8" attributes="_2_ivcCfNEd2TMNqSrSDvqA" relationshipEnds="_2_P0gifNEd2TMNqSrSDvqA"/>
@@ -2008,25 +2008,25 @@
     <relationshipEnds xmi:id="_aKDSMifKEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_3lCEYCcYEd2uG6BSdnVAJA" key="_aKDSMyfKEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_rHo_QCfLEd2TMNqSrSDvqA" name="Poblacio" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_GmS3IS77Ed2kt-7fPNK39w">
-    <attributes xmi:id="_r_YfkCfLEd2TMNqSrSDvqA" name="idPoblacio" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_svFeMCfLEd2TMNqSrSDvqA" name="nom" dataType="CHAR(5)"/>
+    <attributes xmi:id="_r_YfkCfLEd2TMNqSrSDvqA" name="idPoblacio" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_svFeMCfLEd2TMNqSrSDvqA" name="nom" dataType="CHAR(10)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_r_iQlSfLEd2TMNqSrSDvqA" name="Clave primaria" attributes="_r_YfkCfLEd2TMNqSrSDvqA" relationshipEnds="_GmS3IS77Ed2kt-7fPNK39w"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_XrghQCfMEd2TMNqSrSDvqA" name="Persona" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_H26tgSfUEd2TMNqSrSDvqA _A_MLQifVEd2TMNqSrSDvqA _aj4nIS8gEd2B2_Qp2ULqzg _IeSBwS8iEd2B2_Qp2ULqzg" relationships="_A_MLQCfVEd2TMNqSrSDvqA">
-    <attributes xmi:id="_ctl7ECfMEd2TMNqSrSDvqA" name="idPersona" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_6sOSACfMEd2TMNqSrSDvqA" name="nom" dataType="CHAR(5)"/>
-    <attributes xmi:id="_7d2jQCfMEd2TMNqSrSDvqA" name="cognoms" dataType="CHAR(5)"/>
-    <attributes xmi:id="_9jGYgCfMEd2TMNqSrSDvqA" name="telefon" dataType="CHAR(5)"/>
-    <attributes xmi:id="_8P0g0CfOEd2TMNqSrSDvqA" name="comptecurrent" dataType="CHAR(5)"/>
-    <attributes xmi:id="_A_ftQCfVEd2TMNqSrSDvqA" name="idAdreça" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_IpL0wC8jEd2B2_Qp2ULqzg" name="tipus" dataType="INTEGER"/>
+    <attributes xmi:id="_ctl7ECfMEd2TMNqSrSDvqA" name="idPersona" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_6sOSACfMEd2TMNqSrSDvqA" name="nom" dataType="CHAR(15)"/>
+    <attributes xmi:id="_7d2jQCfMEd2TMNqSrSDvqA" name="cognoms" dataType="CHAR(30)"/>
+    <attributes xmi:id="_9jGYgCfMEd2TMNqSrSDvqA" name="telefon" dataType="INTEGER"/>
+    <attributes xmi:id="_8P0g0CfOEd2TMNqSrSDvqA" name="comptecurrent" dataType="INTEGER"/>
+    <attributes xmi:id="_A_ftQCfVEd2TMNqSrSDvqA" name="idAdreça" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_IpL0wC8jEd2B2_Qp2ULqzg" name="tipus" dataType="CHAR(10)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_ctvFBSfMEd2TMNqSrSDvqA" name="Clave primaria" attributes="_ctl7ECfMEd2TMNqSrSDvqA" relationshipEnds="_H26tgSfUEd2TMNqSrSDvqA _aj4nIS8gEd2B2_Qp2ULqzg _IeSBwS8iEd2B2_Qp2ULqzg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_A_V8QCfVEd2TMNqSrSDvqA" name="Clave externa4" attributes="_A_ftQCfVEd2TMNqSrSDvqA" relationshipEnds="_A_MLQifVEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_lL0EkCfMEd2TMNqSrSDvqA" name="Periodicitat" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_2_P0gSfNEd2TMNqSrSDvqA">
-    <attributes xmi:id="_mG-sUCfMEd2TMNqSrSDvqA" name="idPeriodicitat" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_rQXoACfMEd2TMNqSrSDvqA" name="tipus" dataType="CHAR(5)"/>
-    <attributes xmi:id="_uaBgkCfMEd2TMNqSrSDvqA" name="diaDelMes" dataType="CHAR(5)"/>
+    <attributes xmi:id="_mG-sUCfMEd2TMNqSrSDvqA" name="idPeriodicitat" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_rQXoACfMEd2TMNqSrSDvqA" name="tipus" dataType="CHAR(10)"/>
+    <attributes xmi:id="_uaBgkCfMEd2TMNqSrSDvqA" name="diaDelMes" dataType="CHAR(10)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_mHIdUCfMEd2TMNqSrSDvqA" name="Clave primaria" attributes="_mG-sUCfMEd2TMNqSrSDvqA" relationshipEnds="_2_P0gSfNEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_2_P0gCfNEd2TMNqSrSDvqA" name="Contracte_Periodicitat_FK" relationshipType="NON_IDENTIFYING" existenceOptional="true" owningEntity="_PN01MCfKEd2TMNqSrSDvqA">
@@ -2034,9 +2034,9 @@
     <relationshipEnds xmi:id="_2_P0gifNEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_PN01MCfKEd2TMNqSrSDvqA" key="_2_Y-cCfNEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_jqX1ECfOEd2TMNqSrSDvqA" name="EstatContracte" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_xPyh4SfOEd2TMNqSrSDvqA _z5DqMifOEd2TMNqSrSDvqA" relationships="_z5DqMCfOEd2TMNqSrSDvqA">
-    <attributes xmi:id="_n07xACfOEd2TMNqSrSDvqA" name="idEstatContracte" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_n07xACfOEd2TMNqSrSDvqA" name="idEstatContracte" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_z5NbMCfOEd2TMNqSrSDvqA" name="idContracte" dataType="INTEGER" required="true"/>
-    <attributes xmi:id="_2h4GkCfOEd2TMNqSrSDvqA" name="tipus" dataType="CHAR(5)"/>
+    <attributes xmi:id="_2h4GkCfOEd2TMNqSrSDvqA" name="tipus" dataType="CHAR(10)"/>
     <attributes xmi:id="_31wwUCfOEd2TMNqSrSDvqA" name="data" dataType="DATE"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_n1E68CfOEd2TMNqSrSDvqA" name="Clave primaria" attributes="_n07xACfOEd2TMNqSrSDvqA" relationshipEnds="_xPyh4SfOEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_z5DqMyfOEd2TMNqSrSDvqA" name="Clave externa1" attributes="_z5NbMCfOEd2TMNqSrSDvqA" relationshipEnds="_z5DqMifOEd2TMNqSrSDvqA"/>
@@ -2050,25 +2050,25 @@
     <relationshipEnds xmi:id="_z5DqMifOEd2TMNqSrSDvqA" verbPhrase="Historial" cardinality="ZERO_TO_MANY" entity="_jqX1ECfOEd2TMNqSrSDvqA" key="_z5DqMyfOEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_MZ7_ACfPEd2TMNqSrSDvqA" name="TipusProducte" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_6Cw98SfPEd2TMNqSrSDvqA __UF4MSfQEd2TMNqSrSDvqA">
-    <attributes xmi:id="_NigJkCfPEd2TMNqSrSDvqA" name="idTipusProducte" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_PUpcoCfPEd2TMNqSrSDvqA" name="nom" dataType="CHAR(5)"/>
-    <attributes xmi:id="_P2xSQCfPEd2TMNqSrSDvqA" name="caracteristiques" dataType="CHAR(5)"/>
-    <attributes xmi:id="_S3l-8CfPEd2TMNqSrSDvqA" name="pesEspecific" dataType="CHAR(5)"/>
+    <attributes xmi:id="_NigJkCfPEd2TMNqSrSDvqA" name="idTipusProducte" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_PUpcoCfPEd2TMNqSrSDvqA" name="nom" dataType="CHAR(10)"/>
+    <attributes xmi:id="_P2xSQCfPEd2TMNqSrSDvqA" name="caracteristiques" dataType="CHAR(55)"/>
+    <attributes xmi:id="_S3l-8CfPEd2TMNqSrSDvqA" name="pesEspecific" dataType="INTEGER"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_NigJlifPEd2TMNqSrSDvqA" name="Clave primaria" attributes="_NigJkCfPEd2TMNqSrSDvqA" relationshipEnds="_6Cw98SfPEd2TMNqSrSDvqA __UF4MSfQEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_e6cFwCfPEd2TMNqSrSDvqA" name="TipusEmbalum" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_5M00cSfPEd2TMNqSrSDvqA">
-    <attributes xmi:id="_fqkiMCfPEd2TMNqSrSDvqA" name="idTipusEmbalum" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_kOfZUCfPEd2TMNqSrSDvqA" name="nom" dataType="CHAR(5)"/>
-    <attributes xmi:id="_o2k-wCfPEd2TMNqSrSDvqA" name="quantProductes" dataType="CHAR(5)"/>
-    <attributes xmi:id="_qQ4ZkCfPEd2TMNqSrSDvqA" name="fragiliitat" dataType="CHAR(5)"/>
-    <attributes xmi:id="_rJNvwCfPEd2TMNqSrSDvqA" name="volum" dataType="CHAR(5)"/>
+    <attributes xmi:id="_fqkiMCfPEd2TMNqSrSDvqA" name="idTipusEmbalum" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_kOfZUCfPEd2TMNqSrSDvqA" name="nom" dataType="CHAR(10)"/>
+    <attributes xmi:id="_o2k-wCfPEd2TMNqSrSDvqA" name="quantProductes" dataType="INTEGER"/>
+    <attributes xmi:id="_qQ4ZkCfPEd2TMNqSrSDvqA" name="fragiliitat" dataType="BOOLEAN"/>
+    <attributes xmi:id="_rJNvwCfPEd2TMNqSrSDvqA" name="volum" dataType="INTEGER"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_fquTMCfPEd2TMNqSrSDvqA" name="Clave primaria" attributes="_fqkiMCfPEd2TMNqSrSDvqA" relationshipEnds="_5M00cSfPEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_tGriACfPEd2TMNqSrSDvqA" name="CondicionsEmbalum" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_5M00cifPEd2TMNqSrSDvqA _6Cw98ifPEd2TMNqSrSDvqA _BI1BsifQEd2TMNqSrSDvqA" relationships="_5M00cCfPEd2TMNqSrSDvqA _6Cw98CfPEd2TMNqSrSDvqA _BI1BsCfQEd2TMNqSrSDvqA">
-    <attributes xmi:id="_u5uM8CfPEd2TMNqSrSDvqA" name="idCondicionsEmbalum" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_wXS-MCfPEd2TMNqSrSDvqA" name="quantitatMax" dataType="CHAR(5)"/>
-    <attributes xmi:id="_5NHvYCfPEd2TMNqSrSDvqA" name="idTipusEmbalum" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_6C6u8CfPEd2TMNqSrSDvqA" name="idTipusProducte" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_u5uM8CfPEd2TMNqSrSDvqA" name="idCondicionsEmbalum" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_wXS-MCfPEd2TMNqSrSDvqA" name="quantitatMax" dataType="INTEGER"/>
+    <attributes xmi:id="_5NHvYCfPEd2TMNqSrSDvqA" name="idTipusEmbalum" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_6C6u8CfPEd2TMNqSrSDvqA" name="idTipusProducte" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_BI-LoCfQEd2TMNqSrSDvqA" name="idContracte" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_u53W5SfPEd2TMNqSrSDvqA" name="Clave primaria" attributes="_u5uM8CfPEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_5M9-YCfPEd2TMNqSrSDvqA" name="Clave externa1" attributes="_5NHvYCfPEd2TMNqSrSDvqA" relationshipEnds="_5M00cifPEd2TMNqSrSDvqA"/>
@@ -2088,9 +2088,9 @@
     <relationshipEnds xmi:id="_BI1BsifQEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_tGriACfPEd2TMNqSrSDvqA" key="_BI1BsyfQEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_NlogoCfQEd2TMNqSrSDvqA" name="Ruta" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_jdN38ifQEd2TMNqSrSDvqA _TTgbsS8eEd2B2_Qp2ULqzg _d-uBMi8eEd2B2_Qp2ULqzg _PddaYi8iEd2B2_Qp2ULqzg" relationships="_jdN38CfQEd2TMNqSrSDvqA _d-uBMC8eEd2B2_Qp2ULqzg _PddaYC8iEd2B2_Qp2ULqzg">
-    <attributes xmi:id="_OK4iwCfQEd2TMNqSrSDvqA" name="idRuta" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_jdhZ8CfQEd2TMNqSrSDvqA" name="idVehicle" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_d-uBNC8eEd2B2_Qp2ULqzg" name="idPlanificacioDiaria" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_OK4iwCfQEd2TMNqSrSDvqA" name="idRuta" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_jdhZ8CfQEd2TMNqSrSDvqA" name="idVehicle" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_d-uBNC8eEd2B2_Qp2ULqzg" name="idPlanificacioDiaria" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_PddaZC8iEd2B2_Qp2ULqzg" name="idTransportista" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_OK4ixifQEd2TMNqSrSDvqA" name="Clave primaria" attributes="_OK4iwCfQEd2TMNqSrSDvqA" relationshipEnds="_TTgbsS8eEd2B2_Qp2ULqzg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_jdXo8CfQEd2TMNqSrSDvqA" name="Clave externa1" attributes="_jdhZ8CfQEd2TMNqSrSDvqA" relationshipEnds="_jdN38ifQEd2TMNqSrSDvqA"/>
@@ -2098,13 +2098,13 @@
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_PddaYy8iEd2B2_Qp2ULqzg" name="Clave externa3" attributes="_PddaZC8iEd2B2_Qp2ULqzg" relationshipEnds="_PddaYi8iEd2B2_Qp2ULqzg"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_Sv3J0CfQEd2TMNqSrSDvqA" name="Vehicle" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_jdN38SfQEd2TMNqSrSDvqA _tfMTMifQEd2TMNqSrSDvqA" relationships="_tfMTMCfQEd2TMNqSrSDvqA">
-    <attributes xmi:id="_TSR6YCfQEd2TMNqSrSDvqA" name="idVehicle" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_U10wwCfQEd2TMNqSrSDvqA" name="matricula" dataType="CHAR(5)"/>
-    <attributes xmi:id="_WOfM0CfQEd2TMNqSrSDvqA" name="tara" dataType="CHAR(5)"/>
-    <attributes xmi:id="_XBTw4CfQEd2TMNqSrSDvqA" name="tasa" dataType="CHAR(5)"/>
-    <attributes xmi:id="_XQD-kCfQEd2TMNqSrSDvqA" name="volum" dataType="CHAR(5)"/>
-    <attributes xmi:id="_aI2JkCfQEd2TMNqSrSDvqA" name="alta" dataType="CHAR(5)"/>
-    <attributes xmi:id="_tffOICfQEd2TMNqSrSDvqA" name="idTipusVehicle" dataType="CHAR(5)"/>
+    <attributes xmi:id="_TSR6YCfQEd2TMNqSrSDvqA" name="idVehicle" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_U10wwCfQEd2TMNqSrSDvqA" name="matricula" dataType="CHAR(7)"/>
+    <attributes xmi:id="_WOfM0CfQEd2TMNqSrSDvqA" name="tara" dataType="INTEGER"/>
+    <attributes xmi:id="_XBTw4CfQEd2TMNqSrSDvqA" name="tasa" dataType="INTEGER"/>
+    <attributes xmi:id="_XQD-kCfQEd2TMNqSrSDvqA" name="volum" dataType="INTEGER"/>
+    <attributes xmi:id="_aI2JkCfQEd2TMNqSrSDvqA" name="alta" dataType="BOOLEAN"/>
+    <attributes xmi:id="_tffOICfQEd2TMNqSrSDvqA" name="idTipusVehicle" dataType="INTEGER"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_TSbrYCfQEd2TMNqSrSDvqA" name="Clave primaria" attributes="_TSR6YCfQEd2TMNqSrSDvqA" relationshipEnds="_jdN38SfQEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_tfMTMyfQEd2TMNqSrSDvqA" name="Clave externa1" attributes="_tffOICfQEd2TMNqSrSDvqA" relationshipEnds="_tfMTMifQEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
@@ -2113,8 +2113,8 @@
     <relationshipEnds xmi:id="_jdN38ifQEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_NlogoCfQEd2TMNqSrSDvqA" key="_jdXo8CfQEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_kxHv0CfQEd2TMNqSrSDvqA" name="TipusVehicle" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_tfMTMSfQEd2TMNqSrSDvqA _-fo8cSfQEd2TMNqSrSDvqA">
-    <attributes xmi:id="_lrr6oCfQEd2TMNqSrSDvqA" name="idTipusVehicle" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_q8K80CfQEd2TMNqSrSDvqA" name="nom" dataType="CHAR(5)"/>
+    <attributes xmi:id="_lrr6oCfQEd2TMNqSrSDvqA" name="idTipusVehicle" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_q8K80CfQEd2TMNqSrSDvqA" name="nom" dataType="CHAR(10)"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_lrr6pifQEd2TMNqSrSDvqA" name="Clave primaria" attributes="_lrr6oCfQEd2TMNqSrSDvqA" relationshipEnds="_tfMTMSfQEd2TMNqSrSDvqA _-fo8cSfQEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_tfMTMCfQEd2TMNqSrSDvqA" name="Vehicle_TipusVehicle_FK" relationshipType="NON_IDENTIFYING" existenceOptional="true" owningEntity="_Sv3J0CfQEd2TMNqSrSDvqA">
@@ -2122,9 +2122,9 @@
     <relationshipEnds xmi:id="_tfMTMifQEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_Sv3J0CfQEd2TMNqSrSDvqA" key="_tfMTMyfQEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_uvhSoCfQEd2TMNqSrSDvqA" name="TipusProductePerTipusVehicle" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_-fo8cifQEd2TMNqSrSDvqA __UF4MifQEd2TMNqSrSDvqA" relationships="_-fo8cCfQEd2TMNqSrSDvqA __UF4MCfQEd2TMNqSrSDvqA">
-    <attributes xmi:id="_7reLsCfQEd2TMNqSrSDvqA" name="idTipusProductePerTipusVehicle" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_-f73YCfQEd2TMNqSrSDvqA" name="idTipusVehicle" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="__UPpMCfQEd2TMNqSrSDvqA" name="idTipusProducte" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_7reLsCfQEd2TMNqSrSDvqA" name="idTipusProductePerTipusVehicle" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_-f73YCfQEd2TMNqSrSDvqA" name="idTipusVehicle" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="__UPpMCfQEd2TMNqSrSDvqA" name="idTipusProducte" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_7rn8sSfQEd2TMNqSrSDvqA" name="Clave primaria" attributes="_7reLsCfQEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_-fo8cyfQEd2TMNqSrSDvqA" name="Clave externa1" attributes="_-f73YCfQEd2TMNqSrSDvqA" relationshipEnds="_-fo8cifQEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="__UF4MyfQEd2TMNqSrSDvqA" name="Clave externa2" attributes="__UPpMCfQEd2TMNqSrSDvqA" relationshipEnds="__UF4MifQEd2TMNqSrSDvqA"/>
@@ -2138,19 +2138,19 @@
     <relationshipEnds xmi:id="__UF4MifQEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_uvhSoCfQEd2TMNqSrSDvqA" key="__UF4MyfQEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_TbedMCfREd2TMNqSrSDvqA" name="Tram" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_j0ItsifREd2TMNqSrSDvqA _NUsT4i8eEd2B2_Qp2ULqzg _TTgbsi8eEd2B2_Qp2ULqzg" relationships="_j0ItsCfREd2TMNqSrSDvqA _NUsT4C8eEd2B2_Qp2ULqzg _TTgbsC8eEd2B2_Qp2ULqzg">
-    <attributes xmi:id="_WB7iECfREd2TMNqSrSDvqA" name="idTram" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_j0booCfREd2TMNqSrSDvqA" name="idFitaOrig" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_NU2E4C8eEd2B2_Qp2ULqzg" name="idFitaDesti" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_TTploC8eEd2B2_Qp2ULqzg" name="idRuta" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_WB7iECfREd2TMNqSrSDvqA" name="idTram" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_j0booCfREd2TMNqSrSDvqA" name="idFitaOrig" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_NU2E4C8eEd2B2_Qp2ULqzg" name="idFitaDesti" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_TTploC8eEd2B2_Qp2ULqzg" name="idRuta" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_WCFTECfREd2TMNqSrSDvqA" name="Clave primaria" attributes="_WB7iECfREd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_j0SesCfREd2TMNqSrSDvqA" name="Clave externa1" attributes="_j0booCfREd2TMNqSrSDvqA" relationshipEnds="_j0ItsifREd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_NUsT4y8eEd2B2_Qp2ULqzg" name="Clave externa2" attributes="_NU2E4C8eEd2B2_Qp2ULqzg" relationshipEnds="_NUsT4i8eEd2B2_Qp2ULqzg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_TTgbsy8eEd2B2_Qp2ULqzg" name="Clave externa3" attributes="_TTploC8eEd2B2_Qp2ULqzg" relationshipEnds="_TTgbsi8eEd2B2_Qp2ULqzg"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_Y3lgkCfREd2TMNqSrSDvqA" name="Fita" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_j0ItsSfREd2TMNqSrSDvqA _98v1USfREd2TMNqSrSDvqA _98edoifTEd2TMNqSrSDvqA _7jCroifUEd2TMNqSrSDvqA _NUsT4S8eEd2B2_Qp2ULqzg" relationships="_98edoCfTEd2TMNqSrSDvqA _7jCroCfUEd2TMNqSrSDvqA">
-    <attributes xmi:id="_ZoKo8CfREd2TMNqSrSDvqA" name="idFita" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_98x_oCfTEd2TMNqSrSDvqA" name="idEstatAccioEmbalum" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_7jfXkCfUEd2TMNqSrSDvqA" name="idAdreça" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_ZoKo8CfREd2TMNqSrSDvqA" name="idFita" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_98x_oCfTEd2TMNqSrSDvqA" name="idEstatAccioEmbalum" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_7jfXkCfUEd2TMNqSrSDvqA" name="idAdreça" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_W8cb0C8fEd2B2_Qp2ULqzg" name="temps" dataType="TIME"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_ZoUZ8CfREd2TMNqSrSDvqA" name="Clave primaria" attributes="_ZoKo8CfREd2TMNqSrSDvqA" relationshipEnds="_j0ItsSfREd2TMNqSrSDvqA _98v1USfREd2TMNqSrSDvqA _NUsT4S8eEd2B2_Qp2ULqzg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_98oOoCfTEd2TMNqSrSDvqA" name="Clave externa2" attributes="_98x_oCfTEd2TMNqSrSDvqA" relationshipEnds="_98edoifTEd2TMNqSrSDvqA"/>
@@ -2161,16 +2161,17 @@
     <relationshipEnds xmi:id="_j0ItsifREd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_TbedMCfREd2TMNqSrSDvqA" key="_j0SesCfREd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_rOdxQCfREd2TMNqSrSDvqA" name="Adreça" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_8lH7ESfREd2TMNqSrSDvqA _98v1UifREd2TMNqSrSDvqA _CaH_kSfSEd2TMNqSrSDvqA _7jCroSfUEd2TMNqSrSDvqA _A_MLQSfVEd2TMNqSrSDvqA _C2in4i77Ed2kt-7fPNK39w _E6tfEi77Ed2kt-7fPNK39w _GmS3Ii77Ed2kt-7fPNK39w" relationships="_98v1UCfREd2TMNqSrSDvqA _C2in4C77Ed2kt-7fPNK39w _E6tfEC77Ed2kt-7fPNK39w _GmS3IC77Ed2kt-7fPNK39w">
-    <attributes xmi:id="_r9ah8CfREd2TMNqSrSDvqA" name="carrer" dataType="CHAR(5)"/>
-    <attributes xmi:id="_sMnbkCfREd2TMNqSrSDvqA" name="idAdreça" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_u2fn4CfREd2TMNqSrSDvqA" name="num" dataType="CHAR(5)"/>
+    <attributes xmi:id="_r9ah8CfREd2TMNqSrSDvqA" name="carrer" dataType="CHAR(25)"/>
+    <attributes xmi:id="_sMnbkCfREd2TMNqSrSDvqA" name="idAdreça" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_u2fn4CfREd2TMNqSrSDvqA" name="num" dataType="INTEGER"/>
     <attributes xmi:id="_vsJdgCfREd2TMNqSrSDvqA" name="porta" dataType="CHAR(5)"/>
-    <attributes xmi:id="_wk64kCfREd2TMNqSrSDvqA" name="cp" dataType="CHAR(5)"/>
-    <attributes xmi:id="_C2rx0C77Ed2kt-7fPNK39w" name="idZona" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_E6tfFC77Ed2kt-7fPNK39w" name="idPais" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_GmcoIC77Ed2kt-7fPNK39w" name="idPoblacio" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_wk64kCfREd2TMNqSrSDvqA" name="cp" dataType="INTEGER"/>
+    <attributes xmi:id="_C2rx0C77Ed2kt-7fPNK39w" name="idZona" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_E6tfFC77Ed2kt-7fPNK39w" name="idPais" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_GmcoIC77Ed2kt-7fPNK39w" name="idPoblacio" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_ZdQjMC9VEd2-SphvlX5YdA" name="idFita" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_sMwlgCfREd2TMNqSrSDvqA" name="Clave primaria" attributes="_sMnbkCfREd2TMNqSrSDvqA" relationshipEnds="_8lH7ESfREd2TMNqSrSDvqA _CaH_kSfSEd2TMNqSrSDvqA _7jCroSfUEd2TMNqSrSDvqA _A_MLQSfVEd2TMNqSrSDvqA"/>
-    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_98v1UyfREd2TMNqSrSDvqA" name="Clave externa1" relationshipEnds="_98v1UifREd2TMNqSrSDvqA"/>
+    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_98v1UyfREd2TMNqSrSDvqA" name="Clave externa1" attributes="_ZdQjMC9VEd2-SphvlX5YdA" relationshipEnds="_98v1UifREd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_C2in4y77Ed2kt-7fPNK39w" name="Clave externa2" attributes="_C2rx0C77Ed2kt-7fPNK39w" relationshipEnds="_C2in4i77Ed2kt-7fPNK39w"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_E6tfEy77Ed2kt-7fPNK39w" name="Clave externa3" attributes="_E6tfFC77Ed2kt-7fPNK39w" relationshipEnds="_E6tfEi77Ed2kt-7fPNK39w"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_GmS3Iy77Ed2kt-7fPNK39w" name="Clave externa4" attributes="_GmcoIC77Ed2kt-7fPNK39w" relationshipEnds="_GmS3Ii77Ed2kt-7fPNK39w"/>
@@ -2188,17 +2189,17 @@
     <relationshipEnds xmi:id="_CaH_kifSEd2TMNqSrSDvqA" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_PN01MCfKEd2TMNqSrSDvqA" key="_CaRwkCfSEd2TMNqSrSDvqA"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_JkjJcCfTEd2TMNqSrSDvqA" name="Planificació diaria" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_d-uBMS8eEd2B2_Qp2ULqzg">
-    <attributes xmi:id="_Pk8loCfTEd2TMNqSrSDvqA" name="idPlanificacioDiaria" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_Pk8loCfTEd2TMNqSrSDvqA" name="idPlanificacioDiaria" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_SjXekCfTEd2TMNqSrSDvqA" name="data" dataType="DATE"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_PlGWoCfTEd2TMNqSrSDvqA" name="Clave primaria" attributes="_Pk8loCfTEd2TMNqSrSDvqA" relationshipEnds="_d-uBMS8eEd2B2_Qp2ULqzg"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_jXimYCfTEd2TMNqSrSDvqA" name="EstatAccioEmbalum" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_98edoSfTEd2TMNqSrSDvqA _H26tgifUEd2TMNqSrSDvqA _uRNYQi8eEd2B2_Qp2ULqzg _ygZ8kS8eEd2B2_Qp2ULqzg" relationships="_H26tgCfUEd2TMNqSrSDvqA _uRNYQC8eEd2B2_Qp2ULqzg">
     <attributes xmi:id="_noWUQCfTEd2TMNqSrSDvqA" name="idEstatAccioEmbalum" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_rq2gYCfTEd2TMNqSrSDvqA" name="estat" dataType="CHAR(5)"/>
-    <attributes xmi:id="_1nWlwCfTEd2TMNqSrSDvqA" name="tipusAccio" dataType="CHAR(5)"/>
-    <attributes xmi:id="_H3OPgCfUEd2TMNqSrSDvqA" name="idClient" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_rq2gYCfTEd2TMNqSrSDvqA" name="estat" dataType="CHAR(10)"/>
+    <attributes xmi:id="_1nWlwCfTEd2TMNqSrSDvqA" name="tipusAccio" dataType="CHAR(10)"/>
+    <attributes xmi:id="_H3OPgCfUEd2TMNqSrSDvqA" name="idClient" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_uRNYRC8eEd2B2_Qp2ULqzg" name="idAccioEmbalum" dataType="INTEGER" required="true"/>
-    <attributes xmi:id="_Q0AMFC8hEd2B2_Qp2ULqzg" name="idPersona" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_Q0AMFC8hEd2B2_Qp2ULqzg" name="idPersona" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_nogFRSfTEd2TMNqSrSDvqA" name="Clave primaria" attributes="_noWUQCfTEd2TMNqSrSDvqA" relationshipEnds="_98edoSfTEd2TMNqSrSDvqA _ygZ8kS8eEd2B2_Qp2ULqzg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_H26tgyfUEd2TMNqSrSDvqA" name="Clave externa1" attributes="_H3OPgCfUEd2TMNqSrSDvqA" relationshipEnds="_H26tgifUEd2TMNqSrSDvqA"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_uRNYQy8eEd2B2_Qp2ULqzg" name="Clave externa2" attributes="_uRNYRC8eEd2B2_Qp2ULqzg _Q0AMFC8hEd2B2_Qp2ULqzg" relationshipEnds="_uRNYQi8eEd2B2_Qp2ULqzg"/>
@@ -2234,8 +2235,8 @@
   <LogicalDataModel:Entity xmi:id="_y6lsEC77Ed2kt-7fPNK39w" name="AccioEmbalum" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_-BsD4i8dEd2B2_Qp2ULqzg _uRNYQS8eEd2B2_Qp2ULqzg _ygZ8ki8eEd2B2_Qp2ULqzg _3OT2Ii8eEd2B2_Qp2ULqzg" relationships="_-BsD4C8dEd2B2_Qp2ULqzg _ygZ8kC8eEd2B2_Qp2ULqzg _3OT2IC8eEd2B2_Qp2ULqzg">
     <attributes xmi:id="_lf_2wC8dEd2B2_Qp2ULqzg" name="idAccioEmbalum" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_-B1N0S8dEd2B2_Qp2ULqzg" name="idTipus" dataType="INTEGER" required="true"/>
-    <attributes xmi:id="_ygZ8lC8eEd2B2_Qp2ULqzg" name="idEstatAccioEmbalum" dataType="CHAR(5)" required="true"/>
-    <attributes xmi:id="_3OdAEC8eEd2B2_Qp2ULqzg" name="idEmbalum" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_ygZ8lC8eEd2B2_Qp2ULqzg" name="idEstatAccioEmbalum" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_3OdAEC8eEd2B2_Qp2ULqzg" name="idEmbalum" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_lgJnxS8dEd2B2_Qp2ULqzg" name="Clave primaria" attributes="_lf_2wC8dEd2B2_Qp2ULqzg" relationshipEnds="_uRNYQS8eEd2B2_Qp2ULqzg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_-B1N0C8dEd2B2_Qp2ULqzg" name="Clave externa1" attributes="_-B1N0S8dEd2B2_Qp2ULqzg" relationshipEnds="_-BsD4i8dEd2B2_Qp2ULqzg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_ygZ8ky8eEd2B2_Qp2ULqzg" name="Clave externa2" attributes="_ygZ8lC8eEd2B2_Qp2ULqzg" relationshipEnds="_ygZ8ki8eEd2B2_Qp2ULqzg"/>
@@ -2278,7 +2279,7 @@
   <LogicalDataModel:Entity xmi:id="_HiTzoC8gEd2B2_Qp2ULqzg" name="Client" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_aj4nIi8gEd2B2_Qp2ULqzg _ivgkwS8gEd2B2_Qp2ULqzg _kMWWMS8gEd2B2_Qp2ULqzg" relationships="_aj4nIC8gEd2B2_Qp2ULqzg">
     <attributes xmi:id="_PEXP0C8gEd2B2_Qp2ULqzg" name="idClient" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_QtRHUC8gEd2B2_Qp2ULqzg" name="codiClient" dataType="VARCHAR"/>
-    <attributes xmi:id="_aj4nJC8gEd2B2_Qp2ULqzg" name="idPersona" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_aj4nJC8gEd2B2_Qp2ULqzg" name="idPersona" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_PEXP1i8gEd2B2_Qp2ULqzg" name="Clave primaria" attributes="_PEXP0C8gEd2B2_Qp2ULqzg" relationshipEnds="_ivgkwS8gEd2B2_Qp2ULqzg _kMWWMS8gEd2B2_Qp2ULqzg"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_aj4nIy8gEd2B2_Qp2ULqzg" name="Clave externa1" attributes="_aj4nJC8gEd2B2_Qp2ULqzg" relationshipEnds="_aj4nIi8gEd2B2_Qp2ULqzg"/>
   </LogicalDataModel:Entity>
@@ -2295,7 +2296,7 @@
     <relationshipEnds xmi:id="_ivgkwi8gEd2B2_Qp2ULqzg" verbPhrase="Verbo1" cardinality="ZERO_TO_MANY" entity="_PN01MCfKEd2TMNqSrSDvqA" key="_ivgkwy8gEd2B2_Qp2ULqzg"/>
   </LogicalDataModel:Relationship>
   <LogicalDataModel:Entity xmi:id="_FZR_sC8iEd2B2_Qp2ULqzg" name="Transportista" package="_SpCNwIHtEdmHV4E5KW4UXw" relationshipEnds="_IeSBwi8iEd2B2_Qp2ULqzg _PddaYS8iEd2B2_Qp2ULqzg" relationships="_IeSBwC8iEd2B2_Qp2ULqzg">
-    <attributes xmi:id="_IebLsS8iEd2B2_Qp2ULqzg" name="idPersona" dataType="CHAR(5)" required="true"/>
+    <attributes xmi:id="_IebLsS8iEd2B2_Qp2ULqzg" name="idPersona" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_JoMQIC8iEd2B2_Qp2ULqzg" name="idTransportista" dataType="INTEGER" required="true"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_IebLsC8iEd2B2_Qp2ULqzg" name="Clave externa1" attributes="_IebLsS8iEd2B2_Qp2ULqzg" relationshipEnds="_IeSBwi8iEd2B2_Qp2ULqzg"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_JoMQJi8iEd2B2_Qp2ULqzg" name="Clave primaria" attributes="_JoMQIC8iEd2B2_Qp2ULqzg" relationshipEnds="_PddaYS8iEd2B2_Qp2ULqzg"/>
