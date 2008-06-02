@@ -12173,7 +12173,7 @@
                 <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_Zzng4CDHEd2QC6lTKoXgfA"/>
               </children>
               <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_Zzng0iDHEd2QC6lTKoXgfA" showStereotype="Image"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zzng0yDHEd2QC6lTKoXgfA" x="22191" y="6235"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zzng0yDHEd2QC6lTKoXgfA" x="22190" y="8242"/>
             </children>
             <children xmi:id="_GBVWwCFDEd2HO4akhfXL1w" element="_FVrxsCFDEd2HO4akhfXL1w">
               <children xmi:id="_GBVWwyFDEd2HO4akhfXL1w" type="ImageCompartment">
@@ -12224,7 +12224,7 @@
                 <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="_btu0LzAdEd2H6--38M9UYg"/>
               </children>
               <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_btu0ITAdEd2H6--38M9UYg" showStereotype="Image"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_btu0IjAdEd2H6--38M9UYg" x="21801" y="3571"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_btu0IjAdEd2H6--38M9UYg" x="21801" y="4417"/>
             </children>
             <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="__oQRgSBVEd2BP-STTkafEQ"/>
             <element xsi:nil="true"/>
