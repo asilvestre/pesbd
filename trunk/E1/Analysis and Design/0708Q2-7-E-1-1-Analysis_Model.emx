@@ -17000,52 +17000,6 @@
           <generalization xmi:id="_XQ-2oP82Edy9otTkNyh1Pw" general="_2hI8UP81Edy9otTkNyh1Pw"/>
           <ownedAttribute xmi:id="_Fg8uEP83Edy9otTkNyh1Pw" name="data" visibility="private" type="_Jz9AYPt-EdyQTa0fFLYTBQ" association="_FgzkIP83Edy9otTkNyh1Pw"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:Class" xmi:id="_1tSSAP57Edyd_P-MLeI04w" name="Adreça">
-          <generalization xmi:id="_P3vMsP58Edyd_P-MLeI04w" general="_nQmZoPnTEdyli_XzYLJ9YQ"/>
-          <ownedAttribute xmi:id="_BlC1Av8-Edy9otTkNyh1Pw" name="fita" visibility="private" type="_YC5s8Pm-Edyli_XzYLJ9YQ" association="_BlC1AP8-Edy9otTkNyh1Pw">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DCecUf8-Edy9otTkNyh1Pw" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DCecUP8-Edy9otTkNyh1Pw"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_juijQP_VEdy3S9OQsgmyKQ" name="pertany" visibility="private" type="_WA9Q0P9EEdy9otTkNyh1Pw" association="_juZZUP_VEdy3S9OQsgmyKQ">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qdMzof_VEdy3S9OQsgmyKQ" value="1"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qdMzoP_VEdy3S9OQsgmyKQ"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_-1_RsP_VEdy3S9OQsgmyKQ" name="Carrer" visibility="private"/>
-          <ownedAttribute xmi:id="_AYV1QP_WEdy3S9OQsgmyKQ" name="Número" visibility="private"/>
-          <ownedAttribute xmi:id="_Bc4bcP_WEdy3S9OQsgmyKQ" name="Porta" visibility="private"/>
-          <ownedAttribute xmi:id="_teJ2oQJbEd2iV-WQu0z7XQ" name="client" visibility="private" type="_y_7_UPm3Edyli_XzYLJ9YQ" association="_td27sAJbEd2iV-WQu0z7XQ">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_uWxgsAJbEd2iV-WQu0z7XQ" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_uWoWwAJbEd2iV-WQu0z7XQ"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_ZzxPUQJeEd2iV-WQu0z7XQ" name="comanda" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_ZzxPUAJeEd2iV-WQu0z7XQ">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ikihYQJeEd2iV-WQu0z7XQ" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ikihYAJeEd2iV-WQu0z7XQ"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_kvy4AQJeEd2iV-WQu0z7XQ" name="comanda2" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_kvy4AAJeEd2iV-WQu0z7XQ">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_nzNlsQJeEd2iV-WQu0z7XQ" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_nzNlsAJeEd2iV-WQu0z7XQ"/>
-          </ownedAttribute>
-          <ownedAttribute xmi:id="_j9EvsAJgEd2iV-WQu0z7XQ" name="embalum comanda" visibility="private" type="_w_LbkADVEd28FtcncL3_MQ" association="_j86-sAJgEd2iV-WQu0z7XQ">
-            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qhsTQQJgEd2iV-WQu0z7XQ" value="*"/>
-            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qhsTQAJgEd2iV-WQu0z7XQ"/>
-          </ownedAttribute>
-          <ownedOperation xmi:id="_L6dxcCIAEd2AX46NLcxjVA" name="eliminarComanda">
-            <ownedParameter xmi:id="_zWtSQCyIEd21SeqZODTf0Q" name="comanda">
-              <type xmi:type="uml:Interface" href="0708Q2-7-E-1-2-Design_Model.emx#_6S_FoCXqEd2w77SGMUcvww?Design%20Model/Capa%20Dades/entGestioComandesContractes/Comanda?"/>
-            </ownedParameter>
-          </ownedOperation>
-          <ownedOperation xmi:id="_Hj3yMCRREd2275m_HVu1pQ" name="getAdreça">
-            <ownedParameter xmi:id="_xo66gCXUEd2bD9UxYkKmRA" name="Porta" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="_yE_ygCXUEd2bD9UxYkKmRA" name="Numero" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-            <ownedParameter xmi:id="_pCG1sCXUEd2bD9UxYkKmRA" name="Carrer" direction="return">
-              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-            </ownedParameter>
-          </ownedOperation>
-        </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_e7-rUPnDEdyli_XzYLJ9YQ" name="Comanda">
           <ownedAttribute xmi:id="_e4lxYfnJEdyli_XzYLJ9YQ" name="factura" visibility="private" type="_dnO3MPnJEdyli_XzYLJ9YQ" association="_e4lxYPnJEdyli_XzYLJ9YQ">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gBTs8fnJEdyli_XzYLJ9YQ" value="1"/>
@@ -17265,6 +17219,52 @@
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_Rbv6ACJTEd2ReLvUHik7JQ" name="entGestioClients">
         <eAnnotations xmi:id="_Rbv6ASJTEd2ReLvUHik7JQ" source="uml2.diagrams"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_1tSSAP57Edyd_P-MLeI04w" name="Adreça">
+          <generalization xmi:id="_P3vMsP58Edyd_P-MLeI04w" general="_nQmZoPnTEdyli_XzYLJ9YQ"/>
+          <ownedAttribute xmi:id="_BlC1Av8-Edy9otTkNyh1Pw" name="fita" visibility="private" type="_YC5s8Pm-Edyli_XzYLJ9YQ" association="_BlC1AP8-Edy9otTkNyh1Pw">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_DCecUf8-Edy9otTkNyh1Pw" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_DCecUP8-Edy9otTkNyh1Pw"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_juijQP_VEdy3S9OQsgmyKQ" name="pertany" visibility="private" type="_WA9Q0P9EEdy9otTkNyh1Pw" association="_juZZUP_VEdy3S9OQsgmyKQ">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qdMzof_VEdy3S9OQsgmyKQ" value="1"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qdMzoP_VEdy3S9OQsgmyKQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_-1_RsP_VEdy3S9OQsgmyKQ" name="Carrer" visibility="private"/>
+          <ownedAttribute xmi:id="_AYV1QP_WEdy3S9OQsgmyKQ" name="Número" visibility="private"/>
+          <ownedAttribute xmi:id="_Bc4bcP_WEdy3S9OQsgmyKQ" name="Porta" visibility="private"/>
+          <ownedAttribute xmi:id="_teJ2oQJbEd2iV-WQu0z7XQ" name="client" visibility="private" type="_y_7_UPm3Edyli_XzYLJ9YQ" association="_td27sAJbEd2iV-WQu0z7XQ">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_uWxgsAJbEd2iV-WQu0z7XQ" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_uWoWwAJbEd2iV-WQu0z7XQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_ZzxPUQJeEd2iV-WQu0z7XQ" name="comanda" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_ZzxPUAJeEd2iV-WQu0z7XQ">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ikihYQJeEd2iV-WQu0z7XQ" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ikihYAJeEd2iV-WQu0z7XQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_kvy4AQJeEd2iV-WQu0z7XQ" name="comanda2" visibility="private" type="_e7-rUPnDEdyli_XzYLJ9YQ" association="_kvy4AAJeEd2iV-WQu0z7XQ">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_nzNlsQJeEd2iV-WQu0z7XQ" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_nzNlsAJeEd2iV-WQu0z7XQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_j9EvsAJgEd2iV-WQu0z7XQ" name="embalum comanda" visibility="private" type="_w_LbkADVEd28FtcncL3_MQ" association="_j86-sAJgEd2iV-WQu0z7XQ">
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qhsTQQJgEd2iV-WQu0z7XQ" value="*"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qhsTQAJgEd2iV-WQu0z7XQ"/>
+          </ownedAttribute>
+          <ownedOperation xmi:id="_L6dxcCIAEd2AX46NLcxjVA" name="eliminarComanda">
+            <ownedParameter xmi:id="_zWtSQCyIEd21SeqZODTf0Q" name="comanda">
+              <type xmi:type="uml:Interface" href="0708Q2-7-E-1-2-Design_Model.emx#_6S_FoCXqEd2w77SGMUcvww?Design%20Model/Capa%20Dades/entGestioComandesContractes/Comanda?"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_Hj3yMCRREd2275m_HVu1pQ" name="getAdreça">
+            <ownedParameter xmi:id="_xo66gCXUEd2bD9UxYkKmRA" name="Porta" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_yE_ygCXUEd2bD9UxYkKmRA" name="Numero" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_pCG1sCXUEd2bD9UxYkKmRA" name="Carrer" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+        </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_F9dE0AJhEd2iV-WQu0z7XQ" name="Reclamació">
           <ownedAttribute xmi:id="_PK-kUAJhEd2iV-WQu0z7XQ" name="Concepte" visibility="private"/>
           <ownedAttribute xmi:id="_bYV5EAJhEd2iV-WQu0z7XQ" name="Resolta?" visibility="private"/>
