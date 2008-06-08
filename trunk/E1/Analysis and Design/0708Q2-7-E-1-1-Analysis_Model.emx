@@ -17408,7 +17408,7 @@
           </ownedOperation>
           <ownedOperation xmi:id="_bOELcClgEd2_g-92KDgBsQ" name="associarVehicle" visibility="public">
             <ownedParameter xmi:id="_7KS0gCmBEd2_g-92KDgBsQ" name="vehicle">
-              <type xmi:type="uml:Class" href="0708Q2-7-E-1-2-Design_Model.emx#_Zo43gCDHEd2QC6lTKoXgfA?Design%20Model/Capa%20Dades/entSistemaPlanificacio/Vehicle?"/>
+              <type xmi:type="uml:Class" href="0708Q2-7-E-1-2-Design_Model.emx#_Zo43gCDHEd2QC6lTKoXgfA?Design%20Model/Capa%20Dades/entSistemaPlanificacio/VehicleBean?"/>
             </ownedParameter>
           </ownedOperation>
         </packagedElement>
